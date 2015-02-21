@@ -1,0 +1,4031 @@
+Tipo de Imovel;Cidade;Bairro;Metro Quadrado;Amostra
+apartamento;belford roxo;amelia;2000;1
+apartamento;belford roxo;andrade araujo;2000;1
+apartamento;belford roxo;areia branca;2000;1
+apartamento;belford roxo;babi;2720;4
+apartamento;belford roxo;belford roxo;0;0
+apartamento;belford roxo;boa esperanca;0;0
+apartamento;belford roxo;boa ventura;2353;13
+apartamento;belford roxo;buriti;0;0
+apartamento;belford roxo;centro;0;0
+apartamento;belford roxo;ch sto antonio;0;0
+apartamento;belford roxo;gracas;0;0
+apartamento;belford roxo;heliopolis;0;0
+apartamento;belford roxo;hiterland;0;0
+apartamento;belford roxo;indeterminado;0;0
+apartamento;belford roxo;itaipu;0;0
+apartamento;belford roxo;jd almo;0;0
+apartamento;belford roxo;jd bom pastor;0;0
+apartamento;belford roxo;jd dimas filho;1909;2
+apartamento;belford roxo;jd glaucia;0;0
+apartamento;belford roxo;jd redentor;0;0
+apartamento;belford roxo;jd sta marta;0;0
+apartamento;belford roxo;lot xv;0;0
+apartamento;belford roxo;lote xv;0;0
+apartamento;belford roxo;nova aurora;0;0
+apartamento;belford roxo;piam;1969;2
+apartamento;belford roxo;pq amorim;2250;1
+apartamento;belford roxo;pq esperanca;0;0
+apartamento;belford roxo;pq floresta;0;0
+apartamento;belford roxo;pq martinho;0;0
+apartamento;belford roxo;pq s bernardo;0;0
+apartamento;belford roxo;pq s jose;0;0
+apartamento;belford roxo;pq s vicente;0;0
+apartamento;belford roxo;pq santa amelia;0;0
+apartamento;belford roxo;pq saxonia;0;0
+apartamento;belford roxo;pq sta amelia;0;0
+apartamento;belford roxo;prata;0;0
+apartamento;belford roxo;rocha sobrinho;0;0
+apartamento;belford roxo;s bernardo;0;0
+apartamento;belford roxo;s jorge;0;0
+apartamento;belford roxo;sta cecilia;0;0
+apartamento;belford roxo;sta maria;0;0
+apartamento;belford roxo;sublime;0;0
+apartamento;belford roxo;vergel dos felix;0;0
+apartamento;belford roxo;vl dagmar;0;0
+apartamento;belford roxo;vl entre rios;3444;1
+apartamento;belford roxo;vl joao lima;0;0
+apartamento;belford roxo;vl madalena;0;0
+apartamento;belford roxo;vl medeiros;0;0
+apartamento;belford roxo;vl pauline;0;0
+apartamento;belford roxo;vl r novo;0;0
+apartamento;belford roxo;vl s luis;0;0
+apartamento;belford roxo;vl s teodoro;0;0
+apartamento;belford roxo;vl sto antonio da prata;0;0
+apartamento;belford roxo;vl verde;0;0
+apartamento;belford roxo;vl vitorio;0;0
+apartamento;cachoeiras de macacu;boca do mato;0;0
+apartamento;cachoeiras de macacu;centro;0;0
+apartamento;cachoeiras de macacu;indeterminado;0;0
+apartamento;cachoeiras de macacu;papucaia;0;0
+apartamento;cachoeiras de macacu;zona rural;0;0
+apartamento;duque de caxias;barro branco;0;0
+apartamento;duque de caxias;centro;0;0
+apartamento;duque de caxias;ch arcampo;0;0
+apartamento;duque de caxias;ch maria helena;0;0
+apartamento;duque de caxias;ch riopetropolis;0;0
+apartamento;duque de caxias;chac rio petropolis;0;0
+apartamento;duque de caxias;chac riopetropolis;0;0
+apartamento;duque de caxias;chacrinha;0;0
+apartamento;duque de caxias;circular;0;0
+apartamento;duque de caxias;divino;0;0
+apartamento;duque de caxias;dr laureano;0;0
+apartamento;duque de caxias;engenho do porto;0;0
+apartamento;duque de caxias;gramacho;0;0
+apartamento;duque de caxias;imbarie;0;0
+apartamento;duque de caxias;indeterminado;0;0
+apartamento;duque de caxias;itatiaia;0;0
+apartamento;duque de caxias;jd 25 de agosto;0;0
+apartamento;duque de caxias;jd anhanga;0;0
+apartamento;duque de caxias;jd gramacho;0;0
+apartamento;duque de caxias;jd imbarie;0;0
+apartamento;duque de caxias;jd leal;0;0
+apartamento;duque de caxias;jd olavo bilac;0;0
+apartamento;duque de caxias;jd olimpo;0;0
+apartamento;duque de caxias;jd panama;0;0
+apartamento;duque de caxias;jd primavera;0;0
+apartamento;duque de caxias;jd vinte e cinco de agosto;0;0
+apartamento;duque de caxias;mantiquira;0;0
+apartamento;duque de caxias;nova campinas;0;0
+apartamento;duque de caxias;pq barao do amapa;0;0
+apartamento;duque de caxias;pq beira mar;0;0
+apartamento;duque de caxias;pq boa vista i;0;0
+apartamento;duque de caxias;pq boa vista ii;0;0
+apartamento;duque de caxias;pq capivari;0;0
+apartamento;duque de caxias;pq centenario;0;0
+apartamento;duque de caxias;pq duque de caxias;0;0
+apartamento;duque de caxias;pq eldorado;0;0
+apartamento;duque de caxias;pq equitativa;0;0
+apartamento;duque de caxias;pq esperanca;0;0
+apartamento;duque de caxias;pq felicidade;0;0
+apartamento;duque de caxias;pq fluminense;0;0
+apartamento;duque de caxias;pq imperio;0;0
+apartamento;duque de caxias;pq independencia;0;0
+apartamento;duque de caxias;pq joao pessoa;0;0
+apartamento;duque de caxias;pq lafaiete;0;0
+apartamento;duque de caxias;pq laguna e dourados;0;0
+apartamento;duque de caxias;pq muisa;0;0
+apartamento;duque de caxias;pq nova esperanca;0;0
+apartamento;duque de caxias;pq pauliceia;0;0
+apartamento;duque de caxias;pq paulista;0;0
+apartamento;duque de caxias;pq senhor do bonfim;0;0
+apartamento;duque de caxias;pq sta lucia;0;0
+apartamento;duque de caxias;pq uruguaiana;0;0
+apartamento;duque de caxias;pq vitoria;0;0
+apartamento;duque de caxias;pq xerem;0;0
+apartamento;duque de caxias;s bento;0;0
+apartamento;duque de caxias;saracuruna;0;0
+apartamento;duque de caxias;sarapui;0;0
+apartamento;duque de caxias;sta lucia;0;0
+apartamento;duque de caxias;sto antonio;0;0
+apartamento;duque de caxias;taquara;0;0
+apartamento;duque de caxias;v actura;0;0
+apartamento;duque de caxias;v s joao;0;0
+apartamento;duque de caxias;v s judas tadeu;0;0
+apartamento;duque de caxias;v s luis;0;0
+apartamento;duque de caxias;v s sebastiao;0;0
+apartamento;duque de caxias;v sao luis;0;0
+apartamento;duque de caxias;v sta cruz;0;0
+apartamento;duque de caxias;v sto antonio;0;0
+apartamento;duque de caxias;vl actura;0;0
+apartamento;duque de caxias;vl bela vista;0;0
+apartamento;duque de caxias;vl canaan;0;0
+apartamento;duque de caxias;vl centenario;0;0
+apartamento;duque de caxias;vl ema;0;0
+apartamento;duque de caxias;vl guanabara;0;0
+apartamento;duque de caxias;vl ideal;0;0
+apartamento;duque de caxias;vl itamarati;0;0
+apartamento;duque de caxias;vl leopoldina;0;0
+apartamento;duque de caxias;vl maria helena;0;0
+apartamento;duque de caxias;vl meriti;0;0
+apartamento;duque de caxias;vl oito de maio;0;0
+apartamento;duque de caxias;vl paula;0;0
+apartamento;duque de caxias;vl rosario;0;0
+apartamento;duque de caxias;vl s luis;0;0
+apartamento;duque de caxias;vl s sebastiao;0;0
+apartamento;duque de caxias;vl sarapui;0;0
+apartamento;duque de caxias;vl sta alice;0;0
+apartamento;duque de caxias;vl sta cruz;0;0
+apartamento;duque de caxias;xerem;0;0
+apartamento;guapimirim;centro;0;0
+apartamento;guapimirim;indeterminado;0;0
+apartamento;guapimirim;zona rural;0;0
+apartamento;itaborai;aldeia da prata (manilha);0;0
+apartamento;itaborai;ampliacao;0;0
+apartamento;itaborai;areal;0;0
+apartamento;itaborai;bela vista;0;0
+apartamento;itaborai;bonfim;0;0
+apartamento;itaborai;caluge;0;0
+apartamento;itaborai;centro;0;0
+apartamento;itaborai;ch bela vista;0;0
+apartamento;itaborai;gebara (itambi);0;0
+apartamento;itaborai;indeterminado;0;0
+apartamento;itaborai;jd imperial;0;0
+apartamento;itaborai;joaquim de oliveira;0;0
+apartamento;itaborai;manilha;0;0
+apartamento;itaborai;marambaia;0;0
+apartamento;itaborai;monte verde (manilha);0;0
+apartamento;itaborai;nancilandia;0;0
+apartamento;itaborai;nova cidade;0;0
+apartamento;itaborai;outeiro das pedras;0;0
+apartamento;itaborai;quissama;0;0
+apartamento;itaborai;retiro s joaquim;0;0
+apartamento;itaborai;rio varzea;0;0
+apartamento;itaborai;s jose;0;0
+apartamento;itaborai;sossego;0;0
+apartamento;itaborai;sto expedito;0;0
+apartamento;itaborai;tangua;0;0
+apartamento;itaborai;tres pontes;0;0
+apartamento;itaborai;venda das pedras;0;0
+apartamento;itaborai;visconde de itaborai;0;0
+apartamento;itaborai;zona rural;0;0
+apartamento;itaguai;aguas lindas;0;0
+apartamento;itaguai;brisa mar;0;0
+apartamento;itaguai;california;0;0
+apartamento;itaguai;centro;0;0
+apartamento;itaguai;chapero;0;0
+apartamento;itaguai;cid industrial;0;0
+apartamento;itaguai;coroa grande;0;0
+apartamento;itaguai;engenho;0;0
+apartamento;itaguai;ibirapitanga;0;0
+apartamento;itaguai;ibituporanga;0;0
+apartamento;itaguai;ilha da madeira;0;0
+apartamento;itaguai;indeterminado;0;0
+apartamento;itaguai;jd america;0;0
+apartamento;itaguai;jd laia;6632;1
+apartamento;itaguai;jd veda;0;0
+apartamento;itaguai;leandro;0;0
+apartamento;itaguai;monte serrat;0;0
+apartamento;itaguai;piranema;0;0
+apartamento;itaguai;pq independencia;0;0
+apartamento;itaguai;pq paraiso;0;0
+apartamento;itaguai;pq primavera;0;0
+apartamento;itaguai;sta candida;0;0
+apartamento;itaguai;teixeiras;0;0
+apartamento;itaguai;vl geny;0;0
+apartamento;itaguai;vl ibirapitanga;0;0
+apartamento;itaguai;vl margarida;0;0
+apartamento;japeri;japeri;0;0
+apartamento;mage;centro;2269;2
+apartamento;mage;indeterminado;2269;2
+apartamento;mage;zona rural;2269;2
+apartamento;mangaratiba;centro;2269;2
+apartamento;mangaratiba;conceicao de jacarei;6286;3
+apartamento;mangaratiba;indeterminado;7324;20
+apartamento;mangaratiba;itacuruca;9200;2
+apartamento;mangaratiba;itacurussa;6315;2
+apartamento;mangaratiba;muriqui;0;0
+apartamento;mangaratiba;praia grande;2619;3
+apartamento;mangaratiba;sahy;0;0
+apartamento;marica;aracatiba;5036;6
+apartamento;marica;bal bambui (ponta negra);0;0
+apartamento;marica;barra de marica;0;0
+apartamento;marica;barroco (itaipuacu);2500;1
+apartamento;marica;caju (ponta negra);3010;5
+apartamento;marica;cajueiros;0;0
+apartamento;marica;cajueiros (itaipuacu);0;0
+apartamento;marica;caxito;0;0
+apartamento;marica;centro;3455;1
+apartamento;marica;ch de inoa;3108;43
+apartamento;marica;ch rincao mimoso;2668;18
+apartamento;marica;cid nova;0;0
+apartamento;marica;condado de marica;0;0
+apartamento;marica;cordeirinho;0;0
+apartamento;marica;espraiado (ponta negra);0;0
+apartamento;marica;flamengo;0;0
+apartamento;marica;guaratiba;2647;1
+apartamento;marica;indeterminado;3716;1
+apartamento;marica;inoa;3421;1
+apartamento;marica;itaipuacu;3421;1
+apartamento;marica;itaocaia valley;2846;35
+apartamento;marica;itapeba;0;0
+apartamento;marica;jacaroa;2295;1
+apartamento;marica;jacone (pte negra);0;0
+apartamento;marica;jd atlantico;0;0
+apartamento;marica;marques de marica;3032;5
+apartamento;marica;mumbuca;2485;1
+apartamento;marica;pedreiras;3704;18
+apartamento;marica;ponta grossa;0;0
+apartamento;marica;ponta negra;0;0
+apartamento;marica;pq nanci;3185;2
+apartamento;marica;recanto;0;0
+apartamento;marica;retiro;0;0
+apartamento;marica;s bento da lagoa;0;0
+apartamento;marica;s jose do imbassai;0;0
+apartamento;marica;ubatiba;2810;7
+apartamento;marica;vale da figueira (ponta negra);0;0
+apartamento;marica;vivendas de itaipuacu;0;0
+apartamento;mesquita;banco de areia;0;0
+apartamento;mesquita;centro;0;0
+apartamento;mesquita;cosmorama;2967;2
+apartamento;mesquita;edison passos;2623;1
+apartamento;mesquita;indeterminado;0;0
+apartamento;mesquita;jacutinga;0;0
+apartamento;mesquita;presid juscelino;0;0
+apartamento;mesquita;rocha sobrinho;5414;2
+apartamento;mesquita;sta teresinha;0;0
+apartamento;mesquita;sto elias;0;0
+apartamento;nilopolis;cabral;0;0
+apartamento;nilopolis;cabuis;0;0
+apartamento;nilopolis;centro;0;0
+apartamento;nilopolis;chatuba;0;0
+apartamento;nilopolis;indeterminado;0;0
+apartamento;nilopolis;nova cidade;0;0
+apartamento;nilopolis;olinda;0;0
+apartamento;nilopolis;paiol de polvora;0;0
+apartamento;niteroi;atalaia;0;0
+apartamento;niteroi;badu;5804;66
+apartamento;niteroi;baldeador;5804;66
+apartamento;niteroi;barreto;4390;4
+apartamento;niteroi;beltrao;4908;150
+apartamento;niteroi;boa viagem;0;0
+apartamento;niteroi;cafuba;9313;137
+apartamento;niteroi;camboinhas;0;0
+apartamento;niteroi;cantagalo;7449;165
+apartamento;niteroi;caramujo;6366;2
+apartamento;niteroi;centro;0;0
+apartamento;niteroi;charitas;6024;336
+apartamento;niteroi;cid nova;9350;211
+apartamento;niteroi;cubango;9350;211
+apartamento;niteroi;engenho do mato;4467;1
+apartamento;niteroi;engenhoca;5344;2
+apartamento;niteroi;fatima;4245;7
+apartamento;niteroi;figueira;6325;47
+apartamento;niteroi;fonseca;5620;1
+apartamento;niteroi;gragoata;4692;483
+apartamento;niteroi;icarai;8271;44
+apartamento;niteroi;ilha da conceicao;8327;4.051
+apartamento;niteroi;indeterminado;0;0
+apartamento;niteroi;inga;6472;30
+apartamento;niteroi;itacoatiara;7514;512
+apartamento;niteroi;itaipu;6109;94
+apartamento;niteroi;ititioca;5750;176
+apartamento;niteroi;jacare;0;0
+apartamento;niteroi;jd fazendinha;0;0
+apartamento;niteroi;jd imbui;0;0
+apartamento;niteroi;jurujuba;10000;1
+apartamento;niteroi;largo da batalha;10000;1
+apartamento;niteroi;largo do barradas;5079;3
+apartamento;niteroi;lot engenho do mato;4588;43
+apartamento;niteroi;lot maravista;0;0
+apartamento;niteroi;maceio;0;0
+apartamento;niteroi;maralegre;5112;36
+apartamento;niteroi;maravista;0;0
+apartamento;niteroi;marazul;0;0
+apartamento;niteroi;maria paula;0;0
+apartamento;niteroi;martins torres;4627;38
+apartamento;niteroi;mata paca;0;0
+apartamento;niteroi;matapaca;0;0
+apartamento;niteroi;niteroi;0;0
+apartamento;niteroi;pe pequeno;7919;9
+apartamento;niteroi;pendotiba;6973;9
+apartamento;niteroi;piratininga;5457;210
+apartamento;niteroi;ponta d areia;4634;4
+apartamento;niteroi;ponta da areia;4634;4
+apartamento;niteroi;ponta dareia;6209;5
+apartamento;niteroi;ponto cem reis;0;0
+apartamento;niteroi;rio do ouro;0;0
+apartamento;niteroi;rio do ouro e varzea das mocas;3115;4
+apartamento;niteroi;s domingos;0;0
+apartamento;niteroi;s francisco;6592;50
+apartamento;niteroi;s lourenco;8594;233
+apartamento;niteroi;santa rosa;5278;8
+apartamento;niteroi;santana;0;0
+apartamento;niteroi;sao francisco;4545;1
+apartamento;niteroi;sao lourenco;0;0
+apartamento;niteroi;sape;0;0
+apartamento;niteroi;sape e vl progresso;3948;15
+apartamento;niteroi;sta barbara;0;0
+apartamento;niteroi;sta rosa;0;0
+apartamento;niteroi;sto antonio;6554;1.251
+apartamento;niteroi;sto antonio e serra grande;7222;1
+apartamento;niteroi;teixeira de freitas;0;0
+apartamento;niteroi;tenente jardim;0;0
+apartamento;niteroi;varzea das mocas;3424;3
+apartamento;niteroi;venda da cruz;4947;15
+apartamento;niteroi;vital brasil;0;0
+apartamento;niteroi;vl progresso;7115;100
+apartamento;nova iguacu;adrianopolis;0;0
+apartamento;nova iguacu;aero clube;0;0
+apartamento;nova iguacu;alto da posse;2778;1
+apartamento;nova iguacu;alvarez;0;0
+apartamento;nova iguacu;ambai;3663;1
+apartamento;nova iguacu;andrade araujo;2267;1
+apartamento;nova iguacu;austin;0;0
+apartamento;nova iguacu;barao de amapa;0;0
+apartamento;nova iguacu;bela vista;0;0
+apartamento;nova iguacu;boa esperanca;0;0
+apartamento;nova iguacu;botafogo;0;0
+apartamento;nova iguacu;cabucu;14722;2
+apartamento;nova iguacu;caioaba;0;0
+apartamento;nova iguacu;california;0;0
+apartamento;nova iguacu;caonde;3000;2
+apartamento;nova iguacu;caonze;0;0
+apartamento;nova iguacu;carmari;3569;3
+apartamento;nova iguacu;carolina;0;0
+apartamento;nova iguacu;centro;0;0
+apartamento;nova iguacu;ceramica;5357;115
+apartamento;nova iguacu;chacrinha;0;0
+apartamento;nova iguacu;chique;0;0
+apartamento;nova iguacu;cid jardim cabucu;0;0
+apartamento;nova iguacu;cid jd cabucu;0;0
+apartamento;nova iguacu;cid jd pq estoril;0;0
+apartamento;nova iguacu;comendador soares;0;0
+apartamento;nova iguacu;cruzeiro do sul;3611;2
+apartamento;nova iguacu;cuiaba;0;0
+apartamento;nova iguacu;dom rodrigo;0;0
+apartamento;nova iguacu;edison passos;0;0
+apartamento;nova iguacu;eng rocha freire;0;0
+apartamento;nova iguacu;essolandia;0;0
+apartamento;nova iguacu;fe;0;0
+apartamento;nova iguacu;figueiras;0;0
+apartamento;nova iguacu;floresta;0;0
+apartamento;nova iguacu;grande rio;0;0
+apartamento;nova iguacu;imperador;0;0
+apartamento;nova iguacu;inconfidencia;0;0
+apartamento;nova iguacu;independencia;0;0
+apartamento;nova iguacu;indeterminado;0;0
+apartamento;nova iguacu;jacutinga;0;0
+apartamento;nova iguacu;jd alvorada;0;0
+apartamento;nova iguacu;jd canaan;3472;17
+apartamento;nova iguacu;jd continental;0;0
+apartamento;nova iguacu;jd corumba;0;0
+apartamento;nova iguacu;jd da posse;0;0
+apartamento;nova iguacu;jd da viga;0;0
+apartamento;nova iguacu;jd esplanada;0;0
+apartamento;nova iguacu;jd iguacu;3900;1
+apartamento;nova iguacu;jd imperio;0;0
+apartamento;nova iguacu;jd jasmim;0;0
+apartamento;nova iguacu;jd nova era;3572;4
+apartamento;nova iguacu;jd nova iguacu;0;0
+apartamento;nova iguacu;jd palmares;0;0
+apartamento;nova iguacu;jd pernambuco;0;0
+apartamento;nova iguacu;jd pitoresco;0;0
+apartamento;nova iguacu;jd sta eugenia;0;0
+apartamento;nova iguacu;jd tropical;0;0
+apartamento;nova iguacu;k 11;0;0
+apartamento;nova iguacu;k 32;0;0
+apartamento;nova iguacu;k11;0;0
+apartamento;nova iguacu;k32;3183;2
+apartamento;nova iguacu;kennedy;0;0
+apartamento;nova iguacu;lafaiete;0;0
+apartamento;nova iguacu;lagoinha;0;0
+apartamento;nova iguacu;luz;0;0
+apartamento;nova iguacu;marco ii;3170;6
+apartamento;nova iguacu;margarida;3318;6
+apartamento;nova iguacu;maria da luz;0;0
+apartamento;nova iguacu;maria jose;0;0
+apartamento;nova iguacu;mesquita;0;0
+apartamento;nova iguacu;metropole;0;0
+apartamento;nova iguacu;miguel couto;0;0
+apartamento;nova iguacu;monte castelo;0;0
+apartamento;nova iguacu;monte libano;0;0
+apartamento;nova iguacu;moqueta;1667;1
+apartamento;nova iguacu;morro agudo;0;0
+apartamento;nova iguacu;n s das gracas;0;0
+apartamento;nova iguacu;nazare;0;0
+apartamento;nova iguacu;nova america;0;0
+apartamento;nova iguacu;nova luz;0;0
+apartamento;nova iguacu;oliveira;0;0
+apartamento;nova iguacu;ouro preto;0;0
+apartamento;nova iguacu;palhada;0;0
+apartamento;nova iguacu;palmeiras;0;0
+apartamento;nova iguacu;paraiso;6818;1
+apartamento;nova iguacu;pioneiro;0;0
+apartamento;nova iguacu;ponto chic;0;0
+apartamento;nova iguacu;posse;2475;3
+apartamento;nova iguacu;pq das palmeiras;3000;1
+apartamento;nova iguacu;pq engenho pequeno;0;0
+apartamento;nova iguacu;pq flora;0;0
+apartamento;nova iguacu;pq horizonte;0;0
+apartamento;nova iguacu;pq resid guadalajara;0;0
+apartamento;nova iguacu;pq rosario;0;0
+apartamento;nova iguacu;pq s carlos;4781;1
+apartamento;nova iguacu;pq tres coracoes;0;0
+apartamento;nova iguacu;pq ulisses;0;0
+apartamento;nova iguacu;prata;0;0
+apartamento;nova iguacu;presid juscelino;3417;1
+apartamento;nova iguacu;queimados;0;0
+apartamento;nova iguacu;rancho fundo;0;0
+apartamento;nova iguacu;rancho novo;0;0
+apartamento;nova iguacu;riachao;4292;4
+apartamento;nova iguacu;rosa dos ventos;0;0
+apartamento;nova iguacu;s benedito;0;0
+apartamento;nova iguacu;s geraldo;0;0
+apartamento;nova iguacu;s jose;0;0
+apartamento;nova iguacu;silvania;0;0
+apartamento;nova iguacu;sitio novo oriente;0;0
+apartamento;nova iguacu;sta catarina;0;0
+apartamento;nova iguacu;sta cecilia;0;0
+apartamento;nova iguacu;sta clara;0;0
+apartamento;nova iguacu;sta eufenia;0;0
+apartamento;nova iguacu;sta eugenia;0;0
+apartamento;nova iguacu;sta rita;3085;1
+apartamento;nova iguacu;tingua;0;0
+apartamento;nova iguacu;tiradentes;0;0
+apartamento;nova iguacu;v s jorge;0;0
+apartamento;nova iguacu;v s luis;0;0
+apartamento;nova iguacu;valverde;0;0
+apartamento;nova iguacu;vaz martins;0;0
+apartamento;nova iguacu;vista alegre;0;0
+apartamento;nova iguacu;vl abolicao;0;0
+apartamento;nova iguacu;vl anita;0;0
+apartamento;nova iguacu;vl avelina;0;0
+apartamento;nova iguacu;vl bandeirantes;0;0
+apartamento;nova iguacu;vl de cava;0;0
+apartamento;nova iguacu;vl formosa;0;0
+apartamento;nova iguacu;vl iguacuana;0;0
+apartamento;nova iguacu;vl iracema;0;0
+apartamento;nova iguacu;vl marines;0;0
+apartamento;nova iguacu;vl martins;0;0
+apartamento;nova iguacu;vl nova;0;0
+apartamento;nova iguacu;vl operaria;0;0
+apartamento;nova iguacu;vl palmeiras;0;0
+apartamento;nova iguacu;vl rancho novo;0;0
+apartamento;nova iguacu;vl s jorge;0;0
+apartamento;nova iguacu;vl s luis;0;0
+apartamento;nova iguacu;vl sta teresinha de jesus;0;0
+apartamento;nova iguacu;vl tres coracoes;0;0
+apartamento;nova iguacu;vl verde;0;0
+apartamento;nova iguacu;vl zulmira;0;0
+apartamento;paracambi;centro;0;0
+apartamento;paracambi;indeterminado;0;0
+apartamento;queimados;a noite;0;0
+apartamento;queimados;austin;0;0
+apartamento;queimados;belmonte;0;0
+apartamento;queimados;cabucu;0;0
+apartamento;queimados;centro;0;0
+apartamento;queimados;guarani;0;0
+apartamento;queimados;indeterminado;0;0
+apartamento;queimados;jd alzira;0;0
+apartamento;queimados;jd capuacu;0;0
+apartamento;queimados;jd guandu;0;0
+apartamento;queimados;jd queimados;0;0
+apartamento;queimados;pacaembu;0;0
+apartamento;queimados;pq presid dutra;0;0
+apartamento;queimados;pq presidente dutra;0;0
+apartamento;queimados;queimados;0;0
+apartamento;queimados;vl avante;0;0
+apartamento;queimados;vl do tingua;0;0
+apartamento;queimados;vl s joao;0;0
+apartamento;rio bonito;centro;0;0
+apartamento;rio bonito;indeterminado;10640;1
+apartamento;rio bonito;zona rural;0;0
+apartamento;rio de janeiro;abolicao;0;0
+apartamento;rio de janeiro;acari;4512;142
+apartamento;rio de janeiro;adriana;2459;1
+apartamento;rio de janeiro;aeroporto;0;0
+apartamento;rio de janeiro;agua santa;0;0
+apartamento;rio de janeiro;alcantara;3722;6
+apartamento;rio de janeiro;alto da boa vista;0;0
+apartamento;rio de janeiro;anchieta;2390;3
+apartamento;rio de janeiro;andarai;2390;3
+apartamento;rio de janeiro;anil;6239;352
+apartamento;rio de janeiro;araujo de cosmos;5283;124
+apartamento;rio de janeiro;arpoador;0;0
+apartamento;rio de janeiro;baia de guanabara;12566;5
+apartamento;rio de janeiro;bananal;0;0
+apartamento;rio de janeiro;bancarios;0;0
+apartamento;rio de janeiro;bangu;4726;19
+apartamento;rio de janeiro;barra da tijuca;3592;31
+apartamento;rio de janeiro;barra de guaratiba;9794;11.004
+apartamento;rio de janeiro;barros filho;5260;5
+apartamento;rio de janeiro;benfica;9468;1
+apartamento;rio de janeiro;bento ribeiro;3816;21
+apartamento;rio de janeiro;boiuna;3655;42
+apartamento;rio de janeiro;bonsucesso;0;0
+apartamento;rio de janeiro;botafogo;4112;121
+apartamento;rio de janeiro;bras de pina;11920;2.176
+apartamento;rio de janeiro;cachambi;3662;63
+apartamento;rio de janeiro;cachamorra;5223;650
+apartamento;rio de janeiro;cacuia;0;0
+apartamento;rio de janeiro;caju;4688;33
+apartamento;rio de janeiro;camorim;3986;1
+apartamento;rio de janeiro;campinho;5974;227
+apartamento;rio de janeiro;campo dos afonsos;4427;49
+apartamento;rio de janeiro;campo formoso;0;0
+apartamento;rio de janeiro;campo grande;0;0
+apartamento;rio de janeiro;cascadura;3617;527
+apartamento;rio de janeiro;castelo;3804;93
+apartamento;rio de janeiro;catete;0;0
+apartamento;rio de janeiro;catumbi;11086;468
+apartamento;rio de janeiro;cavalcante;4215;27
+apartamento;rio de janeiro;cavalcanti;0;0
+apartamento;rio de janeiro;centro;3339;9
+apartamento;rio de janeiro;centro valenca;8635;875
+apartamento;rio de janeiro;cid de deus;0;0
+apartamento;rio de janeiro;cid nova;3501;11
+apartamento;rio de janeiro;cid universitaria;7413;33
+apartamento;rio de janeiro;cidade de deus;0;0
+apartamento;rio de janeiro;cidade nova;0;0
+apartamento;rio de janeiro;cinelandia;0;0
+apartamento;rio de janeiro;cocota;10133;2
+apartamento;rio de janeiro;coelho neto;4892;61
+apartamento;rio de janeiro;colegio;2614;12
+apartamento;rio de janeiro;copacabana;3761;16
+apartamento;rio de janeiro;cordovil;11680;5.763
+apartamento;rio de janeiro;cosme velho;3630;48
+apartamento;rio de janeiro;cosmos;10844;73
+apartamento;rio de janeiro;costa barros;3931;6
+apartamento;rio de janeiro;curicica;0;0
+apartamento;rio de janeiro;del castilho;5850;219
+apartamento;rio de janeiro;dende;5782;195
+apartamento;rio de janeiro;deodoro;0;0
+apartamento;rio de janeiro;dumas;0;0
+apartamento;rio de janeiro;encantado;0;0
+apartamento;rio de janeiro;eng leal;4101;47
+apartamento;rio de janeiro;engenho da rainha;0;0
+apartamento;rio de janeiro;engenho de dentro;3785;31
+apartamento;rio de janeiro;engenho novo;4755;393
+apartamento;rio de janeiro;estacio;4212;486
+apartamento;rio de janeiro;fatima;6036;64
+apartamento;rio de janeiro;fazenda botafogo;8694;22
+apartamento;rio de janeiro;flamengo;1868;1
+apartamento;rio de janeiro;freguesia;11038;1.895
+apartamento;rio de janeiro;freguesia (ilha do governador);5800;1.233
+apartamento;rio de janeiro;freguesia (jacarepagua);4850;126
+apartamento;rio de janeiro;freguesia ilha do governador;5941;1.494
+apartamento;rio de janeiro;freguesia/ilha do governador;0;0
+apartamento;rio de janeiro;galeao;0;0
+apartamento;rio de janeiro;gamboa;0;0
+apartamento;rio de janeiro;gardenia azul;6926;5
+apartamento;rio de janeiro;gavea;4029;2
+apartamento;rio de janeiro;gloria;13221;120
+apartamento;rio de janeiro;grajau;10277;302
+apartamento;rio de janeiro;grumari;6047;857
+apartamento;rio de janeiro;guadalupe;0;0
+apartamento;rio de janeiro;guarabu;3019;27
+apartamento;rio de janeiro;guaratiba;0;0
+apartamento;rio de janeiro;higienopolis;1871;1
+apartamento;rio de janeiro;honorio gurgel;3859;73
+apartamento;rio de janeiro;humaita;3191;17
+apartamento;rio de janeiro;ilha do governador;12707;344
+apartamento;rio de janeiro;indeterminado;5714;32
+apartamento;rio de janeiro;inhauma;10026;5
+apartamento;rio de janeiro;inhoaiba;3525;65
+apartamento;rio de janeiro;ipanema;2928;13
+apartamento;rio de janeiro;iraja;13097;632
+apartamento;rio de janeiro;itacolomi;4359;286
+apartamento;rio de janeiro;itaguai;0;0
+apartamento;rio de janeiro;itanhanga;0;0
+apartamento;rio de janeiro;izadora;0;0
+apartamento;rio de janeiro;jabour;0;0
+apartamento;rio de janeiro;jacare;0;0
+apartamento;rio de janeiro;jacarepagua;3859;2
+apartamento;rio de janeiro;jacarepagua   freguesia;3859;2
+apartamento;rio de janeiro;jacarepagua / freguesia;0;0
+apartamento;rio de janeiro;jacarepagua freguesia;0;0
+apartamento;rio de janeiro;jd america;6475;671
+apartamento;rio de janeiro;jd botanico;6475;671
+apartamento;rio de janeiro;jd carioca;13134;155
+apartamento;rio de janeiro;jd guanabara;5893;65
+apartamento;rio de janeiro;jd laranjeiras;5893;65
+apartamento;rio de janeiro;jd novo horizonte;5893;65
+apartamento;rio de janeiro;jd palmares;13528;2
+apartamento;rio de janeiro;jd sulacap;0;0
+apartamento;rio de janeiro;jdcarioca;0;0
+apartamento;rio de janeiro;joa;0;0
+apartamento;rio de janeiro;lagoa;6430;649
+apartamento;rio de janeiro;lapa;6430;649
+apartamento;rio de janeiro;laranjeiras;10059;133
+apartamento;rio de janeiro;largo do machado;10886;1.216
+apartamento;rio de janeiro;leblon;10886;1.216
+apartamento;rio de janeiro;leme;9054;5
+apartamento;rio de janeiro;lins;9054;5
+apartamento;rio de janeiro;lins de vasconcelos;0;0
+apartamento;rio de janeiro;lot madean;0;0
+apartamento;rio de janeiro;madureira;0;0
+apartamento;rio de janeiro;magalhaes bastos;3046;2
+apartamento;rio de janeiro;mangueira;3046;2
+apartamento;rio de janeiro;manguinhos;3046;2
+apartamento;rio de janeiro;maracana;0;0
+apartamento;rio de janeiro;mare;0;0
+apartamento;rio de janeiro;marechal hermes;0;0
+apartamento;rio de janeiro;maria da graca;0;0
+apartamento;rio de janeiro;meier;5376;1.326
+apartamento;rio de janeiro;monero;5376;1.326
+apartamento;rio de janeiro;muda;5376;1.326
+apartamento;rio de janeiro;n s das gracas;5376;1.326
+apartamento;rio de janeiro;oiticica ii;5376;1.326
+apartamento;rio de janeiro;olaria;5376;1
+apartamento;rio de janeiro;oswaldo cruz;5488;106
+apartamento;rio de janeiro;paciencia;5488;106
+apartamento;rio de janeiro;padre miguel;2984;9
+apartamento;rio de janeiro;paqueta;2984;9
+apartamento;rio de janeiro;parada de lucas;2984;1
+apartamento;rio de janeiro;pavuna;6304;1
+apartamento;rio de janeiro;pc da bandeira;2498;64
+apartamento;rio de janeiro;pc seca;7151;104
+apartamento;rio de janeiro;pechincha;5109;1.230
+apartamento;rio de janeiro;pedra de guaratiba;5109;1.230
+apartamento;rio de janeiro;penha;5109;1.230
+apartamento;rio de janeiro;penha circular;5109;1.230
+apartamento;rio de janeiro;piedade;4072;80
+apartamento;rio de janeiro;pilares;4138;159
+apartamento;rio de janeiro;pitangueiras;4311;196
+apartamento;rio de janeiro;portuguesa;5395;32
+apartamento;rio de janeiro;pq anchieta;5441;94
+apartamento;rio de janeiro;praca da bandeira;3013;3
+apartamento;rio de janeiro;praca seca;0;0
+apartamento;rio de janeiro;praia da bandeira;5528;67
+apartamento;rio de janeiro;proletario nova cidade;5528;67
+apartamento;rio de janeiro;quintino bocaiuva;0;0
+apartamento;rio de janeiro;ramos;0;0
+apartamento;rio de janeiro;realengo;0;29
+apartamento;rio de janeiro;recreio dos bandeirantes;3472;29
+apartamento;rio de janeiro;riachuelo;3472;29
+apartamento;rio de janeiro;ribeira;7299;5.808
+apartamento;rio de janeiro;ricardo de albuquerque;7299;5.808
+apartamento;rio de janeiro;rio comprido;5747;48
+apartamento;rio de janeiro;rio da prata;5747;48
+apartamento;rio de janeiro;rocha;5747;48
+apartamento;rio de janeiro;rocha miranda;3991;111
+apartamento;rio de janeiro;rocinha;3991;111
+apartamento;rio de janeiro;s claudio;0;0
+apartamento;rio de janeiro;s conrado;0;0
+apartamento;rio de janeiro;s cristovao;0;282
+apartamento;rio de janeiro;s francisco xavier;11826;282
+apartamento;rio de janeiro;sampaio;11826;282
+apartamento;rio de janeiro;santa cruz;5149;93
+apartamento;rio de janeiro;santa teresa;0;0
+apartamento;rio de janeiro;santissimo;0;0
+apartamento;rio de janeiro;santo cristo;0;0
+apartamento;rio de janeiro;sao conrado;0;0
+apartamento;rio de janeiro;sao cristovao;0;0
+apartamento;rio de janeiro;sao francisco xavier;0;0
+apartamento;rio de janeiro;saude;0;0
+apartamento;rio de janeiro;senador camara;0;0
+apartamento;rio de janeiro;senador vasconcelos;0;0
+apartamento;rio de janeiro;sepetiba;0;0
+apartamento;rio de janeiro;seropedica;0;1
+apartamento;rio de janeiro;sta cruz;2097;1
+apartamento;rio de janeiro;sta teresa;0;0
+apartamento;rio de janeiro;sto cristo;7772;14
+apartamento;rio de janeiro;sulacap;0;0
+apartamento;rio de janeiro;tanque;4465;51
+apartamento;rio de janeiro;taquara;4722;115
+apartamento;rio de janeiro;taua;5110;108
+apartamento;rio de janeiro;tijuca;5110;108
+apartamento;rio de janeiro;tinguazinho i;5110;108
+apartamento;rio de janeiro;tinguazinho ii;5110;108
+apartamento;rio de janeiro;todos os santos;5226;118
+apartamento;rio de janeiro;tomas coelho;5226;118
+apartamento;rio de janeiro;triagem;5226;118
+apartamento;rio de janeiro;tubiacanga;0;0
+apartamento;rio de janeiro;turiacu;0;0
+apartamento;rio de janeiro;urca;3120;14
+apartamento;rio de janeiro;usina;13249;88
+apartamento;rio de janeiro;v da penha;0;0
+apartamento;rio de janeiro;v isabel;0;0
+apartamento;rio de janeiro;v iv centenario;0;0
+apartamento;rio de janeiro;v kosmos;0;0
+apartamento;rio de janeiro;v valqueire;0;0
+apartamento;rio de janeiro;vargem grande;0;0
+apartamento;rio de janeiro;vargem pequena;0;0
+apartamento;rio de janeiro;vaz lobo;0;73
+apartamento;rio de janeiro;vicente de carvalho;4685;36
+apartamento;rio de janeiro;vidigal;4685;36
+apartamento;rio de janeiro;vigario geral;4685;36
+apartamento;rio de janeiro;village;4685;36
+apartamento;rio de janeiro;vista alegre;5642;6
+apartamento;rio de janeiro;vl da penha;5642;6
+apartamento;rio de janeiro;vl do ceu;5642;6
+apartamento;rio de janeiro;vl isabel;5642;6
+apartamento;rio de janeiro;vl ivl centenario;0;0
+apartamento;rio de janeiro;vl kenedy;0;0
+apartamento;rio de janeiro;vl kosmos;0;0
+apartamento;rio de janeiro;vl militar;0;0
+apartamento;rio de janeiro;vl valqueire;0;0
+apartamento;rio de janeiro;vl vitoria;0;0
+apartamento;rio de janeiro;zumbi;5351;0
+apartamento;sao goncalo;alcantara;5535;28
+apartamento;sao goncalo;almerinda;5535;28
+apartamento;sao goncalo;amendoeira;0;5
+apartamento;sao goncalo;anaia pequeno;4641;18
+apartamento;sao goncalo;antonina;4641;18
+apartamento;sao goncalo;arsenal;4641;18
+apartamento;sao goncalo;barracao;0;0
+apartamento;sao goncalo;barreto;0;0
+apartamento;sao goncalo;barro vermelho;0;0
+apartamento;sao goncalo;boa vista;0;0
+apartamento;sao goncalo;boacu;3706;8
+apartamento;sao goncalo;bom retiro;3706;8
+apartamento;sao goncalo;brasilandia;2131;1
+apartamento;sao goncalo;calaboca;0;0
+apartamento;sao goncalo;camarao;0;0
+apartamento;sao goncalo;centro;0;0
+apartamento;sao goncalo;coelho;0;0
+apartamento;sao goncalo;colubande;0;0
+apartamento;sao goncalo;covanca;4756;65
+apartamento;sao goncalo;engenho do rocado;0;0
+apartamento;sao goncalo;engenho pequeno;0;0
+apartamento;sao goncalo;estrela do norte;0;0
+apartamento;sao goncalo;galo branco;0;3
+apartamento;sao goncalo;gradim;3333;1
+apartamento;sao goncalo;guaxindiba;3333;1
+apartamento;sao goncalo;indeterminado;3333;1
+apartamento;sao goncalo;ipiiba;3333;1
+apartamento;sao goncalo;itaoca;0;0
+apartamento;sao goncalo;itauna;0;0
+apartamento;sao goncalo;jd alcantara;0;0
+apartamento;sao goncalo;jd bom retiro;0;0
+apartamento;sao goncalo;jd california;0;0
+apartamento;sao goncalo;jd catarina;0;0
+apartamento;sao goncalo;jd fluminense;0;0
+apartamento;sao goncalo;jd independencia;0;0
+apartamento;sao goncalo;joquei clube;0;0
+apartamento;sao goncalo;lagoinha;3571;1
+apartamento;sao goncalo;laranjal;3571;1
+apartamento;sao goncalo;lindo parque;0;0
+apartamento;sao goncalo;mangueira;0;0
+apartamento;sao goncalo;marambaia;3388;8
+apartamento;sao goncalo;maria paula;3388;8
+apartamento;sao goncalo;miriambi;3388;8
+apartamento;sao goncalo;monjolo;3388;8
+apartamento;sao goncalo;mutondo;3388;8
+apartamento;sao goncalo;mutua;2245;1
+apartamento;sao goncalo;mutuaguacu;2245;1
+apartamento;sao goncalo;mutuapira;3525;5
+apartamento;sao goncalo;n s da paz;0;0
+apartamento;sao goncalo;neves;0;0
+apartamento;sao goncalo;nova cidade;3743;13
+apartamento;sao goncalo;novo mexico;2994;11
+apartamento;sao goncalo;pacheco;2994;0
+apartamento;sao goncalo;parada 40;4253;45
+apartamento;sao goncalo;paraiso;4253;45
+apartamento;sao goncalo;patronato;4253;45
+apartamento;sao goncalo;piao;4253;45
+apartamento;sao goncalo;pita;3125;1
+apartamento;sao goncalo;portao do rosa;3617;1
+apartamento;sao goncalo;porto da madama;3617;1
+apartamento;sao goncalo;porto da pedra;3617;1
+apartamento;sao goncalo;porto do rosa;0;0
+apartamento;sao goncalo;porto novo;0;0
+apartamento;sao goncalo;porto velho;3097;3
+apartamento;sao goncalo;raul veiga;3097;3
+apartamento;sao goncalo;rio do ouro;0;0
+apartamento;sao goncalo;rocha;4168;13
+apartamento;sao goncalo;s miguel;4168;13
+apartamento;sao goncalo;sacramento;0;0
+apartamento;sao goncalo;santa luzia;0;0
+apartamento;sao goncalo;sao miguel;0;0
+apartamento;sao goncalo;sete pontes;0;0
+apartamento;sao goncalo;sta anita;0;0
+apartamento;sao goncalo;sta catarina;3632;3
+apartamento;sao goncalo;sta isabel;0;0
+apartamento;sao goncalo;sta luzia;0;0
+apartamento;sao goncalo;tenente jardim;0;0
+apartamento;sao goncalo;tiradentes;0;0
+apartamento;sao goncalo;tribobo;2769;5
+apartamento;sao goncalo;trindade;2769;5
+apartamento;sao goncalo;varzea das mocas;2769;5
+apartamento;sao goncalo;venda da cruz;0;0
+apartamento;sao goncalo;vista alegre;0;0
+apartamento;sao goncalo;vl iara;0;0
+apartamento;sao goncalo;vl lage;3295;1
+apartamento;sao goncalo;vl tres;3295;1
+apartamento;sao goncalo;ze garoto;4248;2
+apartamento;sao joao de meriti;agostinho porto;4248;2
+apartamento;sao joao de meriti;centro;4248;2
+apartamento;sao joao de meriti;coelho da rocha;4248;2
+apartamento;sao joao de meriti;eden;0;0
+apartamento;sao joao de meriti;eng belford;0;0
+apartamento;sao joao de meriti;grande rio;0;0
+apartamento;sao joao de meriti;indeterminado;0;0
+apartamento;sao joao de meriti;jd da alegria;0;0
+apartamento;sao joao de meriti;jd jose bonifacio;0;0
+apartamento;sao joao de meriti;jd meriti;0;0
+apartamento;sao joao de meriti;jd metropole;0;0
+apartamento;sao joao de meriti;jd olavo bilac;0;0
+apartamento;sao joao de meriti;jd sta rosa;0;0
+apartamento;sao joao de meriti;pq analandia;0;0
+apartamento;sao joao de meriti;pq novo rio;0;0
+apartamento;sao joao de meriti;pq s judas tadeu;0;0
+apartamento;sao joao de meriti;pq teles de menezes;0;0
+apartamento;sao joao de meriti;s mateus;0;0
+apartamento;sao joao de meriti;tomazinho;0;0
+apartamento;sao joao de meriti;trezentos;0;0
+apartamento;sao joao de meriti;v r dos teles;0;0
+apartamento;sao joao de meriti;v rosali;0;0
+apartamento;sao joao de meriti;v s joao;0;0
+apartamento;sao joao de meriti;venda velha;0;0
+apartamento;sao joao de meriti;vilar dos teles;0;0
+apartamento;sao joao de meriti;vl norma;0;0
+apartamento;sao joao de meriti;vl r dos teles;0;0
+apartamento;sao joao de meriti;vl rosali;0;0
+apartamento;sao joao de meriti;vl s joao;0;0
+apartamento;sao joao de meriti;vl tiradentes;0;0
+apartamento;sao joao de meriti;vl zulmira;0;0
+apartamento;seropedica;centro;0;0
+apartamento;seropedica;indeterminado;0;0
+apartamento;seropedica;zona rural;0;0
+apartamento;tangua;bandeirantes i;0;0
+apartamento;tangua;centro;0;0
+apartamento;tangua;indeterminado;0;0
+casa;belford roxo;amelia;0;0
+casa;belford roxo;andrade araujo;0;0
+casa;belford roxo;areia branca;1856;2
+casa;belford roxo;babi;2403;2
+casa;belford roxo;belford roxo;2403;2
+casa;belford roxo;boa esperanca;2403;2
+casa;belford roxo;boa ventura;2403;1
+casa;belford roxo;buriti;0;0
+casa;belford roxo;centro;2291;3
+casa;belford roxo;ch sto antonio;2291;3
+casa;belford roxo;gracas;2291;3
+casa;belford roxo;heliopolis;0;0
+casa;belford roxo;hiterland;0;0
+casa;belford roxo;indeterminado;0;0
+casa;belford roxo;itaipu;0;0
+casa;belford roxo;jd almo;0;0
+casa;belford roxo;jd bom pastor;0;0
+casa;belford roxo;jd dimas filho;0;0
+casa;belford roxo;jd glaucia;0;0
+casa;belford roxo;jd redentor;0;0
+casa;belford roxo;jd sta marta;6000;1
+casa;belford roxo;lot xv;0;0
+casa;belford roxo;lote xv;0;0
+casa;belford roxo;nova aurora;0;0
+casa;belford roxo;piam;0;0
+casa;belford roxo;pq amorim;0;0
+casa;belford roxo;pq esperanca;0;0
+casa;belford roxo;pq floresta;0;0
+casa;belford roxo;pq martinho;0;0
+casa;belford roxo;pq s bernardo;0;0
+casa;belford roxo;pq s jose;0;0
+casa;belford roxo;pq s vicente;0;0
+casa;belford roxo;pq santa amelia;0;0
+casa;belford roxo;pq saxonia;0;0
+casa;belford roxo;pq sta amelia;0;0
+casa;belford roxo;prata;0;0
+casa;belford roxo;rocha sobrinho;0;4
+casa;belford roxo;s bernardo;0;0
+casa;belford roxo;s jorge;0;0
+casa;belford roxo;sta cecilia;0;0
+casa;belford roxo;sta maria;0;0
+casa;belford roxo;sublime;0;0
+casa;belford roxo;vergel dos felix;0;0
+casa;belford roxo;vl dagmar;0;0
+casa;belford roxo;vl entre rios;0;0
+casa;belford roxo;vl joao lima;0;0
+casa;belford roxo;vl madalena;0;0
+casa;belford roxo;vl medeiros;0;0
+casa;belford roxo;vl pauline;0;0
+casa;belford roxo;vl r novo;0;0
+casa;belford roxo;vl s luis;0;0
+casa;belford roxo;vl s teodoro;0;0
+casa;belford roxo;vl sto antonio da prata;2941;1
+casa;belford roxo;vl verde;0;0
+casa;belford roxo;vl vitorio;0;0
+casa;cachoeiras de macacu;boca do mato;0;0
+casa;cachoeiras de macacu;centro;0;0
+casa;cachoeiras de macacu;indeterminado;2125;2
+casa;cachoeiras de macacu;papucaia;2125;2
+casa;cachoeiras de macacu;zona rural;2125;2
+casa;duque de caxias;zona rural;2125;9
+casa;guapimirim;centro;2500;1
+casa;guapimirim;indeterminado;2500;1
+casa;guapimirim;zona rural;2183;12
+casa;itaborai;aldeia da prata (manilha);2547;10
+casa;itaborai;ampliacao;2772;11
+casa;itaborai;areal;2772;11
+casa;itaborai;bela vista;2772;11
+casa;itaborai;bonfim;2647;1
+casa;itaborai;caluge;1483;1
+casa;itaborai;centro;1483;1
+casa;itaborai;ch bela vista;2782;18
+casa;itaborai;gebara (itambi);2969;1
+casa;itaborai;indeterminado;2423;8
+casa;itaborai;jd imperial;3161;35
+casa;itaborai;joaquim de oliveira;4208;2
+casa;itaborai;manilha;3421;1
+casa;itaborai;marambaia;2753;6
+casa;itaborai;monte verde (manilha);0;0
+casa;itaborai;nancilandia;5261;2
+casa;itaborai;nova cidade;5261;2
+casa;itaborai;outeiro das pedras;5261;2
+casa;itaborai;quissama;3777;5
+casa;itaborai;retiro s joaquim;2929;2
+casa;itaborai;rio varzea;1580;3
+casa;itaborai;s jose;2389;2
+casa;itaborai;sossego;2899;1
+casa;itaborai;sto expedito;2899;1
+casa;itaborai;tangua;0;0
+casa;itaborai;tres pontes;0;0
+casa;itaborai;venda das pedras;1308;1
+casa;itaborai;visconde de itaborai;2233;1
+casa;itaborai;zona rural;4688;1
+casa;itaguai;aguas lindas;0;0
+casa;itaguai;brisa mar;0;0
+casa;itaguai;california;0;0
+casa;itaguai;centro;3039;1
+casa;itaguai;chapero;3039;1
+casa;itaguai;cid industrial;0;0
+casa;itaguai;coroa grande;0;0
+casa;itaguai;engenho;0;0
+casa;itaguai;ibirapitanga;2141;1
+casa;itaguai;ibituporanga;0;0
+casa;itaguai;ilha da madeira;0;0
+casa;itaguai;indeterminado;0;0
+casa;itaguai;jd america;0;0
+casa;itaguai;jd laia;0;0
+casa;itaguai;jd veda;0;0
+casa;itaguai;leandro;0;0
+casa;itaguai;monte serrat;0;0
+casa;itaguai;piranema;0;0
+casa;itaguai;pq independencia;0;0
+casa;itaguai;pq paraiso;0;0
+casa;itaguai;pq primavera;0;0
+casa;itaguai;sta candida;0;0
+casa;itaguai;teixeiras;0;0
+casa;itaguai;vl geny;0;0
+casa;itaguai;vl ibirapitanga;0;0
+casa;itaguai;vl margarida;0;0
+casa;japeri;japeri;0;0
+casa;mage;centro;0;0
+casa;mage;indeterminado;0;4
+casa;mage;zona rural;2391;4
+casa;mangaratiba;centro;1949;4
+casa;mangaratiba;conceicao de jacarei;3729;6
+casa;mangaratiba;indeterminado;3729;6
+casa;mangaratiba;itacuruca;4193;4
+casa;mangaratiba;itacurussa;4193;4
+casa;mangaratiba;muriqui;3525;2
+casa;mangaratiba;praia grande;0;0
+casa;mangaratiba;sahy;0;0
+casa;marica;aracatiba;3735;16
+casa;marica;bal bambui (ponta negra);2467;10
+casa;marica;barra de marica;2467;10
+casa;marica;barroco (itaipuacu);2467;10
+casa;marica;caju (ponta negra);2827;9
+casa;marica;cajueiros;2545;1
+casa;marica;cajueiros (itaipuacu);2545;1
+casa;marica;caxito;2459;2
+casa;marica;centro;3021;70
+casa;marica;ch de inoa;3021;70
+casa;marica;ch rincao mimoso;3021;70
+casa;marica;cid nova;2667;4
+casa;marica;condado de marica;2667;4
+casa;marica;cordeirinho;2683;27
+casa;marica;espraiado (ponta negra);2683;27
+casa;marica;flamengo;2683;27
+casa;marica;guaratiba;3493;52
+casa;marica;indeterminado;3493;52
+casa;marica;inoa;2868;88
+casa;marica;itaipuacu;2868;88
+casa;marica;itaocaia valley;2868;88
+casa;marica;itapeba;3088;24
+casa;marica;jacaroa;2933;537
+casa;marica;jacone (pte negra);2933;537
+casa;marica;jd atlantico;2933;537
+casa;marica;marques de marica;2933;1
+casa;marica;mumbuca;2476;67
+casa;marica;pedreiras;2596;8
+casa;marica;ponta grossa;3712;3
+casa;marica;ponta negra;2908;23
+casa;marica;pq nanci;2908;11
+casa;marica;recanto;2889;10
+casa;marica;retiro;2351;8
+casa;marica;s bento da lagoa;2351;8
+casa;marica;s jose do imbassai;2351;8
+casa;marica;ubatiba;2936;69
+casa;marica;vale da figueira (ponta negra);3758;8
+casa;marica;vivendas de itaipuacu;3758;8
+casa;mesquita;banco de areia;3219;19
+casa;mesquita;centro;3219;19
+casa;mesquita;cosmorama;3219;19
+casa;mesquita;edison passos;3219;19
+casa;mesquita;indeterminado;3332;2
+casa;mesquita;jacutinga;3332;2
+casa;mesquita;presid juscelino;0;0
+casa;mesquita;rocha sobrinho;3914;2
+casa;mesquita;sta teresinha;0;0
+casa;mesquita;sto elias;0;0
+casa;nilopolis;cabral;3467;1
+casa;nilopolis;cabuis;3467;0
+casa;nilopolis;centro;0;0
+casa;nilopolis;chatuba;0;0
+casa;nilopolis;indeterminado;2931;7
+casa;nilopolis;nova cidade;0;0
+casa;nilopolis;olinda;5521;2
+casa;nilopolis;paiol de polvora;3218;10
+casa;niteroi;atalaia;0;0
+casa;niteroi;badu;0;0
+casa;niteroi;baldeador;0;0
+casa;niteroi;barreto;4066;17
+casa;niteroi;beltrao;4119;70
+casa;niteroi;boa viagem;6967;4
+casa;niteroi;cafuba;6967;4
+casa;niteroi;camboinhas;6967;4
+casa;niteroi;cantagalo;0;0
+casa;niteroi;caramujo;0;0
+casa;niteroi;centro;0;0
+casa;niteroi;charitas;3945;2
+casa;niteroi;cid nova;7417;45
+casa;niteroi;cubango;0;0
+casa;niteroi;engenho do mato;3117;2
+casa;niteroi;engenhoca;3744;87
+casa;niteroi;fatima;3744;87
+casa;niteroi;figueira;3843;5
+casa;niteroi;fonseca;3843;5
+casa;niteroi;gragoata;3735;1
+casa;niteroi;icarai;3810;1
+casa;niteroi;ilha da conceicao;3810;1
+casa;niteroi;indeterminado;6525;87
+casa;niteroi;inga;6525;87
+casa;niteroi;itacoatiara;6065;97
+casa;niteroi;itaipu;6065;97
+casa;niteroi;ititioca;0;0
+casa;niteroi;jacare;0;0
+casa;niteroi;jd fazendinha;0;0
+casa;niteroi;jd imbui;0;0
+casa;niteroi;jurujuba;0;0
+casa;niteroi;largo da batalha;7500;1
+casa;niteroi;largo do barradas;7500;1
+casa;niteroi;lot engenho do mato;4739;4
+casa;niteroi;lot maravista;0;0
+casa;niteroi;maceio;3715;3
+casa;niteroi;maralegre;4629;11
+casa;niteroi;maravista;4629;3
+casa;niteroi;marazul;3358;24
+casa;niteroi;maria paula;3358;2
+casa;niteroi;martins torres;3603;48
+casa;niteroi;mata paca;0;0
+casa;niteroi;matapaca;3580;34
+casa;niteroi;niteroi;3580;2
+casa;niteroi;pe pequeno;3256;2
+casa;niteroi;pendotiba;6254;7
+casa;niteroi;piratininga;4393;329
+casa;niteroi;ponta d areia;3940;476
+casa;niteroi;ponta da areia;8087;2
+casa;niteroi;ponta dareia;8087;2
+casa;niteroi;ponto cem reis;0;0
+casa;niteroi;rio do ouro;0;0
+casa;niteroi;rio do ouro e varzea das mocas;2910;6
+casa;niteroi;s domingos;0;0
+casa;niteroi;s francisco;0;0
+casa;niteroi;s lourenco;2928;3
+casa;niteroi;santa rosa;2928;3
+casa;niteroi;santana;0;0
+casa;niteroi;sao francisco;0;0
+casa;niteroi;sao lourenco;0;0
+casa;niteroi;sape;3530;47
+casa;niteroi;sape e vl progresso;3530;47
+casa;niteroi;sta barbara;2795;5
+casa;niteroi;sta rosa;2795;5
+casa;niteroi;sto antonio;2795;95
+casa;niteroi;sto antonio e serra grande;0;0
+casa;niteroi;teixeira de freitas;0;0
+casa;niteroi;tenente jardim;0;0
+casa;niteroi;varzea das mocas;0;0
+casa;niteroi;venda da cruz;0;0
+casa;niteroi;vital brasil;3276;84
+casa;niteroi;vl progresso;3276;84
+casa;nova iguacu;adrianopolis;4727;9
+casa;nova iguacu;aero clube;4727;0
+casa;nova iguacu;alto da posse;0;0
+casa;nova iguacu;alvarez;0;0
+casa;nova iguacu;ambai;0;0
+casa;nova iguacu;andrade araujo;0;0
+casa;nova iguacu;austin;2209;2
+casa;nova iguacu;barao de amapa;2209;2
+casa;nova iguacu;bela vista;2209;2
+casa;nova iguacu;boa esperanca;2209;2
+casa;nova iguacu;botafogo;2143;1
+casa;nova iguacu;cabucu;2143;1
+casa;nova iguacu;caioaba;2100;36
+casa;nova iguacu;california;3371;6
+casa;nova iguacu;caonde;3308;10
+casa;nova iguacu;caonze;0;0
+casa;nova iguacu;carmari;0;0
+casa;nova iguacu;carolina;3278;2
+casa;nova iguacu;centro;3278;2
+casa;nova iguacu;ceramica;3278;2
+casa;nova iguacu;chacrinha;3721;6
+casa;nova iguacu;chique;3721;6
+casa;nova iguacu;cid jardim cabucu;3721;6
+casa;nova iguacu;cid jd cabucu;0;0
+casa;nova iguacu;cid jd pq estoril;0;0
+casa;nova iguacu;comendador soares;0;0
+casa;nova iguacu;cruzeiro do sul;0;0
+casa;nova iguacu;cuiaba;0;0
+casa;nova iguacu;dom rodrigo;0;0
+casa;nova iguacu;edison passos;0;0
+casa;nova iguacu;eng rocha freire;0;0
+casa;nova iguacu;essolandia;0;0
+casa;nova iguacu;fe;0;0
+casa;nova iguacu;figueiras;0;0
+casa;nova iguacu;floresta;0;0
+casa;nova iguacu;grande rio;1500;1
+casa;nova iguacu;imperador;0;0
+casa;nova iguacu;inconfidencia;0;0
+casa;nova iguacu;independencia;0;0
+casa;nova iguacu;indeterminado;0;0
+casa;nova iguacu;jacutinga;0;0
+casa;nova iguacu;jd alvorada;0;1
+casa;nova iguacu;jd canaan;2594;2
+casa;nova iguacu;jd continental;2594;2
+casa;nova iguacu;jd corumba;0;0
+casa;nova iguacu;jd da posse;0;0
+casa;nova iguacu;jd da viga;3329;5
+casa;nova iguacu;jd esplanada;3329;5
+casa;nova iguacu;jd iguacu;3329;5
+casa;nova iguacu;jd imperio;3329;4
+casa;nova iguacu;jd jasmim;0;0
+casa;nova iguacu;jd nova era;0;0
+casa;nova iguacu;jd nova iguacu;0;0
+casa;nova iguacu;jd palmares;0;0
+casa;nova iguacu;jd pernambuco;0;0
+casa;nova iguacu;jd pitoresco;0;0
+casa;nova iguacu;jd sta eugenia;3900;1
+casa;nova iguacu;jd tropical;3900;1
+casa;nova iguacu;k 11;3900;1
+casa;nova iguacu;k 32;3900;1
+casa;nova iguacu;k11;0;0
+casa;nova iguacu;k32;0;0
+casa;nova iguacu;kennedy;0;0
+casa;nova iguacu;lafaiete;0;0
+casa;nova iguacu;lagoinha;0;0
+casa;nova iguacu;luz;0;0
+casa;nova iguacu;marco ii;0;0
+casa;nova iguacu;margarida;0;0
+casa;nova iguacu;maria da luz;0;0
+casa;nova iguacu;maria jose;0;0
+casa;nova iguacu;mesquita;0;0
+casa;nova iguacu;metropole;0;0
+casa;nova iguacu;miguel couto;0;0
+casa;nova iguacu;monte castelo;0;0
+casa;nova iguacu;monte libano;0;0
+casa;nova iguacu;moqueta;0;0
+casa;nova iguacu;morro agudo;3416;4
+casa;nova iguacu;n s das gracas;3416;4
+casa;nova iguacu;nazare;0;0
+casa;nova iguacu;nova america;0;0
+casa;nova iguacu;nova luz;0;0
+casa;nova iguacu;oliveira;0;0
+casa;nova iguacu;ouro preto;0;0
+casa;nova iguacu;palhada;0;0
+casa;nova iguacu;palmeiras;0;0
+casa;nova iguacu;paraiso;2376;0
+casa;nova iguacu;pioneiro;0;0
+casa;nova iguacu;ponto chic;0;0
+casa;nova iguacu;posse;0;0
+casa;nova iguacu;pq das palmeiras;3711;3
+casa;nova iguacu;pq engenho pequeno;0;0
+casa;nova iguacu;pq flora;0;0
+casa;nova iguacu;pq horizonte;2813;1
+casa;nova iguacu;pq resid guadalajara;2813;1
+casa;nova iguacu;pq rosario;2813;1
+casa;nova iguacu;pq s carlos;2813;0
+casa;nova iguacu;pq tres coracoes;0;0
+casa;nova iguacu;pq ulisses;0;0
+casa;nova iguacu;prata;0;0
+casa;nova iguacu;presid juscelino;0;0
+casa;nova iguacu;queimados;0;0
+casa;nova iguacu;rancho fundo;0;0
+casa;nova iguacu;rancho novo;0;0
+casa;nova iguacu;riachao;0;0
+casa;nova iguacu;rosa dos ventos;0;0
+casa;nova iguacu;s benedito;0;0
+casa;nova iguacu;s geraldo;0;0
+casa;nova iguacu;s jose;0;0
+casa;nova iguacu;silvania;0;0
+casa;nova iguacu;sitio novo oriente;0;0
+casa;nova iguacu;sta catarina;0;0
+casa;nova iguacu;sta cecilia;0;0
+casa;nova iguacu;sta clara;2950;2
+casa;nova iguacu;sta eufenia;0;0
+casa;nova iguacu;sta eugenia;0;0
+casa;nova iguacu;sta rita;0;0
+casa;nova iguacu;tingua;0;0
+casa;nova iguacu;tiradentes;0;0
+casa;nova iguacu;v s jorge;0;0
+casa;nova iguacu;v s luis;0;0
+casa;nova iguacu;valverde;0;0
+casa;nova iguacu;vaz martins;0;0
+casa;nova iguacu;vista alegre;0;0
+casa;nova iguacu;vl abolicao;0;0
+casa;nova iguacu;vl anita;0;0
+casa;nova iguacu;vl avelina;0;0
+casa;nova iguacu;vl bandeirantes;0;0
+casa;nova iguacu;vl de cava;1695;3
+casa;nova iguacu;vl formosa;0;0
+casa;nova iguacu;vl iguacuana;0;0
+casa;nova iguacu;vl iracema;0;0
+casa;nova iguacu;vl marines;0;0
+casa;nova iguacu;vl martins;0;0
+casa;nova iguacu;vl nova;0;0
+casa;nova iguacu;vl operaria;0;1
+casa;nova iguacu;vl palmeiras;4805;1
+casa;nova iguacu;vl rancho novo;0;0
+casa;nova iguacu;vl s jorge;0;0
+casa;nova iguacu;vl s luis;0;0
+casa;nova iguacu;vl sta teresinha de jesus;0;0
+casa;nova iguacu;vl tres coracoes;0;0
+casa;nova iguacu;vl verde;0;0
+casa;nova iguacu;vl zulmira;0;0
+casa;paracambi;centro;0;0
+casa;paracambi;indeterminado;0;0
+casa;queimados;a noite;0;0
+casa;queimados;austin;0;0
+casa;queimados;belmonte;0;0
+casa;queimados;cabucu;0;0
+casa;queimados;centro;0;0
+casa;queimados;guarani;0;0
+casa;queimados;indeterminado;0;0
+casa;queimados;jd alzira;0;0
+casa;queimados;jd capuacu;0;0
+casa;queimados;jd guandu;0;0
+casa;queimados;jd queimados;0;0
+casa;queimados;pacaembu;0;0
+casa;queimados;pq presid dutra;0;0
+casa;queimados;pq presidente dutra;0;0
+casa;queimados;queimados;0;0
+casa;queimados;vl avante;0;0
+casa;queimados;vl do tingua;0;0
+casa;queimados;vl s joao;0;0
+casa;rio bonito;centro;0;0
+casa;rio bonito;indeterminado;0;0
+casa;rio bonito;zona rural;0;0
+casa;rio de janeiro;abolicao;0;0
+casa;rio de janeiro;acari;0;0
+casa;rio de janeiro;adriana;0;0
+casa;rio de janeiro;aeroporto;0;0
+casa;rio de janeiro;agua santa;0;0
+casa;rio de janeiro;alcantara;5082;19
+casa;rio de janeiro;alto da boa vista;0;0
+casa;rio de janeiro;anchieta;5955;5
+casa;rio de janeiro;andarai;1503;5
+casa;rio de janeiro;anil;5296;57
+casa;rio de janeiro;araujo de cosmos;4595;410
+casa;rio de janeiro;arpoador;0;0
+casa;rio de janeiro;baia de guanabara;0;0
+casa;rio de janeiro;bananal;0;0
+casa;rio de janeiro;bancarios;0;29
+casa;rio de janeiro;bangu;4042;29
+casa;rio de janeiro;barra da tijuca;7702;2.812
+casa;rio de janeiro;barra de guaratiba;7702;2.812
+casa;rio de janeiro;barros filho;2388;7
+casa;rio de janeiro;benfica;2388;0
+casa;rio de janeiro;bento ribeiro;4443;5
+casa;rio de janeiro;boiuna;4443;60
+casa;rio de janeiro;bonsucesso;1526;35
+casa;rio de janeiro;botafogo;3235;35
+casa;rio de janeiro;bras de pina;3235;35
+casa;rio de janeiro;cachambi;9253;161
+casa;rio de janeiro;cachamorra;4794;189
+casa;rio de janeiro;cacuia;0;0
+casa;rio de janeiro;caju;0;0
+casa;rio de janeiro;camorim;4940;27
+casa;rio de janeiro;campinho;4940;36
+casa;rio de janeiro;campo dos afonsos;3371;36
+casa;rio de janeiro;campo formoso;0;0
+casa;rio de janeiro;campo grande;0;0
+casa;rio de janeiro;cascadura;3269;685
+casa;rio de janeiro;castelo;3326;28
+casa;rio de janeiro;catete;0;0
+casa;rio de janeiro;catumbi;6432;18
+casa;rio de janeiro;cavalcante;3403;6
+casa;rio de janeiro;cavalcanti;0;0
+casa;rio de janeiro;centro;3122;3
+casa;rio de janeiro;centro valenca;5568;12
+casa;rio de janeiro;cid de deus;0;0
+casa;rio de janeiro;cid nova;3389;3
+casa;rio de janeiro;cid universitaria;4344;2
+casa;rio de janeiro;cidade de deus;0;0
+casa;rio de janeiro;cidade nova;0;0
+casa;rio de janeiro;cinelandia;0;0
+casa;rio de janeiro;cocota;3136;15
+casa;rio de janeiro;coelho neto;3136;15
+casa;rio de janeiro;colegio;3136;15
+casa;rio de janeiro;copacabana;2774;4
+casa;rio de janeiro;cordovil;9946;39
+casa;rio de janeiro;cosme velho;2576;16
+casa;rio de janeiro;cosmos;6160;79
+casa;rio de janeiro;costa barros;2433;11
+casa;rio de janeiro;curicica;0;0
+casa;rio de janeiro;del castilho;4198;77
+casa;rio de janeiro;dende;4683;5
+casa;rio de janeiro;deodoro;0;0
+casa;rio de janeiro;dumas;0;0
+casa;rio de janeiro;encantado;0;0
+casa;rio de janeiro;eng leal;4376;19
+casa;rio de janeiro;engenho da rainha;4376;19
+casa;rio de janeiro;engenho de dentro;0;0
+casa;rio de janeiro;engenho novo;0;0
+casa;rio de janeiro;estacio;5122;3
+casa;rio de janeiro;fatima;5122;3
+casa;rio de janeiro;fazenda botafogo;5122;3
+casa;rio de janeiro;flamengo;5122;3
+casa;rio de janeiro;freguesia;5122;3
+casa;rio de janeiro;freguesia (ilha do governador);5122;3
+casa;rio de janeiro;freguesia (jacarepagua);5122;3
+casa;rio de janeiro;freguesia ilha do governador;5122;3
+casa;rio de janeiro;freguesia/ilha do governador;5122;3
+casa;rio de janeiro;galeao;5122;3
+casa;rio de janeiro;gamboa;5122;3
+casa;rio de janeiro;gardenia azul;5122;3
+casa;rio de janeiro;gavea;5122;3
+casa;rio de janeiro;gloria;5122;3
+casa;rio de janeiro;grajau;0;0
+casa;rio de janeiro;grumari;0;0
+casa;rio de janeiro;guadalupe;0;0
+casa;rio de janeiro;guarabu;0;0
+casa;rio de janeiro;guaratiba;9417;13
+casa;rio de janeiro;higienopolis;9417;13
+casa;rio de janeiro;honorio gurgel;9417;13
+casa;rio de janeiro;humaita;9417;13
+casa;rio de janeiro;ilha do governador;3818;42
+casa;rio de janeiro;indeterminado;3818;42
+casa;rio de janeiro;inhauma;3818;42
+casa;rio de janeiro;inhoaiba;3818;42
+casa;rio de janeiro;ipanema;3818;42
+casa;rio de janeiro;iraja;3818;42
+casa;rio de janeiro;itacolomi;3818;42
+casa;rio de janeiro;itaguai;3818;42
+casa;rio de janeiro;itanhanga;3818;42
+casa;rio de janeiro;izadora;3818;42
+casa;rio de janeiro;jabour;3818;42
+casa;rio de janeiro;jacare;3818;42
+casa;rio de janeiro;jacarepagua;3818;42
+casa;rio de janeiro;jacarepagua   freguesia;3818;42
+casa;rio de janeiro;jacarepagua / freguesia;3818;42
+casa;rio de janeiro;jacarepagua freguesia;3818;42
+casa;rio de janeiro;jd america;3818;42
+casa;rio de janeiro;jd botanico;3818;42
+casa;rio de janeiro;jd carioca;3818;42
+casa;rio de janeiro;jd guanabara;3818;42
+casa;rio de janeiro;jd laranjeiras;3818;42
+casa;rio de janeiro;jd novo horizonte;3818;42
+casa;rio de janeiro;jd palmares;3818;42
+casa;rio de janeiro;jd sulacap;3818;42
+casa;rio de janeiro;jdcarioca;3818;42
+casa;rio de janeiro;joa;3818;42
+casa;rio de janeiro;lagoa;3818;42
+casa;rio de janeiro;lapa;3818;42
+casa;rio de janeiro;laranjeiras;3818;42
+casa;rio de janeiro;largo do machado;3818;42
+casa;rio de janeiro;leblon;3818;42
+casa;rio de janeiro;leme;3818;42
+casa;rio de janeiro;lins;3818;42
+casa;rio de janeiro;lins de vasconcelos;3818;42
+casa;rio de janeiro;lot madean;3818;42
+casa;rio de janeiro;madureira;3818;42
+casa;rio de janeiro;magalhaes bastos;3818;42
+casa;rio de janeiro;mangueira;3818;42
+casa;rio de janeiro;manguinhos;3818;42
+casa;rio de janeiro;maracana;3818;42
+casa;rio de janeiro;mare;3818;42
+casa;rio de janeiro;marechal hermes;3818;42
+casa;rio de janeiro;maria da graca;3818;42
+casa;rio de janeiro;meier;0;0
+casa;rio de janeiro;monero;4466;27
+casa;rio de janeiro;muda;4466;27
+casa;rio de janeiro;n s das gracas;2677;2
+casa;rio de janeiro;oiticica ii;2677;2
+casa;rio de janeiro;olaria;0;0
+casa;rio de janeiro;oswaldo cruz;4003;77
+casa;rio de janeiro;paciencia;4003;77
+casa;rio de janeiro;padre miguel;2940;3
+casa;rio de janeiro;paqueta;2940;3
+casa;rio de janeiro;parada de lucas;2940;3
+casa;rio de janeiro;pavuna;2940;3
+casa;rio de janeiro;pc da bandeira;5213;9
+casa;rio de janeiro;pc seca;5213;9
+casa;rio de janeiro;pechincha;5213;9
+casa;rio de janeiro;pedra de guaratiba;6921;3
+casa;rio de janeiro;penha;6921;3
+casa;rio de janeiro;penha circular;4198;52
+casa;rio de janeiro;piedade;3407;82
+casa;rio de janeiro;pilares;3407;82
+casa;rio de janeiro;pitangueiras;3347;22
+casa;rio de janeiro;portuguesa;3686;45
+casa;rio de janeiro;pq anchieta;2688;1
+casa;rio de janeiro;praca da bandeira;2688;1
+casa;rio de janeiro;praca seca;0;0
+casa;rio de janeiro;praia da bandeira;0;0
+casa;rio de janeiro;proletario nova cidade;4364;26
+casa;rio de janeiro;quintino bocaiuva;0;74
+casa;rio de janeiro;ramos;3815;74
+casa;rio de janeiro;realengo;2724;44
+casa;rio de janeiro;recreio dos bandeirantes;2724;44
+casa;rio de janeiro;riachuelo;6278;1.511
+casa;rio de janeiro;ribeira;4022;48
+casa;rio de janeiro;ricardo de albuquerque;4606;12
+casa;rio de janeiro;rio comprido;4606;12
+casa;rio de janeiro;rio da prata;4326;1
+casa;rio de janeiro;rocha;3094;3
+casa;rio de janeiro;rocha miranda;4434;40
+casa;rio de janeiro;rocinha;3379;33
+casa;rio de janeiro;s claudio;0;0
+casa;rio de janeiro;s conrado;0;0
+casa;rio de janeiro;s cristovao;8606;155
+casa;rio de janeiro;s francisco xavier;4584;20
+casa;rio de janeiro;sampaio;4584;20
+casa;rio de janeiro;santa cruz;4646;36
+casa;rio de janeiro;santa teresa;0;0
+casa;rio de janeiro;santissimo;0;0
+casa;rio de janeiro;santo cristo;0;0
+casa;rio de janeiro;sao conrado;0;0
+casa;rio de janeiro;sao cristovao;0;0
+casa;rio de janeiro;sao francisco xavier;0;0
+casa;rio de janeiro;saude;3385;1
+casa;rio de janeiro;senador camara;3385;1
+casa;rio de janeiro;senador vasconcelos;3963;2
+casa;rio de janeiro;sepetiba;3668;10
+casa;rio de janeiro;seropedica;0;0
+casa;rio de janeiro;sta cruz;0;6
+casa;rio de janeiro;sta teresa;2694;6
+casa;rio de janeiro;sto cristo;6440;151
+casa;rio de janeiro;sulacap;3341;2
+casa;rio de janeiro;tanque;3856;76
+casa;rio de janeiro;taquara;4121;804
+casa;rio de janeiro;taua;4121;804
+casa;rio de janeiro;tijuca;5773;582
+casa;rio de janeiro;tinguazinho i;0;0
+casa;rio de janeiro;tinguazinho ii;0;0
+casa;rio de janeiro;todos os santos;0;0
+casa;rio de janeiro;tomas coelho;4448;34
+casa;rio de janeiro;triagem;2941;2
+casa;rio de janeiro;tubiacanga;0;0
+casa;rio de janeiro;turiacu;0;0
+casa;rio de janeiro;urca;1667;4
+casa;rio de janeiro;usina;11354;47
+casa;rio de janeiro;v da penha;3925;14
+casa;rio de janeiro;v isabel;0;0
+casa;rio de janeiro;v iv centenario;0;0
+casa;rio de janeiro;v kosmos;0;0
+casa;rio de janeiro;v valqueire;0;0
+casa;rio de janeiro;vargem grande;0;274
+casa;rio de janeiro;vargem pequena;4371;274
+casa;rio de janeiro;vaz lobo;4426;429
+casa;rio de janeiro;vicente de carvalho;2848;13
+casa;rio de janeiro;vidigal;6314;14
+casa;rio de janeiro;vigario geral;6314;14
+casa;rio de janeiro;village;6314;14
+casa;rio de janeiro;vista alegre;6314;14
+casa;rio de janeiro;vl da penha;6314;14
+casa;rio de janeiro;vl do ceu;0;0
+casa;rio de janeiro;vl isabel;0;0
+casa;rio de janeiro;vl ivl centenario;0;0
+casa;rio de janeiro;vl kenedy;0;0
+casa;rio de janeiro;vl kosmos;4288;31
+casa;rio de janeiro;vl militar;4288;31
+casa;rio de janeiro;vl valqueire;4288;31
+casa;rio de janeiro;vl vitoria;4288;31
+casa;rio de janeiro;zumbi;4580;181
+casa;sao goncalo;alcantara;4580;181
+casa;sao goncalo;almerinda;2727;1
+casa;sao goncalo;amendoeira;0;0
+casa;sao goncalo;anaia pequeno;2296;4
+casa;sao goncalo;antonina;2296;4
+casa;sao goncalo;arsenal;2861;30
+casa;sao goncalo;barracao;2861;30
+casa;sao goncalo;barreto;0;0
+casa;sao goncalo;barro vermelho;0;0
+casa;sao goncalo;boa vista;2912;14
+casa;sao goncalo;boacu;2912;14
+casa;sao goncalo;bom retiro;0;0
+casa;sao goncalo;brasilandia;0;0
+casa;sao goncalo;calaboca;3165;10
+casa;sao goncalo;camarao;3288;2
+casa;sao goncalo;centro;4420;6
+casa;sao goncalo;coelho;4383;11
+casa;sao goncalo;colubande;2546;11
+casa;sao goncalo;covanca;2957;22
+casa;sao goncalo;engenho do rocado;3846;1
+casa;sao goncalo;engenho pequeno;1600;1
+casa;sao goncalo;estrela do norte;2199;2
+casa;sao goncalo;galo branco;2199;11
+casa;sao goncalo;gradim;3104;11
+casa;sao goncalo;guaxindiba;4097;2
+casa;sao goncalo;indeterminado;4097;2
+casa;sao goncalo;ipiiba;0;0
+casa;sao goncalo;itaoca;2462;1
+casa;sao goncalo;itauna;2462;1
+casa;sao goncalo;jd alcantara;2299;2
+casa;sao goncalo;jd bom retiro;0;0
+casa;sao goncalo;jd california;0;0
+casa;sao goncalo;jd catarina;3638;2
+casa;sao goncalo;jd fluminense;3638;2
+casa;sao goncalo;jd independencia;1049;1
+casa;sao goncalo;joquei clube;1049;1
+casa;sao goncalo;lagoinha;1049;1
+casa;sao goncalo;laranjal;1049;1
+casa;sao goncalo;lindo parque;1049;1
+casa;sao goncalo;mangueira;1049;1
+casa;sao goncalo;marambaia;0;0
+casa;sao goncalo;maria paula;3417;2
+casa;sao goncalo;miriambi;3417;2
+casa;sao goncalo;monjolo;0;0
+casa;sao goncalo;mutondo;2539;11
+casa;sao goncalo;mutua;3415;11
+casa;sao goncalo;mutuaguacu;3415;0
+casa;sao goncalo;mutuapira;1844;2
+casa;sao goncalo;n s da paz;1844;0
+casa;sao goncalo;neves;0;0
+casa;sao goncalo;nova cidade;3302;11
+casa;sao goncalo;novo mexico;0;0
+casa;sao goncalo;pacheco;2853;11
+casa;sao goncalo;parada 40;2853;11
+casa;sao goncalo;paraiso;2853;11
+casa;sao goncalo;patronato;2853;11
+casa;sao goncalo;piao;2934;1
+casa;sao goncalo;pita;3198;4
+casa;sao goncalo;portao do rosa;3198;4
+casa;sao goncalo;porto da madama;2603;1
+casa;sao goncalo;porto da pedra;2606;5
+casa;sao goncalo;porto do rosa;2606;5
+casa;sao goncalo;porto novo;3315;10
+casa;sao goncalo;porto velho;3315;10
+casa;sao goncalo;raul veiga;3244;12
+casa;sao goncalo;rio do ouro;3276;5
+casa;sao goncalo;rocha;2996;5
+casa;sao goncalo;s miguel;3577;2
+casa;sao goncalo;sacramento;3577;2
+casa;sao goncalo;santa luzia;0;0
+casa;sao goncalo;sao miguel;0;0
+casa;sao goncalo;sete pontes;0;10
+casa;sao goncalo;sta anita;3513;10
+casa;sao goncalo;sta catarina;0;4
+casa;sao goncalo;sta isabel;3335;2
+casa;sao goncalo;sta luzia;2079;2
+casa;sao goncalo;tenente jardim;2079;2
+casa;sao goncalo;tiradentes;2500;1
+casa;sao goncalo;tribobo;2046;8
+casa;sao goncalo;trindade;2046;8
+casa;sao goncalo;varzea das mocas;2605;4
+casa;sao goncalo;venda da cruz;2605;4
+casa;sao goncalo;vista alegre;2605;10
+casa;sao goncalo;vl iara;3159;10
+casa;sao goncalo;vl lage;3159;10
+casa;sao goncalo;vl tres;2518;7
+casa;sao goncalo;ze garoto;2518;7
+casa;sao joao de meriti;agostinho porto;2691;11
+casa;sao joao de meriti;centro;3067;1
+casa;sao joao de meriti;coelho da rocha;1786;1
+casa;sao joao de meriti;eden;1786;1
+casa;sao joao de meriti;eng belford;1786;1
+casa;sao joao de meriti;grande rio;1786;0
+casa;sao joao de meriti;indeterminado;2863;0
+casa;sao joao de meriti;jd da alegria;1811;0
+casa;sao joao de meriti;jd jose bonifacio;0;0
+casa;sao joao de meriti;jd meriti;0;0
+casa;sao joao de meriti;jd metropole;0;0
+casa;sao joao de meriti;jd olavo bilac;0;0
+casa;sao joao de meriti;jd sta rosa;0;0
+casa;sao joao de meriti;pq analandia;0;0
+casa;sao joao de meriti;pq novo rio;2819;1
+casa;sao joao de meriti;pq s judas tadeu;0;0
+casa;sao joao de meriti;pq teles de menezes;0;0
+casa;sao joao de meriti;s mateus;0;0
+casa;sao joao de meriti;tomazinho;0;0
+casa;sao joao de meriti;trezentos;0;0
+casa;sao joao de meriti;v r dos teles;0;0
+casa;sao joao de meriti;v rosali;0;0
+casa;sao joao de meriti;v s joao;0;0
+casa;sao joao de meriti;venda velha;0;0
+casa;sao joao de meriti;vilar dos teles;3500;2
+casa;sao joao de meriti;vl norma;3500;2
+casa;sao joao de meriti;vl r dos teles;3500;2
+casa;sao joao de meriti;vl rosali;1290;1
+casa;sao joao de meriti;vl s joao;0;0
+casa;sao joao de meriti;vl tiradentes;0;0
+casa;sao joao de meriti;vl zulmira;0;0
+casa;seropedica;centro;0;0
+casa;seropedica;indeterminado;0;0
+casa;seropedica;zona rural;0;0
+casa;tangua;bandeirantes i;0;0
+casa;tangua;centro;2169;1
+casa;tangua;indeterminado;2167;1
+comercial/ industrial;belford roxo;amelia;0;0
+comercial/ industrial;belford roxo;andrade araujo;0;0
+comercial/ industrial;belford roxo;areia branca;0;0
+comercial/ industrial;belford roxo;babi;0;0
+comercial/ industrial;belford roxo;belford roxo;0;0
+comercial/ industrial;belford roxo;boa esperanca;0;0
+comercial/ industrial;belford roxo;boa ventura;0;0
+comercial/ industrial;belford roxo;buriti;0;0
+comercial/ industrial;belford roxo;centro;0;0
+comercial/ industrial;belford roxo;ch sto antonio;0;0
+comercial/ industrial;belford roxo;gracas;0;0
+comercial/ industrial;belford roxo;heliopolis;0;0
+comercial/ industrial;belford roxo;hiterland;0;0
+comercial/ industrial;belford roxo;indeterminado;0;0
+comercial/ industrial;belford roxo;itaipu;0;0
+comercial/ industrial;belford roxo;jd almo;0;0
+comercial/ industrial;belford roxo;jd bom pastor;0;0
+comercial/ industrial;belford roxo;jd dimas filho;0;0
+comercial/ industrial;belford roxo;jd glaucia;0;0
+comercial/ industrial;belford roxo;jd redentor;0;0
+comercial/ industrial;belford roxo;jd sta marta;0;0
+comercial/ industrial;belford roxo;lot xv;0;0
+comercial/ industrial;belford roxo;lote xv;0;0
+comercial/ industrial;belford roxo;nova aurora;0;0
+comercial/ industrial;belford roxo;piam;0;0
+comercial/ industrial;belford roxo;pq amorim;0;0
+comercial/ industrial;belford roxo;pq esperanca;0;0
+comercial/ industrial;belford roxo;pq floresta;0;0
+comercial/ industrial;belford roxo;pq martinho;0;0
+comercial/ industrial;belford roxo;pq s bernardo;0;0
+comercial/ industrial;belford roxo;pq s jose;0;0
+comercial/ industrial;belford roxo;pq s vicente;0;0
+comercial/ industrial;belford roxo;pq santa amelia;0;0
+comercial/ industrial;belford roxo;pq saxonia;0;0
+comercial/ industrial;belford roxo;pq sta amelia;0;0
+comercial/ industrial;belford roxo;prata;0;0
+comercial/ industrial;belford roxo;rocha sobrinho;0;0
+comercial/ industrial;belford roxo;s bernardo;0;0
+comercial/ industrial;belford roxo;s jorge;0;0
+comercial/ industrial;belford roxo;sta cecilia;0;0
+comercial/ industrial;belford roxo;sta maria;0;0
+comercial/ industrial;belford roxo;sublime;0;0
+comercial/ industrial;belford roxo;vergel dos felix;0;0
+comercial/ industrial;belford roxo;vl dagmar;0;0
+comercial/ industrial;belford roxo;vl entre rios;0;0
+comercial/ industrial;belford roxo;vl joao lima;0;0
+comercial/ industrial;belford roxo;vl madalena;0;0
+comercial/ industrial;belford roxo;vl medeiros;0;0
+comercial/ industrial;belford roxo;vl pauline;0;0
+comercial/ industrial;belford roxo;vl r novo;0;0
+comercial/ industrial;belford roxo;vl s luis;0;0
+comercial/ industrial;belford roxo;vl s teodoro;0;0
+comercial/ industrial;belford roxo;vl sto antonio da prata;0;0
+comercial/ industrial;belford roxo;vl verde;0;0
+comercial/ industrial;belford roxo;vl vitorio;0;0
+comercial/ industrial;cachoeiras de macacu;boca do mato;0;0
+comercial/ industrial;cachoeiras de macacu;centro;0;0
+comercial/ industrial;cachoeiras de macacu;indeterminado;0;0
+comercial/ industrial;cachoeiras de macacu;papucaia;0;0
+comercial/ industrial;cachoeiras de macacu;zona rural;0;0
+comercial/ industrial;duque de caxias;barro branco;0;0
+comercial/ industrial;duque de caxias;centro;0;0
+comercial/ industrial;duque de caxias;ch arcampo;0;0
+comercial/ industrial;duque de caxias;ch maria helena;0;0
+comercial/ industrial;duque de caxias;ch riopetropolis;0;0
+comercial/ industrial;duque de caxias;chac rio petropolis;0;0
+comercial/ industrial;duque de caxias;chac riopetropolis;0;0
+comercial/ industrial;duque de caxias;chacrinha;0;0
+comercial/ industrial;duque de caxias;circular;0;0
+comercial/ industrial;duque de caxias;divino;0;0
+comercial/ industrial;duque de caxias;dr laureano;0;0
+comercial/ industrial;duque de caxias;engenho do porto;0;0
+comercial/ industrial;duque de caxias;gramacho;0;0
+comercial/ industrial;duque de caxias;imbarie;0;0
+comercial/ industrial;duque de caxias;indeterminado;0;0
+comercial/ industrial;duque de caxias;itatiaia;0;0
+comercial/ industrial;duque de caxias;jd 25 de agosto;0;0
+comercial/ industrial;duque de caxias;jd anhanga;0;0
+comercial/ industrial;duque de caxias;jd gramacho;0;0
+comercial/ industrial;duque de caxias;jd imbarie;0;0
+comercial/ industrial;duque de caxias;jd leal;0;0
+comercial/ industrial;duque de caxias;jd olavo bilac;0;0
+comercial/ industrial;duque de caxias;jd olimpo;0;0
+comercial/ industrial;duque de caxias;jd panama;0;0
+comercial/ industrial;duque de caxias;jd primavera;0;0
+comercial/ industrial;duque de caxias;jd vinte e cinco de agosto;0;0
+comercial/ industrial;duque de caxias;mantiquira;0;0
+comercial/ industrial;duque de caxias;nova campinas;0;0
+comercial/ industrial;duque de caxias;pq barao do amapa;0;0
+comercial/ industrial;duque de caxias;pq beira mar;0;0
+comercial/ industrial;duque de caxias;pq boa vista i;0;0
+comercial/ industrial;duque de caxias;pq boa vista ii;0;0
+comercial/ industrial;duque de caxias;pq capivari;0;0
+comercial/ industrial;duque de caxias;pq centenario;0;0
+comercial/ industrial;duque de caxias;pq duque de caxias;0;0
+comercial/ industrial;duque de caxias;pq eldorado;0;0
+comercial/ industrial;duque de caxias;pq equitativa;0;0
+comercial/ industrial;duque de caxias;pq esperanca;0;0
+comercial/ industrial;duque de caxias;pq felicidade;0;0
+comercial/ industrial;duque de caxias;pq fluminense;0;0
+comercial/ industrial;duque de caxias;pq imperio;0;0
+comercial/ industrial;duque de caxias;pq independencia;0;0
+comercial/ industrial;duque de caxias;pq joao pessoa;0;0
+comercial/ industrial;duque de caxias;pq lafaiete;0;0
+comercial/ industrial;duque de caxias;pq laguna e dourados;0;0
+comercial/ industrial;duque de caxias;pq muisa;0;0
+comercial/ industrial;duque de caxias;pq nova esperanca;0;0
+comercial/ industrial;duque de caxias;pq pauliceia;0;0
+comercial/ industrial;duque de caxias;pq paulista;0;0
+comercial/ industrial;duque de caxias;pq senhor do bonfim;0;0
+comercial/ industrial;duque de caxias;pq sta lucia;0;0
+comercial/ industrial;duque de caxias;pq uruguaiana;0;0
+comercial/ industrial;duque de caxias;pq vitoria;0;0
+comercial/ industrial;duque de caxias;pq xerem;0;0
+comercial/ industrial;duque de caxias;s bento;0;0
+comercial/ industrial;duque de caxias;saracuruna;0;0
+comercial/ industrial;duque de caxias;sarapui;0;0
+comercial/ industrial;duque de caxias;sta lucia;0;0
+comercial/ industrial;duque de caxias;sto antonio;0;0
+comercial/ industrial;duque de caxias;taquara;0;0
+comercial/ industrial;duque de caxias;v actura;0;0
+comercial/ industrial;duque de caxias;v s joao;0;0
+comercial/ industrial;duque de caxias;v s judas tadeu;0;0
+comercial/ industrial;duque de caxias;v s luis;0;0
+comercial/ industrial;duque de caxias;v s sebastiao;0;0
+comercial/ industrial;duque de caxias;v sao luis;0;0
+comercial/ industrial;duque de caxias;v sta cruz;0;0
+comercial/ industrial;duque de caxias;v sto antonio;0;0
+comercial/ industrial;duque de caxias;vl actura;0;0
+comercial/ industrial;duque de caxias;vl bela vista;0;0
+comercial/ industrial;duque de caxias;vl canaan;0;0
+comercial/ industrial;duque de caxias;vl centenario;0;0
+comercial/ industrial;duque de caxias;vl ema;0;0
+comercial/ industrial;duque de caxias;vl guanabara;0;0
+comercial/ industrial;duque de caxias;vl ideal;0;0
+comercial/ industrial;duque de caxias;vl itamarati;0;0
+comercial/ industrial;duque de caxias;vl leopoldina;0;0
+comercial/ industrial;duque de caxias;vl maria helena;0;0
+comercial/ industrial;duque de caxias;vl meriti;0;0
+comercial/ industrial;duque de caxias;vl oito de maio;0;0
+comercial/ industrial;duque de caxias;vl paula;0;0
+comercial/ industrial;duque de caxias;vl rosario;0;0
+comercial/ industrial;duque de caxias;vl s luis;0;0
+comercial/ industrial;duque de caxias;vl s sebastiao;0;0
+comercial/ industrial;duque de caxias;vl sarapui;0;0
+comercial/ industrial;duque de caxias;vl sta alice;0;0
+comercial/ industrial;duque de caxias;vl sta cruz;0;0
+comercial/ industrial;duque de caxias;xerem;0;0
+comercial/ industrial;guapimirim;centro;0;0
+comercial/ industrial;guapimirim;indeterminado;0;0
+comercial/ industrial;guapimirim;zona rural;0;0
+comercial/ industrial;itaborai;aldeia da prata (manilha);0;0
+comercial/ industrial;itaborai;ampliacao;0;0
+comercial/ industrial;itaborai;areal;0;0
+comercial/ industrial;itaborai;bela vista;0;0
+comercial/ industrial;itaborai;bonfim;0;0
+comercial/ industrial;itaborai;caluge;0;0
+comercial/ industrial;itaborai;centro;0;0
+comercial/ industrial;itaborai;ch bela vista;0;0
+comercial/ industrial;itaborai;gebara (itambi);0;0
+comercial/ industrial;itaborai;indeterminado;0;0
+comercial/ industrial;itaborai;jd imperial;0;0
+comercial/ industrial;itaborai;joaquim de oliveira;0;0
+comercial/ industrial;itaborai;manilha;0;0
+comercial/ industrial;itaborai;marambaia;0;0
+comercial/ industrial;itaborai;monte verde (manilha);0;0
+comercial/ industrial;itaborai;nancilandia;0;0
+comercial/ industrial;itaborai;nova cidade;0;0
+comercial/ industrial;itaborai;outeiro das pedras;0;0
+comercial/ industrial;itaborai;quissama;0;0
+comercial/ industrial;itaborai;retiro s joaquim;0;0
+comercial/ industrial;itaborai;rio varzea;0;0
+comercial/ industrial;itaborai;s jose;0;0
+comercial/ industrial;itaborai;sossego;0;0
+comercial/ industrial;itaborai;sto expedito;0;0
+comercial/ industrial;itaborai;tangua;0;0
+comercial/ industrial;itaborai;tres pontes;0;0
+comercial/ industrial;itaborai;venda das pedras;0;0
+comercial/ industrial;itaborai;visconde de itaborai;0;0
+comercial/ industrial;itaborai;zona rural;0;0
+comercial/ industrial;itaguai;aguas lindas;0;0
+comercial/ industrial;itaguai;brisa mar;0;0
+comercial/ industrial;itaguai;california;0;0
+comercial/ industrial;itaguai;centro;0;0
+comercial/ industrial;itaguai;chapero;0;0
+comercial/ industrial;itaguai;cid industrial;0;0
+comercial/ industrial;itaguai;coroa grande;0;0
+comercial/ industrial;itaguai;engenho;0;0
+comercial/ industrial;itaguai;ibirapitanga;0;0
+comercial/ industrial;itaguai;ibituporanga;0;0
+comercial/ industrial;itaguai;ilha da madeira;0;0
+comercial/ industrial;itaguai;indeterminado;0;0
+comercial/ industrial;itaguai;jd america;0;0
+comercial/ industrial;itaguai;jd laia;0;0
+comercial/ industrial;itaguai;jd veda;0;0
+comercial/ industrial;itaguai;leandro;0;0
+comercial/ industrial;itaguai;monte serrat;0;0
+comercial/ industrial;itaguai;piranema;0;0
+comercial/ industrial;itaguai;pq independencia;0;0
+comercial/ industrial;itaguai;pq paraiso;0;0
+comercial/ industrial;itaguai;pq primavera;0;0
+comercial/ industrial;itaguai;sta candida;0;0
+comercial/ industrial;itaguai;teixeiras;0;0
+comercial/ industrial;itaguai;vl geny;0;0
+comercial/ industrial;itaguai;vl ibirapitanga;0;0
+comercial/ industrial;itaguai;vl margarida;0;0
+comercial/ industrial;japeri;japeri;0;0
+comercial/ industrial;mage;centro;0;0
+comercial/ industrial;mage;indeterminado;0;0
+comercial/ industrial;mage;zona rural;0;0
+comercial/ industrial;mangaratiba;centro;0;0
+comercial/ industrial;mangaratiba;conceicao de jacarei;0;0
+comercial/ industrial;mangaratiba;indeterminado;0;0
+comercial/ industrial;mangaratiba;itacuruca;0;0
+comercial/ industrial;mangaratiba;itacurussa;0;0
+comercial/ industrial;mangaratiba;muriqui;0;0
+comercial/ industrial;mangaratiba;praia grande;0;0
+comercial/ industrial;mangaratiba;sahy;0;0
+comercial/ industrial;marica;aracatiba;0;0
+comercial/ industrial;marica;bal bambui (ponta negra);0;0
+comercial/ industrial;marica;barra de marica;0;0
+comercial/ industrial;marica;barroco (itaipuacu);0;0
+comercial/ industrial;marica;caju (ponta negra);0;0
+comercial/ industrial;marica;cajueiros;0;0
+comercial/ industrial;marica;cajueiros (itaipuacu);0;0
+comercial/ industrial;marica;caxito;0;0
+comercial/ industrial;marica;centro;0;0
+comercial/ industrial;marica;ch de inoa;0;0
+comercial/ industrial;marica;ch rincao mimoso;0;0
+comercial/ industrial;marica;cid nova;0;0
+comercial/ industrial;marica;condado de marica;0;0
+comercial/ industrial;marica;cordeirinho;0;0
+comercial/ industrial;marica;espraiado (ponta negra);0;0
+comercial/ industrial;marica;flamengo;0;0
+comercial/ industrial;marica;guaratiba;0;0
+comercial/ industrial;marica;indeterminado;0;0
+comercial/ industrial;marica;inoa;0;0
+comercial/ industrial;marica;itaipuacu;0;0
+comercial/ industrial;marica;itaocaia valley;0;0
+comercial/ industrial;marica;itapeba;0;0
+comercial/ industrial;marica;jacaroa;0;0
+comercial/ industrial;marica;jacone (pte negra);0;0
+comercial/ industrial;marica;jd atlantico;0;0
+comercial/ industrial;marica;marques de marica;0;0
+comercial/ industrial;marica;mumbuca;0;0
+comercial/ industrial;marica;pedreiras;0;0
+comercial/ industrial;marica;ponta grossa;0;0
+comercial/ industrial;marica;ponta negra;0;0
+comercial/ industrial;marica;pq nanci;0;0
+comercial/ industrial;marica;recanto;0;0
+comercial/ industrial;marica;retiro;0;0
+comercial/ industrial;marica;s bento da lagoa;0;0
+comercial/ industrial;marica;s jose do imbassai;0;0
+comercial/ industrial;marica;ubatiba;0;0
+comercial/ industrial;marica;vale da figueira (ponta negra);0;0
+comercial/ industrial;marica;vivendas de itaipuacu;0;0
+comercial/ industrial;mesquita;banco de areia;0;0
+comercial/ industrial;mesquita;centro;0;0
+comercial/ industrial;mesquita;cosmorama;0;0
+comercial/ industrial;mesquita;edison passos;0;0
+comercial/ industrial;mesquita;indeterminado;0;0
+comercial/ industrial;mesquita;jacutinga;0;0
+comercial/ industrial;mesquita;presid juscelino;0;0
+comercial/ industrial;mesquita;rocha sobrinho;0;0
+comercial/ industrial;mesquita;sta teresinha;0;0
+comercial/ industrial;mesquita;sto elias;0;0
+comercial/ industrial;nilopolis;cabral;0;0
+comercial/ industrial;nilopolis;cabuis;0;0
+comercial/ industrial;nilopolis;centro;0;0
+comercial/ industrial;nilopolis;chatuba;0;0
+comercial/ industrial;nilopolis;indeterminado;0;0
+comercial/ industrial;nilopolis;nova cidade;0;0
+comercial/ industrial;nilopolis;olinda;0;0
+comercial/ industrial;nilopolis;paiol de polvora;0;0
+comercial/ industrial;niteroi;atalaia;0;0
+comercial/ industrial;niteroi;badu;0;0
+comercial/ industrial;niteroi;baldeador;0;0
+comercial/ industrial;niteroi;barreto;0;0
+comercial/ industrial;niteroi;beltrao;0;0
+comercial/ industrial;niteroi;boa viagem;0;0
+comercial/ industrial;niteroi;cafuba;0;0
+comercial/ industrial;niteroi;camboinhas;0;0
+comercial/ industrial;niteroi;cantagalo;0;0
+comercial/ industrial;niteroi;caramujo;0;0
+comercial/ industrial;niteroi;centro;0;0
+comercial/ industrial;niteroi;charitas;0;0
+comercial/ industrial;niteroi;cid nova;0;0
+comercial/ industrial;niteroi;cubango;0;0
+comercial/ industrial;niteroi;engenho do mato;0;0
+comercial/ industrial;niteroi;engenhoca;0;0
+comercial/ industrial;niteroi;fatima;0;0
+comercial/ industrial;niteroi;figueira;0;0
+comercial/ industrial;niteroi;fonseca;0;0
+comercial/ industrial;niteroi;gragoata;0;0
+comercial/ industrial;niteroi;icarai;0;0
+comercial/ industrial;niteroi;ilha da conceicao;0;0
+comercial/ industrial;niteroi;indeterminado;0;0
+comercial/ industrial;niteroi;inga;0;0
+comercial/ industrial;niteroi;itacoatiara;0;0
+comercial/ industrial;niteroi;itaipu;0;0
+comercial/ industrial;niteroi;ititioca;0;0
+comercial/ industrial;niteroi;jacare;0;0
+comercial/ industrial;niteroi;jd fazendinha;0;0
+comercial/ industrial;niteroi;jd imbui;0;0
+comercial/ industrial;niteroi;jurujuba;0;0
+comercial/ industrial;niteroi;largo da batalha;0;0
+comercial/ industrial;niteroi;largo do barradas;0;0
+comercial/ industrial;niteroi;lot engenho do mato;0;0
+comercial/ industrial;niteroi;lot maravista;0;0
+comercial/ industrial;niteroi;maceio;0;0
+comercial/ industrial;niteroi;maralegre;0;0
+comercial/ industrial;niteroi;maravista;0;0
+comercial/ industrial;niteroi;marazul;0;0
+comercial/ industrial;niteroi;maria paula;0;0
+comercial/ industrial;niteroi;martins torres;0;0
+comercial/ industrial;niteroi;mata paca;0;0
+comercial/ industrial;niteroi;matapaca;0;0
+comercial/ industrial;niteroi;niteroi;0;0
+comercial/ industrial;niteroi;pe pequeno;0;0
+comercial/ industrial;niteroi;pendotiba;0;0
+comercial/ industrial;niteroi;piratininga;0;0
+comercial/ industrial;niteroi;ponta d areia;0;0
+comercial/ industrial;niteroi;ponta da areia;0;0
+comercial/ industrial;niteroi;ponta dareia;0;0
+comercial/ industrial;niteroi;ponto cem reis;0;0
+comercial/ industrial;niteroi;rio do ouro;0;0
+comercial/ industrial;niteroi;rio do ouro e varzea das mocas;0;0
+comercial/ industrial;niteroi;s domingos;0;0
+comercial/ industrial;niteroi;s francisco;0;0
+comercial/ industrial;niteroi;s lourenco;0;0
+comercial/ industrial;niteroi;santa rosa;0;0
+comercial/ industrial;niteroi;santana;0;0
+comercial/ industrial;niteroi;sao francisco;0;0
+comercial/ industrial;niteroi;sao lourenco;0;0
+comercial/ industrial;niteroi;sape;0;0
+comercial/ industrial;niteroi;sape e vl progresso;0;0
+comercial/ industrial;niteroi;sta barbara;0;0
+comercial/ industrial;niteroi;sta rosa;0;0
+comercial/ industrial;niteroi;sto antonio;0;0
+comercial/ industrial;niteroi;sto antonio e serra grande;0;0
+comercial/ industrial;niteroi;teixeira de freitas;0;0
+comercial/ industrial;niteroi;tenente jardim;0;0
+comercial/ industrial;niteroi;varzea das mocas;0;0
+comercial/ industrial;niteroi;venda da cruz;0;0
+comercial/ industrial;niteroi;vital brasil;0;0
+comercial/ industrial;niteroi;vl progresso;0;0
+comercial/ industrial;nova iguacu;adrianopolis;0;0
+comercial/ industrial;nova iguacu;aero clube;0;0
+comercial/ industrial;nova iguacu;alto da posse;0;0
+comercial/ industrial;nova iguacu;alvarez;0;0
+comercial/ industrial;nova iguacu;ambai;0;0
+comercial/ industrial;nova iguacu;andrade araujo;0;0
+comercial/ industrial;nova iguacu;austin;0;0
+comercial/ industrial;nova iguacu;barao de amapa;0;0
+comercial/ industrial;nova iguacu;bela vista;0;0
+comercial/ industrial;nova iguacu;boa esperanca;0;0
+comercial/ industrial;nova iguacu;botafogo;0;0
+comercial/ industrial;nova iguacu;cabucu;0;0
+comercial/ industrial;nova iguacu;caioaba;0;0
+comercial/ industrial;nova iguacu;california;0;0
+comercial/ industrial;nova iguacu;caonde;0;0
+comercial/ industrial;nova iguacu;caonze;0;0
+comercial/ industrial;nova iguacu;carmari;0;0
+comercial/ industrial;nova iguacu;carolina;0;0
+comercial/ industrial;nova iguacu;centro;0;0
+comercial/ industrial;nova iguacu;ceramica;0;0
+comercial/ industrial;nova iguacu;chacrinha;0;0
+comercial/ industrial;nova iguacu;chique;0;0
+comercial/ industrial;nova iguacu;cid jardim cabucu;0;0
+comercial/ industrial;nova iguacu;cid jd cabucu;0;0
+comercial/ industrial;nova iguacu;cid jd pq estoril;0;0
+comercial/ industrial;nova iguacu;comendador soares;0;0
+comercial/ industrial;nova iguacu;cruzeiro do sul;0;0
+comercial/ industrial;nova iguacu;cuiaba;0;0
+comercial/ industrial;nova iguacu;dom rodrigo;0;0
+comercial/ industrial;nova iguacu;edison passos;0;0
+comercial/ industrial;nova iguacu;eng rocha freire;0;0
+comercial/ industrial;nova iguacu;essolandia;0;0
+comercial/ industrial;nova iguacu;fe;0;0
+comercial/ industrial;nova iguacu;figueiras;0;0
+comercial/ industrial;nova iguacu;floresta;0;0
+comercial/ industrial;nova iguacu;grande rio;0;0
+comercial/ industrial;nova iguacu;imperador;0;0
+comercial/ industrial;nova iguacu;inconfidencia;0;0
+comercial/ industrial;nova iguacu;independencia;0;0
+comercial/ industrial;nova iguacu;indeterminado;0;0
+comercial/ industrial;nova iguacu;jacutinga;0;0
+comercial/ industrial;nova iguacu;jd alvorada;0;0
+comercial/ industrial;nova iguacu;jd canaan;0;0
+comercial/ industrial;nova iguacu;jd continental;0;0
+comercial/ industrial;nova iguacu;jd corumba;0;0
+comercial/ industrial;nova iguacu;jd da posse;0;0
+comercial/ industrial;nova iguacu;jd da viga;0;0
+comercial/ industrial;nova iguacu;jd esplanada;0;0
+comercial/ industrial;nova iguacu;jd iguacu;0;0
+comercial/ industrial;nova iguacu;jd imperio;0;0
+comercial/ industrial;nova iguacu;jd jasmim;0;0
+comercial/ industrial;nova iguacu;jd nova era;0;0
+comercial/ industrial;nova iguacu;jd nova iguacu;0;0
+comercial/ industrial;nova iguacu;jd palmares;0;0
+comercial/ industrial;nova iguacu;jd pernambuco;0;0
+comercial/ industrial;nova iguacu;jd pitoresco;0;0
+comercial/ industrial;nova iguacu;jd sta eugenia;0;0
+comercial/ industrial;nova iguacu;jd tropical;0;0
+comercial/ industrial;nova iguacu;k 11;0;0
+comercial/ industrial;nova iguacu;k 32;0;0
+comercial/ industrial;nova iguacu;k11;0;0
+comercial/ industrial;nova iguacu;k32;0;0
+comercial/ industrial;nova iguacu;kennedy;0;0
+comercial/ industrial;nova iguacu;lafaiete;0;0
+comercial/ industrial;nova iguacu;lagoinha;0;0
+comercial/ industrial;nova iguacu;luz;0;0
+comercial/ industrial;nova iguacu;marco ii;0;0
+comercial/ industrial;nova iguacu;margarida;0;0
+comercial/ industrial;nova iguacu;maria da luz;0;0
+comercial/ industrial;nova iguacu;maria jose;0;0
+comercial/ industrial;nova iguacu;mesquita;0;0
+comercial/ industrial;nova iguacu;metropole;0;0
+comercial/ industrial;nova iguacu;miguel couto;0;0
+comercial/ industrial;nova iguacu;monte castelo;0;0
+comercial/ industrial;nova iguacu;monte libano;0;0
+comercial/ industrial;nova iguacu;moqueta;0;0
+comercial/ industrial;nova iguacu;morro agudo;0;0
+comercial/ industrial;nova iguacu;n s das gracas;0;0
+comercial/ industrial;nova iguacu;nazare;0;0
+comercial/ industrial;nova iguacu;nova america;0;0
+comercial/ industrial;nova iguacu;nova luz;0;0
+comercial/ industrial;nova iguacu;oliveira;0;0
+comercial/ industrial;nova iguacu;ouro preto;0;0
+comercial/ industrial;nova iguacu;palhada;0;0
+comercial/ industrial;nova iguacu;palmeiras;0;0
+comercial/ industrial;nova iguacu;paraiso;0;0
+comercial/ industrial;nova iguacu;pioneiro;0;0
+comercial/ industrial;nova iguacu;ponto chic;0;0
+comercial/ industrial;nova iguacu;posse;0;0
+comercial/ industrial;nova iguacu;pq das palmeiras;0;0
+comercial/ industrial;nova iguacu;pq engenho pequeno;0;0
+comercial/ industrial;nova iguacu;pq flora;0;0
+comercial/ industrial;nova iguacu;pq horizonte;0;0
+comercial/ industrial;nova iguacu;pq resid guadalajara;0;0
+comercial/ industrial;nova iguacu;pq rosario;0;0
+comercial/ industrial;nova iguacu;pq s carlos;0;0
+comercial/ industrial;nova iguacu;pq tres coracoes;0;0
+comercial/ industrial;nova iguacu;pq ulisses;0;0
+comercial/ industrial;nova iguacu;prata;0;0
+comercial/ industrial;nova iguacu;presid juscelino;0;0
+comercial/ industrial;nova iguacu;queimados;0;0
+comercial/ industrial;nova iguacu;rancho fundo;0;0
+comercial/ industrial;nova iguacu;rancho novo;0;0
+comercial/ industrial;nova iguacu;riachao;0;0
+comercial/ industrial;nova iguacu;rosa dos ventos;0;0
+comercial/ industrial;nova iguacu;s benedito;0;0
+comercial/ industrial;nova iguacu;s geraldo;0;0
+comercial/ industrial;nova iguacu;s jose;0;0
+comercial/ industrial;nova iguacu;silvania;0;0
+comercial/ industrial;nova iguacu;sitio novo oriente;0;0
+comercial/ industrial;nova iguacu;sta catarina;0;0
+comercial/ industrial;nova iguacu;sta cecilia;0;0
+comercial/ industrial;nova iguacu;sta clara;0;0
+comercial/ industrial;nova iguacu;sta eufenia;0;0
+comercial/ industrial;nova iguacu;sta eugenia;0;0
+comercial/ industrial;nova iguacu;sta rita;0;0
+comercial/ industrial;nova iguacu;tingua;0;0
+comercial/ industrial;nova iguacu;tiradentes;0;0
+comercial/ industrial;nova iguacu;v s jorge;0;0
+comercial/ industrial;nova iguacu;v s luis;0;0
+comercial/ industrial;nova iguacu;valverde;0;0
+comercial/ industrial;nova iguacu;vaz martins;0;0
+comercial/ industrial;nova iguacu;vista alegre;0;0
+comercial/ industrial;nova iguacu;vl abolicao;0;0
+comercial/ industrial;nova iguacu;vl anita;0;0
+comercial/ industrial;nova iguacu;vl avelina;0;0
+comercial/ industrial;nova iguacu;vl bandeirantes;0;0
+comercial/ industrial;nova iguacu;vl de cava;0;0
+comercial/ industrial;nova iguacu;vl formosa;0;0
+comercial/ industrial;nova iguacu;vl iguacuana;0;0
+comercial/ industrial;nova iguacu;vl iracema;0;0
+comercial/ industrial;nova iguacu;vl marines;0;0
+comercial/ industrial;nova iguacu;vl martins;0;0
+comercial/ industrial;nova iguacu;vl nova;0;0
+comercial/ industrial;nova iguacu;vl operaria;0;0
+comercial/ industrial;nova iguacu;vl palmeiras;0;0
+comercial/ industrial;nova iguacu;vl rancho novo;0;0
+comercial/ industrial;nova iguacu;vl s jorge;0;0
+comercial/ industrial;nova iguacu;vl s luis;0;0
+comercial/ industrial;nova iguacu;vl sta teresinha de jesus;0;0
+comercial/ industrial;nova iguacu;vl tres coracoes;0;0
+comercial/ industrial;nova iguacu;vl verde;0;0
+comercial/ industrial;nova iguacu;vl zulmira;0;0
+comercial/ industrial;paracambi;centro;0;0
+comercial/ industrial;paracambi;indeterminado;0;0
+comercial/ industrial;queimados;a noite;0;0
+comercial/ industrial;queimados;austin;0;0
+comercial/ industrial;queimados;belmonte;0;0
+comercial/ industrial;queimados;cabucu;0;0
+comercial/ industrial;queimados;centro;0;0
+comercial/ industrial;queimados;guarani;0;0
+comercial/ industrial;queimados;indeterminado;0;0
+comercial/ industrial;queimados;jd alzira;0;0
+comercial/ industrial;queimados;jd capuacu;0;0
+comercial/ industrial;queimados;jd guandu;0;0
+comercial/ industrial;queimados;jd queimados;0;0
+comercial/ industrial;queimados;pacaembu;0;0
+comercial/ industrial;queimados;pq presid dutra;0;0
+comercial/ industrial;queimados;pq presidente dutra;0;0
+comercial/ industrial;queimados;queimados;0;0
+comercial/ industrial;queimados;vl avante;0;0
+comercial/ industrial;queimados;vl do tingua;0;0
+comercial/ industrial;queimados;vl s joao;0;0
+comercial/ industrial;rio bonito;centro;0;0
+comercial/ industrial;rio bonito;indeterminado;0;0
+comercial/ industrial;rio bonito;zona rural;0;0
+comercial/ industrial;rio de janeiro;abolicao;0;0
+comercial/ industrial;rio de janeiro;acari;0;0
+comercial/ industrial;rio de janeiro;adriana;0;0
+comercial/ industrial;rio de janeiro;aeroporto;0;0
+comercial/ industrial;rio de janeiro;agua santa;0;0
+comercial/ industrial;rio de janeiro;alcantara;0;0
+comercial/ industrial;rio de janeiro;alto da boa vista;0;0
+comercial/ industrial;rio de janeiro;anchieta;0;0
+comercial/ industrial;rio de janeiro;andarai;0;0
+comercial/ industrial;rio de janeiro;anil;0;0
+comercial/ industrial;rio de janeiro;araujo de cosmos;0;0
+comercial/ industrial;rio de janeiro;arpoador;0;0
+comercial/ industrial;rio de janeiro;baia de guanabara;0;0
+comercial/ industrial;rio de janeiro;bananal;0;0
+comercial/ industrial;rio de janeiro;bancarios;0;0
+comercial/ industrial;rio de janeiro;bangu;0;0
+comercial/ industrial;rio de janeiro;barra da tijuca;0;0
+comercial/ industrial;rio de janeiro;barra de guaratiba;0;0
+comercial/ industrial;rio de janeiro;barros filho;0;0
+comercial/ industrial;rio de janeiro;benfica;0;0
+comercial/ industrial;rio de janeiro;bento ribeiro;0;0
+comercial/ industrial;rio de janeiro;boiuna;0;0
+comercial/ industrial;rio de janeiro;bonsucesso;0;0
+comercial/ industrial;rio de janeiro;botafogo;0;0
+comercial/ industrial;rio de janeiro;bras de pina;0;0
+comercial/ industrial;rio de janeiro;cachambi;0;0
+comercial/ industrial;rio de janeiro;cachamorra;0;0
+comercial/ industrial;rio de janeiro;cacuia;0;0
+comercial/ industrial;rio de janeiro;caju;0;0
+comercial/ industrial;rio de janeiro;camorim;0;0
+comercial/ industrial;rio de janeiro;campinho;0;0
+comercial/ industrial;rio de janeiro;campo dos afonsos;0;0
+comercial/ industrial;rio de janeiro;campo formoso;0;0
+comercial/ industrial;rio de janeiro;campo grande;0;0
+comercial/ industrial;rio de janeiro;cascadura;0;0
+comercial/ industrial;rio de janeiro;castelo;0;0
+comercial/ industrial;rio de janeiro;catete;0;0
+comercial/ industrial;rio de janeiro;catumbi;0;0
+comercial/ industrial;rio de janeiro;cavalcante;0;0
+comercial/ industrial;rio de janeiro;cavalcanti;0;0
+comercial/ industrial;rio de janeiro;centro;0;0
+comercial/ industrial;rio de janeiro;centro valenca;0;0
+comercial/ industrial;rio de janeiro;cid de deus;0;0
+comercial/ industrial;rio de janeiro;cid nova;0;0
+comercial/ industrial;rio de janeiro;cid universitaria;0;0
+comercial/ industrial;rio de janeiro;cidade de deus;0;0
+comercial/ industrial;rio de janeiro;cidade nova;0;0
+comercial/ industrial;rio de janeiro;cinelandia;0;0
+comercial/ industrial;rio de janeiro;cocota;0;0
+comercial/ industrial;rio de janeiro;coelho neto;0;0
+comercial/ industrial;rio de janeiro;colegio;0;0
+comercial/ industrial;rio de janeiro;copacabana;0;0
+comercial/ industrial;rio de janeiro;cordovil;0;0
+comercial/ industrial;rio de janeiro;cosme velho;0;0
+comercial/ industrial;rio de janeiro;cosmos;0;0
+comercial/ industrial;rio de janeiro;costa barros;0;0
+comercial/ industrial;rio de janeiro;curicica;0;0
+comercial/ industrial;rio de janeiro;del castilho;0;0
+comercial/ industrial;rio de janeiro;dende;0;0
+comercial/ industrial;rio de janeiro;deodoro;0;0
+comercial/ industrial;rio de janeiro;dumas;0;0
+comercial/ industrial;rio de janeiro;encantado;0;0
+comercial/ industrial;rio de janeiro;eng leal;0;0
+comercial/ industrial;rio de janeiro;engenho da rainha;0;0
+comercial/ industrial;rio de janeiro;engenho de dentro;0;0
+comercial/ industrial;rio de janeiro;engenho novo;0;0
+comercial/ industrial;rio de janeiro;estacio;0;0
+comercial/ industrial;rio de janeiro;fatima;0;0
+comercial/ industrial;rio de janeiro;fazenda botafogo;0;0
+comercial/ industrial;rio de janeiro;flamengo;0;0
+comercial/ industrial;rio de janeiro;freguesia;0;0
+comercial/ industrial;rio de janeiro;freguesia (ilha do governador);0;0
+comercial/ industrial;rio de janeiro;freguesia (jacarepagua);0;0
+comercial/ industrial;rio de janeiro;freguesia ilha do governador;0;0
+comercial/ industrial;rio de janeiro;freguesia/ilha do governador;0;0
+comercial/ industrial;rio de janeiro;galeao;0;0
+comercial/ industrial;rio de janeiro;gamboa;0;0
+comercial/ industrial;rio de janeiro;gardenia azul;0;0
+comercial/ industrial;rio de janeiro;gavea;0;0
+comercial/ industrial;rio de janeiro;gloria;0;0
+comercial/ industrial;rio de janeiro;grajau;0;0
+comercial/ industrial;rio de janeiro;grumari;0;0
+comercial/ industrial;rio de janeiro;guadalupe;0;0
+comercial/ industrial;rio de janeiro;guarabu;0;0
+comercial/ industrial;rio de janeiro;guaratiba;0;0
+comercial/ industrial;rio de janeiro;higienopolis;0;0
+comercial/ industrial;rio de janeiro;honorio gurgel;0;0
+comercial/ industrial;rio de janeiro;humaita;0;0
+comercial/ industrial;rio de janeiro;ilha do governador;0;0
+comercial/ industrial;rio de janeiro;indeterminado;0;0
+comercial/ industrial;rio de janeiro;inhauma;0;0
+comercial/ industrial;rio de janeiro;inhoaiba;0;0
+comercial/ industrial;rio de janeiro;ipanema;0;0
+comercial/ industrial;rio de janeiro;iraja;0;0
+comercial/ industrial;rio de janeiro;itacolomi;0;0
+comercial/ industrial;rio de janeiro;itaguai;0;0
+comercial/ industrial;rio de janeiro;itanhanga;0;0
+comercial/ industrial;rio de janeiro;izadora;0;0
+comercial/ industrial;rio de janeiro;jabour;0;0
+comercial/ industrial;rio de janeiro;jacare;0;0
+comercial/ industrial;rio de janeiro;jacarepagua;0;0
+comercial/ industrial;rio de janeiro;jacarepagua   freguesia;0;0
+comercial/ industrial;rio de janeiro;jacarepagua / freguesia;0;0
+comercial/ industrial;rio de janeiro;jacarepagua freguesia;0;0
+comercial/ industrial;rio de janeiro;jd america;0;0
+comercial/ industrial;rio de janeiro;jd botanico;0;0
+comercial/ industrial;rio de janeiro;jd carioca;0;0
+comercial/ industrial;rio de janeiro;jd guanabara;0;0
+comercial/ industrial;rio de janeiro;jd laranjeiras;0;0
+comercial/ industrial;rio de janeiro;jd novo horizonte;0;0
+comercial/ industrial;rio de janeiro;jd palmares;0;0
+comercial/ industrial;rio de janeiro;jd sulacap;0;0
+comercial/ industrial;rio de janeiro;jdcarioca;0;0
+comercial/ industrial;rio de janeiro;joa;0;0
+comercial/ industrial;rio de janeiro;lagoa;0;0
+comercial/ industrial;rio de janeiro;lapa;0;0
+comercial/ industrial;rio de janeiro;laranjeiras;0;0
+comercial/ industrial;rio de janeiro;largo do machado;0;0
+comercial/ industrial;rio de janeiro;leblon;0;0
+comercial/ industrial;rio de janeiro;leme;0;0
+comercial/ industrial;rio de janeiro;lins;0;0
+comercial/ industrial;rio de janeiro;lins de vasconcelos;0;0
+comercial/ industrial;rio de janeiro;lot madean;0;0
+comercial/ industrial;rio de janeiro;madureira;0;0
+comercial/ industrial;rio de janeiro;magalhaes bastos;0;0
+comercial/ industrial;rio de janeiro;mangueira;0;0
+comercial/ industrial;rio de janeiro;manguinhos;0;0
+comercial/ industrial;rio de janeiro;maracana;0;0
+comercial/ industrial;rio de janeiro;mare;0;0
+comercial/ industrial;rio de janeiro;marechal hermes;0;0
+comercial/ industrial;rio de janeiro;maria da graca;0;0
+comercial/ industrial;rio de janeiro;meier;0;0
+comercial/ industrial;rio de janeiro;monero;0;0
+comercial/ industrial;rio de janeiro;muda;0;0
+comercial/ industrial;rio de janeiro;n s das gracas;0;0
+comercial/ industrial;rio de janeiro;oiticica ii;0;0
+comercial/ industrial;rio de janeiro;olaria;0;0
+comercial/ industrial;rio de janeiro;oswaldo cruz;0;0
+comercial/ industrial;rio de janeiro;paciencia;0;0
+comercial/ industrial;rio de janeiro;padre miguel;0;0
+comercial/ industrial;rio de janeiro;paqueta;0;0
+comercial/ industrial;rio de janeiro;parada de lucas;0;0
+comercial/ industrial;rio de janeiro;pavuna;0;0
+comercial/ industrial;rio de janeiro;pc da bandeira;0;0
+comercial/ industrial;rio de janeiro;pc seca;0;0
+comercial/ industrial;rio de janeiro;pechincha;0;0
+comercial/ industrial;rio de janeiro;pedra de guaratiba;0;0
+comercial/ industrial;rio de janeiro;penha;0;0
+comercial/ industrial;rio de janeiro;penha circular;0;0
+comercial/ industrial;rio de janeiro;piedade;0;0
+comercial/ industrial;rio de janeiro;pilares;0;0
+comercial/ industrial;rio de janeiro;pitangueiras;0;0
+comercial/ industrial;rio de janeiro;portuguesa;0;0
+comercial/ industrial;rio de janeiro;pq anchieta;0;0
+comercial/ industrial;rio de janeiro;praca da bandeira;0;0
+comercial/ industrial;rio de janeiro;praca seca;0;0
+comercial/ industrial;rio de janeiro;praia da bandeira;0;0
+comercial/ industrial;rio de janeiro;proletario nova cidade;0;0
+comercial/ industrial;rio de janeiro;quintino bocaiuva;0;0
+comercial/ industrial;rio de janeiro;ramos;0;0
+comercial/ industrial;rio de janeiro;realengo;0;0
+comercial/ industrial;rio de janeiro;recreio dos bandeirantes;0;0
+comercial/ industrial;rio de janeiro;riachuelo;0;0
+comercial/ industrial;rio de janeiro;ribeira;0;0
+comercial/ industrial;rio de janeiro;ricardo de albuquerque;0;0
+comercial/ industrial;rio de janeiro;rio comprido;0;0
+comercial/ industrial;rio de janeiro;rio da prata;0;0
+comercial/ industrial;rio de janeiro;rocha;0;0
+comercial/ industrial;rio de janeiro;rocha miranda;0;0
+comercial/ industrial;rio de janeiro;rocinha;0;0
+comercial/ industrial;rio de janeiro;s claudio;0;0
+comercial/ industrial;rio de janeiro;s conrado;0;0
+comercial/ industrial;rio de janeiro;s cristovao;0;0
+comercial/ industrial;rio de janeiro;s francisco xavier;0;0
+comercial/ industrial;rio de janeiro;sampaio;0;0
+comercial/ industrial;rio de janeiro;santa cruz;0;0
+comercial/ industrial;rio de janeiro;santa teresa;0;0
+comercial/ industrial;rio de janeiro;santissimo;0;0
+comercial/ industrial;rio de janeiro;santo cristo;0;0
+comercial/ industrial;rio de janeiro;sao conrado;0;0
+comercial/ industrial;rio de janeiro;sao cristovao;0;0
+comercial/ industrial;rio de janeiro;sao francisco xavier;0;0
+comercial/ industrial;rio de janeiro;saude;0;0
+comercial/ industrial;rio de janeiro;senador camara;0;0
+comercial/ industrial;rio de janeiro;senador vasconcelos;0;0
+comercial/ industrial;rio de janeiro;sepetiba;0;0
+comercial/ industrial;rio de janeiro;seropedica;0;0
+comercial/ industrial;rio de janeiro;sta cruz;0;0
+comercial/ industrial;rio de janeiro;sta teresa;0;0
+comercial/ industrial;rio de janeiro;sto cristo;0;0
+comercial/ industrial;rio de janeiro;sulacap;0;0
+comercial/ industrial;rio de janeiro;tanque;0;0
+comercial/ industrial;rio de janeiro;taquara;0;0
+comercial/ industrial;rio de janeiro;taua;0;0
+comercial/ industrial;rio de janeiro;tijuca;0;0
+comercial/ industrial;rio de janeiro;tinguazinho i;0;0
+comercial/ industrial;rio de janeiro;tinguazinho ii;0;0
+comercial/ industrial;rio de janeiro;todos os santos;0;0
+comercial/ industrial;rio de janeiro;tomas coelho;0;0
+comercial/ industrial;rio de janeiro;triagem;0;0
+comercial/ industrial;rio de janeiro;tubiacanga;0;0
+comercial/ industrial;rio de janeiro;turiacu;0;0
+comercial/ industrial;rio de janeiro;urca;0;0
+comercial/ industrial;rio de janeiro;usina;0;0
+comercial/ industrial;rio de janeiro;v da penha;0;0
+comercial/ industrial;rio de janeiro;v isabel;0;0
+comercial/ industrial;rio de janeiro;v iv centenario;0;0
+comercial/ industrial;rio de janeiro;v kosmos;0;0
+comercial/ industrial;rio de janeiro;v valqueire;0;0
+comercial/ industrial;rio de janeiro;vargem grande;0;0
+comercial/ industrial;rio de janeiro;vargem pequena;0;0
+comercial/ industrial;rio de janeiro;vaz lobo;0;0
+comercial/ industrial;rio de janeiro;vicente de carvalho;0;0
+comercial/ industrial;rio de janeiro;vidigal;0;0
+comercial/ industrial;rio de janeiro;vigario geral;0;0
+comercial/ industrial;rio de janeiro;village;0;0
+comercial/ industrial;rio de janeiro;vista alegre;0;0
+comercial/ industrial;rio de janeiro;vl da penha;0;0
+comercial/ industrial;rio de janeiro;vl do ceu;0;0
+comercial/ industrial;rio de janeiro;vl isabel;0;0
+comercial/ industrial;rio de janeiro;vl ivl centenario;0;0
+comercial/ industrial;rio de janeiro;vl kenedy;0;0
+comercial/ industrial;rio de janeiro;vl kosmos;0;0
+comercial/ industrial;rio de janeiro;vl militar;0;0
+comercial/ industrial;rio de janeiro;vl valqueire;0;0
+comercial/ industrial;rio de janeiro;vl vitoria;0;0
+comercial/ industrial;rio de janeiro;zumbi;0;0
+comercial/ industrial;sao goncalo;alcantara;0;0
+comercial/ industrial;sao goncalo;almerinda;0;0
+comercial/ industrial;sao goncalo;amendoeira;0;0
+comercial/ industrial;sao goncalo;anaia pequeno;0;0
+comercial/ industrial;sao goncalo;antonina;0;0
+comercial/ industrial;sao goncalo;arsenal;0;0
+comercial/ industrial;sao goncalo;barracao;0;0
+comercial/ industrial;sao goncalo;barreto;0;0
+comercial/ industrial;sao goncalo;barro vermelho;0;0
+comercial/ industrial;sao goncalo;boa vista;0;0
+comercial/ industrial;sao goncalo;boacu;0;0
+comercial/ industrial;sao goncalo;bom retiro;0;0
+comercial/ industrial;sao goncalo;brasilandia;0;0
+comercial/ industrial;sao goncalo;calaboca;0;0
+comercial/ industrial;sao goncalo;camarao;0;0
+comercial/ industrial;sao goncalo;centro;0;0
+comercial/ industrial;sao goncalo;coelho;0;0
+comercial/ industrial;sao goncalo;colubande;0;0
+comercial/ industrial;sao goncalo;covanca;0;0
+comercial/ industrial;sao goncalo;engenho do rocado;0;0
+comercial/ industrial;sao goncalo;engenho pequeno;0;0
+comercial/ industrial;sao goncalo;estrela do norte;0;0
+comercial/ industrial;sao goncalo;galo branco;0;0
+comercial/ industrial;sao goncalo;gradim;0;0
+comercial/ industrial;sao goncalo;guaxindiba;0;0
+comercial/ industrial;sao goncalo;indeterminado;0;0
+comercial/ industrial;sao goncalo;ipiiba;0;0
+comercial/ industrial;sao goncalo;itaoca;0;0
+comercial/ industrial;sao goncalo;itauna;0;0
+comercial/ industrial;sao goncalo;jd alcantara;0;0
+comercial/ industrial;sao goncalo;jd bom retiro;0;0
+comercial/ industrial;sao goncalo;jd california;0;0
+comercial/ industrial;sao goncalo;jd catarina;0;0
+comercial/ industrial;sao goncalo;jd fluminense;0;0
+comercial/ industrial;sao goncalo;jd independencia;0;0
+comercial/ industrial;sao goncalo;joquei clube;0;0
+comercial/ industrial;sao goncalo;lagoinha;0;0
+comercial/ industrial;sao goncalo;laranjal;0;0
+comercial/ industrial;sao goncalo;lindo parque;0;0
+comercial/ industrial;sao goncalo;mangueira;0;0
+comercial/ industrial;sao goncalo;marambaia;0;0
+comercial/ industrial;sao goncalo;maria paula;0;0
+comercial/ industrial;sao goncalo;miriambi;0;0
+comercial/ industrial;sao goncalo;monjolo;0;0
+comercial/ industrial;sao goncalo;mutondo;0;0
+comercial/ industrial;sao goncalo;mutua;0;0
+comercial/ industrial;sao goncalo;mutuaguacu;0;0
+comercial/ industrial;sao goncalo;mutuapira;0;0
+comercial/ industrial;sao goncalo;n s da paz;0;0
+comercial/ industrial;sao goncalo;neves;0;0
+comercial/ industrial;sao goncalo;nova cidade;0;0
+comercial/ industrial;sao goncalo;novo mexico;0;0
+comercial/ industrial;sao goncalo;pacheco;0;0
+comercial/ industrial;sao goncalo;parada 40;0;0
+comercial/ industrial;sao goncalo;paraiso;0;0
+comercial/ industrial;sao goncalo;patronato;0;0
+comercial/ industrial;sao goncalo;piao;0;0
+comercial/ industrial;sao goncalo;pita;0;0
+comercial/ industrial;sao goncalo;portao do rosa;0;0
+comercial/ industrial;sao goncalo;porto da madama;0;0
+comercial/ industrial;sao goncalo;porto da pedra;0;0
+comercial/ industrial;sao goncalo;porto do rosa;0;0
+comercial/ industrial;sao goncalo;porto novo;0;0
+comercial/ industrial;sao goncalo;porto velho;0;0
+comercial/ industrial;sao goncalo;raul veiga;0;0
+comercial/ industrial;sao goncalo;rio do ouro;0;0
+comercial/ industrial;sao goncalo;rocha;0;0
+comercial/ industrial;sao goncalo;s miguel;0;0
+comercial/ industrial;sao goncalo;sacramento;0;0
+comercial/ industrial;sao goncalo;santa luzia;0;0
+comercial/ industrial;sao goncalo;sao miguel;0;0
+comercial/ industrial;sao goncalo;sete pontes;0;0
+comercial/ industrial;sao goncalo;sta anita;0;0
+comercial/ industrial;sao goncalo;sta catarina;0;0
+comercial/ industrial;sao goncalo;sta isabel;0;0
+comercial/ industrial;sao goncalo;sta luzia;0;0
+comercial/ industrial;sao goncalo;tenente jardim;0;0
+comercial/ industrial;sao goncalo;tiradentes;0;0
+comercial/ industrial;sao goncalo;tribobo;0;0
+comercial/ industrial;sao goncalo;trindade;0;0
+comercial/ industrial;sao goncalo;varzea das mocas;0;0
+comercial/ industrial;sao goncalo;venda da cruz;0;0
+comercial/ industrial;sao goncalo;vista alegre;0;0
+comercial/ industrial;sao goncalo;vl iara;0;0
+comercial/ industrial;sao goncalo;vl lage;0;0
+comercial/ industrial;sao goncalo;vl tres;0;0
+comercial/ industrial;sao goncalo;ze garoto;0;0
+comercial/ industrial;sao joao de meriti;agostinho porto;0;0
+comercial/ industrial;sao joao de meriti;centro;0;0
+comercial/ industrial;sao joao de meriti;coelho da rocha;0;0
+comercial/ industrial;sao joao de meriti;eden;0;0
+comercial/ industrial;sao joao de meriti;eng belford;0;0
+comercial/ industrial;sao joao de meriti;grande rio;0;0
+comercial/ industrial;sao joao de meriti;indeterminado;0;0
+comercial/ industrial;sao joao de meriti;jd da alegria;0;0
+comercial/ industrial;sao joao de meriti;jd jose bonifacio;0;0
+comercial/ industrial;sao joao de meriti;jd meriti;0;0
+comercial/ industrial;sao joao de meriti;jd metropole;0;0
+comercial/ industrial;sao joao de meriti;jd olavo bilac;0;0
+comercial/ industrial;sao joao de meriti;jd sta rosa;0;0
+comercial/ industrial;sao joao de meriti;pq analandia;0;0
+comercial/ industrial;sao joao de meriti;pq novo rio;0;0
+comercial/ industrial;sao joao de meriti;pq s judas tadeu;0;0
+comercial/ industrial;sao joao de meriti;pq teles de menezes;0;0
+comercial/ industrial;sao joao de meriti;s mateus;0;0
+comercial/ industrial;sao joao de meriti;tomazinho;0;0
+comercial/ industrial;sao joao de meriti;trezentos;0;0
+comercial/ industrial;sao joao de meriti;v r dos teles;0;0
+comercial/ industrial;sao joao de meriti;v rosali;0;0
+comercial/ industrial;sao joao de meriti;v s joao;0;0
+comercial/ industrial;sao joao de meriti;venda velha;0;0
+comercial/ industrial;sao joao de meriti;vilar dos teles;0;0
+comercial/ industrial;sao joao de meriti;vl norma;0;0
+comercial/ industrial;sao joao de meriti;vl r dos teles;0;0
+comercial/ industrial;sao joao de meriti;vl rosali;0;0
+comercial/ industrial;sao joao de meriti;vl s joao;0;0
+comercial/ industrial;sao joao de meriti;vl tiradentes;0;0
+comercial/ industrial;sao joao de meriti;vl zulmira;0;0
+comercial/ industrial;seropedica;centro;0;0
+comercial/ industrial;seropedica;indeterminado;0;0
+comercial/ industrial;seropedica;zona rural;0;0
+comercial/ industrial;tangua;bandeirantes i;0;0
+comercial/ industrial;tangua;centro;0;0
+comercial/ industrial;tangua;indeterminado;0;0
+comercial/industrial;belford roxo;amelia;0;0
+comercial/industrial;belford roxo;andrade araujo;0;0
+comercial/industrial;belford roxo;areia branca;0;0
+comercial/industrial;belford roxo;babi;0;0
+comercial/industrial;belford roxo;belford roxo;0;0
+comercial/industrial;belford roxo;boa esperanca;0;0
+comercial/industrial;belford roxo;boa ventura;1305;4
+comercial/industrial;belford roxo;buriti;0;0
+comercial/industrial;belford roxo;centro;0;0
+comercial/industrial;belford roxo;ch sto antonio;2291;3
+comercial/industrial;belford roxo;gracas;2291;3
+comercial/industrial;belford roxo;heliopolis;0;0
+comercial/industrial;belford roxo;hiterland;0;0
+comercial/industrial;belford roxo;indeterminado;0;0
+comercial/industrial;belford roxo;itaipu;0;0
+comercial/industrial;belford roxo;jd almo;0;0
+comercial/industrial;belford roxo;jd bom pastor;0;0
+comercial/industrial;belford roxo;jd dimas filho;0;0
+comercial/industrial;belford roxo;jd glaucia;0;0
+comercial/industrial;belford roxo;jd redentor;0;0
+comercial/industrial;belford roxo;jd sta marta;0;0
+comercial/industrial;belford roxo;lot xv;0;0
+comercial/industrial;belford roxo;lote xv;0;0
+comercial/industrial;belford roxo;nova aurora;0;0
+comercial/industrial;belford roxo;piam;0;0
+comercial/industrial;belford roxo;pq amorim;2110;4
+comercial/industrial;belford roxo;pq esperanca;0;0
+comercial/industrial;belford roxo;pq floresta;0;0
+comercial/industrial;belford roxo;pq martinho;0;0
+comercial/industrial;belford roxo;pq s bernardo;0;0
+comercial/industrial;belford roxo;pq s jose;0;0
+comercial/industrial;belford roxo;pq s vicente;0;0
+comercial/industrial;belford roxo;pq santa amelia;0;0
+comercial/industrial;belford roxo;pq saxonia;0;0
+comercial/industrial;belford roxo;pq sta amelia;0;0
+comercial/industrial;belford roxo;prata;2261;4
+comercial/industrial;belford roxo;rocha sobrinho;2261;4
+comercial/industrial;belford roxo;s bernardo;0;0
+comercial/industrial;belford roxo;s jorge;0;0
+comercial/industrial;belford roxo;sta cecilia;0;0
+comercial/industrial;belford roxo;sta maria;0;0
+comercial/industrial;belford roxo;sublime;0;0
+comercial/industrial;belford roxo;vergel dos felix;0;0
+comercial/industrial;belford roxo;vl dagmar;0;0
+comercial/industrial;belford roxo;vl entre rios;0;0
+comercial/industrial;belford roxo;vl joao lima;0;0
+comercial/industrial;belford roxo;vl madalena;0;0
+comercial/industrial;belford roxo;vl medeiros;0;0
+comercial/industrial;belford roxo;vl pauline;0;0
+comercial/industrial;belford roxo;vl r novo;0;0
+comercial/industrial;belford roxo;vl s luis;0;0
+comercial/industrial;belford roxo;vl s teodoro;0;0
+comercial/industrial;belford roxo;vl sto antonio da prata;2941;1
+comercial/industrial;belford roxo;vl verde;0;0
+comercial/industrial;belford roxo;vl vitorio;0;0
+comercial/industrial;cachoeiras de macacu;boca do mato;0;0
+comercial/industrial;cachoeiras de macacu;centro;0;0
+comercial/industrial;cachoeiras de macacu;indeterminado;0;0
+comercial/industrial;cachoeiras de macacu;papucaia;2125;2
+comercial/industrial;cachoeiras de macacu;zona rural;2125;9
+comercial/industrial;duque de caxias;barro branco;2125;9
+comercial/industrial;duque de caxias;centro;0;0
+comercial/industrial;duque de caxias;ch arcampo;3794;5
+comercial/industrial;duque de caxias;ch maria helena;3794;5
+comercial/industrial;duque de caxias;ch riopetropolis;0;0
+comercial/industrial;duque de caxias;chac rio petropolis;2167;1
+comercial/industrial;duque de caxias;chac riopetropolis;2083;1
+comercial/industrial;duque de caxias;chacrinha;0;0
+comercial/industrial;duque de caxias;circular;0;0
+comercial/industrial;duque de caxias;divino;3767;2
+comercial/industrial;duque de caxias;dr laureano;0;0
+comercial/industrial;duque de caxias;engenho do porto;0;0
+comercial/industrial;duque de caxias;gramacho;3472;1
+comercial/industrial;duque de caxias;imbarie;0;0
+comercial/industrial;duque de caxias;indeterminado;0;0
+comercial/industrial;duque de caxias;itatiaia;0;0
+comercial/industrial;duque de caxias;jd 25 de agosto;2866;3
+comercial/industrial;duque de caxias;jd anhanga;2866;3
+comercial/industrial;duque de caxias;jd gramacho;0;0
+comercial/industrial;duque de caxias;jd imbarie;3686;0
+comercial/industrial;duque de caxias;jd leal;0;0
+comercial/industrial;duque de caxias;jd olavo bilac;0;0
+comercial/industrial;duque de caxias;jd olimpo;0;0
+comercial/industrial;duque de caxias;jd panama;0;0
+comercial/industrial;duque de caxias;jd primavera;3773;1
+comercial/industrial;duque de caxias;jd vinte e cinco de agosto;3950;7
+comercial/industrial;duque de caxias;mantiquira;3950;1
+comercial/industrial;duque de caxias;nova campinas;1912;1
+comercial/industrial;duque de caxias;pq barao do amapa;0;0
+comercial/industrial;duque de caxias;pq beira mar;0;0
+comercial/industrial;duque de caxias;pq boa vista i;0;0
+comercial/industrial;duque de caxias;pq boa vista ii;0;0
+comercial/industrial;duque de caxias;pq capivari;0;0
+comercial/industrial;duque de caxias;pq centenario;0;0
+comercial/industrial;duque de caxias;pq duque de caxias;7407;1
+comercial/industrial;duque de caxias;pq eldorado;7407;1
+comercial/industrial;duque de caxias;pq equitativa;7407;1
+comercial/industrial;duque de caxias;pq esperanca;2749;2
+comercial/industrial;duque de caxias;pq felicidade;0;0
+comercial/industrial;duque de caxias;pq fluminense;0;0
+comercial/industrial;duque de caxias;pq imperio;1008;1
+comercial/industrial;duque de caxias;pq independencia;0;0
+comercial/industrial;duque de caxias;pq joao pessoa;0;0
+comercial/industrial;duque de caxias;pq lafaiete;0;0
+comercial/industrial;duque de caxias;pq laguna e dourados;3753;6
+comercial/industrial;duque de caxias;pq muisa;3509;2
+comercial/industrial;duque de caxias;pq nova esperanca;2258;2
+comercial/industrial;duque de caxias;pq pauliceia;0;0
+comercial/industrial;duque de caxias;pq paulista;0;0
+comercial/industrial;duque de caxias;pq senhor do bonfim;0;0
+comercial/industrial;duque de caxias;pq sta lucia;2075;1
+comercial/industrial;duque de caxias;pq uruguaiana;0;0
+comercial/industrial;duque de caxias;pq vitoria;0;0
+comercial/industrial;duque de caxias;pq xerem;0;0
+comercial/industrial;duque de caxias;s bento;0;0
+comercial/industrial;duque de caxias;saracuruna;0;0
+comercial/industrial;duque de caxias;sarapui;0;0
+comercial/industrial;duque de caxias;sta lucia;4714;1
+comercial/industrial;duque de caxias;sto antonio;3686;1
+comercial/industrial;duque de caxias;taquara;2143;1
+comercial/industrial;duque de caxias;v actura;2143;1
+comercial/industrial;duque de caxias;v s joao;0;0
+comercial/industrial;duque de caxias;v s judas tadeu;0;0
+comercial/industrial;duque de caxias;v s luis;0;0
+comercial/industrial;duque de caxias;v s sebastiao;0;0
+comercial/industrial;duque de caxias;v sao luis;0;0
+comercial/industrial;duque de caxias;v sta cruz;0;0
+comercial/industrial;duque de caxias;v sto antonio;0;0
+comercial/industrial;duque de caxias;vl actura;0;0
+comercial/industrial;duque de caxias;vl bela vista;0;0
+comercial/industrial;duque de caxias;vl canaan;0;0
+comercial/industrial;duque de caxias;vl centenario;0;0
+comercial/industrial;duque de caxias;vl ema;0;0
+comercial/industrial;duque de caxias;vl guanabara;0;0
+comercial/industrial;duque de caxias;vl ideal;0;0
+comercial/industrial;duque de caxias;vl itamarati;0;0
+comercial/industrial;duque de caxias;vl leopoldina;0;0
+comercial/industrial;duque de caxias;vl maria helena;0;0
+comercial/industrial;duque de caxias;vl meriti;3750;1
+comercial/industrial;duque de caxias;vl oito de maio;3750;1
+comercial/industrial;duque de caxias;vl paula;0;0
+comercial/industrial;duque de caxias;vl rosario;0;0
+comercial/industrial;duque de caxias;vl s luis;0;0
+comercial/industrial;duque de caxias;vl s sebastiao;0;0
+comercial/industrial;duque de caxias;vl sarapui;0;0
+comercial/industrial;duque de caxias;vl sta alice;0;0
+comercial/industrial;duque de caxias;vl sta cruz;1857;1
+comercial/industrial;duque de caxias;xerem;2846;1
+comercial/industrial;guapimirim;centro;0;0
+comercial/industrial;guapimirim;indeterminado;0;0
+comercial/industrial;guapimirim;zona rural;0;0
+comercial/industrial;itaborai;aldeia da prata (manilha);0;0
+comercial/industrial;itaborai;ampliacao;0;0
+comercial/industrial;itaborai;areal;0;0
+comercial/industrial;itaborai;bela vista;2772;11
+comercial/industrial;itaborai;bonfim;1871;2
+comercial/industrial;itaborai;caluge;1871;2
+comercial/industrial;itaborai;centro;1483;1
+comercial/industrial;itaborai;ch bela vista;2753;6
+comercial/industrial;itaborai;gebara (itambi);2782;18
+comercial/industrial;itaborai;indeterminado;3161;35
+comercial/industrial;itaborai;jd imperial;3161;35
+comercial/industrial;itaborai;joaquim de oliveira;4208;2
+comercial/industrial;itaborai;manilha;3421;1
+comercial/industrial;itaborai;marambaia;2536;9
+comercial/industrial;itaborai;monte verde (manilha);2557;4
+comercial/industrial;itaborai;nancilandia;2557;4
+comercial/industrial;itaborai;nova cidade;2557;4
+comercial/industrial;itaborai;outeiro das pedras;3777;5
+comercial/industrial;itaborai;quissama;3777;5
+comercial/industrial;itaborai;retiro s joaquim;2929;2
+comercial/industrial;itaborai;rio varzea;2929;3
+comercial/industrial;itaborai;s jose;1580;3
+comercial/industrial;itaborai;sossego;0;0
+comercial/industrial;itaborai;sto expedito;2389;2
+comercial/industrial;itaborai;tangua;0;0
+comercial/industrial;itaborai;tres pontes;2233;1
+comercial/industrial;itaborai;venda das pedras;1308;1
+comercial/industrial;itaborai;visconde de itaborai;2157;1
+comercial/industrial;itaborai;zona rural;2157;1
+comercial/industrial;itaguai;aguas lindas;0;0
+comercial/industrial;itaguai;brisa mar;0;0
+comercial/industrial;itaguai;california;0;0
+comercial/industrial;itaguai;centro;0;0
+comercial/industrial;itaguai;chapero;0;0
+comercial/industrial;itaguai;cid industrial;0;0
+comercial/industrial;itaguai;coroa grande;0;0
+comercial/industrial;itaguai;engenho;0;0
+comercial/industrial;itaguai;ibirapitanga;2141;1
+comercial/industrial;itaguai;ibituporanga;0;0
+comercial/industrial;itaguai;ilha da madeira;0;0
+comercial/industrial;itaguai;indeterminado;0;0
+comercial/industrial;itaguai;jd america;0;0
+comercial/industrial;itaguai;jd laia;0;0
+comercial/industrial;itaguai;jd veda;0;0
+comercial/industrial;itaguai;leandro;0;0
+comercial/industrial;itaguai;monte serrat;0;0
+comercial/industrial;itaguai;piranema;0;0
+comercial/industrial;itaguai;pq independencia;0;0
+comercial/industrial;itaguai;pq paraiso;0;0
+comercial/industrial;itaguai;pq primavera;0;0
+comercial/industrial;itaguai;sta candida;0;0
+comercial/industrial;itaguai;teixeiras;0;0
+comercial/industrial;itaguai;vl geny;0;0
+comercial/industrial;itaguai;vl ibirapitanga;0;0
+comercial/industrial;itaguai;vl margarida;3888;2
+comercial/industrial;japeri;japeri;0;0
+comercial/industrial;mage;centro;0;0
+comercial/industrial;mage;indeterminado;0;0
+comercial/industrial;mage;zona rural;2391;4
+comercial/industrial;mangaratiba;centro;0;0
+comercial/industrial;mangaratiba;conceicao de jacarei;0;0
+comercial/industrial;mangaratiba;indeterminado;0;0
+comercial/industrial;mangaratiba;itacuruca;3729;6
+comercial/industrial;mangaratiba;itacurussa;3525;2
+comercial/industrial;mangaratiba;muriqui;3525;2
+comercial/industrial;mangaratiba;praia grande;0;0
+comercial/industrial;mangaratiba;sahy;3735;16
+comercial/industrial;marica;aracatiba;3735;16
+comercial/industrial;marica;bal bambui (ponta negra);3735;16
+comercial/industrial;marica;barra de marica;3564;7
+comercial/industrial;marica;barroco (itaipuacu);2467;10
+comercial/industrial;marica;caju (ponta negra);3424;3
+comercial/industrial;marica;cajueiros;3424;3
+comercial/industrial;marica;cajueiros (itaipuacu);3424;3
+comercial/industrial;marica;caxito;2459;2
+comercial/industrial;marica;centro;2459;2
+comercial/industrial;marica;ch de inoa;2545;1
+comercial/industrial;marica;ch rincao mimoso;3162;22
+comercial/industrial;marica;cid nova;3162;22
+comercial/industrial;marica;condado de marica;3005;8
+comercial/industrial;marica;cordeirinho;3005;8
+comercial/industrial;marica;espraiado (ponta negra);3005;8
+comercial/industrial;marica;flamengo;3005;8
+comercial/industrial;marica;guaratiba;2600;52
+comercial/industrial;marica;indeterminado;2683;27
+comercial/industrial;marica;inoa;2683;27
+comercial/industrial;marica;itaipuacu;2868;88
+comercial/industrial;marica;itaocaia valley;2868;88
+comercial/industrial;marica;itapeba;2868;88
+comercial/industrial;marica;jacaroa;2868;88
+comercial/industrial;marica;jacone (pte negra);2868;88
+comercial/industrial;marica;jd atlantico;2868;88
+comercial/industrial;marica;marques de marica;3088;24
+comercial/industrial;marica;mumbuca;3088;24
+comercial/industrial;marica;pedreiras;3088;24
+comercial/industrial;marica;ponta grossa;2933;537
+comercial/industrial;marica;ponta negra;2832;11
+comercial/industrial;marica;pq nanci;2832;11
+comercial/industrial;marica;recanto;2889;10
+comercial/industrial;marica;retiro;2889;10
+comercial/industrial;marica;s bento da lagoa;2889;10
+comercial/industrial;marica;s jose do imbassai;2889;10
+comercial/industrial;marica;ubatiba;2351;8
+comercial/industrial;marica;vale da figueira (ponta negra);2351;8
+comercial/industrial;marica;vivendas de itaipuacu;2647;1
+comercial/industrial;mesquita;banco de areia;2647;1
+comercial/industrial;mesquita;centro;2611;1
+comercial/industrial;mesquita;cosmorama;2611;1
+comercial/industrial;mesquita;edison passos;2611;1
+comercial/industrial;mesquita;indeterminado;2611;1
+comercial/industrial;mesquita;jacutinga;2611;1
+comercial/industrial;mesquita;presid juscelino;2611;1
+comercial/industrial;mesquita;rocha sobrinho;0;0
+comercial/industrial;mesquita;sta teresinha;0;0
+comercial/industrial;mesquita;sto elias;0;0
+comercial/industrial;nilopolis;cabral;3467;1
+comercial/industrial;nilopolis;cabuis;3467;1
+comercial/industrial;nilopolis;centro;3467;1
+comercial/industrial;nilopolis;chatuba;3467;1
+comercial/industrial;nilopolis;indeterminado;3467;1
+comercial/industrial;nilopolis;nova cidade;3467;1
+comercial/industrial;nilopolis;olinda;3467;1
+comercial/industrial;nilopolis;paiol de polvora;3467;1
+comercial/industrial;niteroi;atalaia;0;0
+comercial/industrial;niteroi;badu;0;0
+comercial/industrial;niteroi;baldeador;3869;70
+comercial/industrial;niteroi;barreto;4119;17
+comercial/industrial;niteroi;beltrao;4119;17
+comercial/industrial;niteroi;boa viagem;0;0
+comercial/industrial;niteroi;cafuba;0;4
+comercial/industrial;niteroi;camboinhas;4213;15
+comercial/industrial;niteroi;cantagalo;5838;315
+comercial/industrial;niteroi;caramujo;0;0
+comercial/industrial;niteroi;centro;0;0
+comercial/industrial;niteroi;charitas;4793;45
+comercial/industrial;niteroi;cid nova;3945;2
+comercial/industrial;niteroi;cubango;0;0
+comercial/industrial;niteroi;engenho do mato;0;0
+comercial/industrial;niteroi;engenhoca;3744;87
+comercial/industrial;niteroi;fatima;2327;4
+comercial/industrial;niteroi;figueira;2327;4
+comercial/industrial;niteroi;fonseca;3810;1
+comercial/industrial;niteroi;gragoata;3843;5
+comercial/industrial;niteroi;icarai;0;0
+comercial/industrial;niteroi;ilha da conceicao;0;87
+comercial/industrial;niteroi;indeterminado;6525;87
+comercial/industrial;niteroi;inga;3908;82
+comercial/industrial;niteroi;itacoatiara;3908;82
+comercial/industrial;niteroi;itaipu;6263;19
+comercial/industrial;niteroi;ititioca;3798;1.688
+comercial/industrial;niteroi;jacare;3798;1.688
+comercial/industrial;niteroi;jd fazendinha;0;0
+comercial/industrial;niteroi;jd imbui;0;0
+comercial/industrial;niteroi;jurujuba;0;0
+comercial/industrial;niteroi;largo da batalha;7500;1
+comercial/industrial;niteroi;largo do barradas;3313;10
+comercial/industrial;niteroi;lot engenho do mato;3313;10
+comercial/industrial;niteroi;lot maravista;3313;10
+comercial/industrial;niteroi;maceio;3715;3
+comercial/industrial;niteroi;maralegre;2811;3
+comercial/industrial;niteroi;maravista;2811;3
+comercial/industrial;niteroi;marazul;2660;2
+comercial/industrial;niteroi;maria paula;2660;2
+comercial/industrial;niteroi;martins torres;3603;0
+comercial/industrial;niteroi;mata paca;0;0
+comercial/industrial;niteroi;matapaca;0;0
+comercial/industrial;niteroi;niteroi;3580;34
+comercial/industrial;niteroi;pe pequeno;3634;7
+comercial/industrial;niteroi;pendotiba;4393;329
+comercial/industrial;niteroi;piratininga;4393;329
+comercial/industrial;niteroi;ponta d areia;3940;476
+comercial/industrial;niteroi;ponta da areia;6503;2
+comercial/industrial;niteroi;ponta dareia;8087;2
+comercial/industrial;niteroi;ponto cem reis;0;0
+comercial/industrial;niteroi;rio do ouro;0;0
+comercial/industrial;niteroi;rio do ouro e varzea das mocas;2910;6
+comercial/industrial;niteroi;s domingos;2910;6
+comercial/industrial;niteroi;s francisco;2910;6
+comercial/industrial;niteroi;s lourenco;2910;6
+comercial/industrial;niteroi;santa rosa;2910;6
+comercial/industrial;niteroi;santana;0;0
+comercial/industrial;niteroi;sao francisco;0;0
+comercial/industrial;niteroi;sao lourenco;0;0
+comercial/industrial;niteroi;sape;0;0
+comercial/industrial;niteroi;sape e vl progresso;0;0
+comercial/industrial;niteroi;sta barbara;0;0
+comercial/industrial;niteroi;sta rosa;0;0
+comercial/industrial;niteroi;sto antonio;0;0
+comercial/industrial;niteroi;sto antonio e serra grande;0;0
+comercial/industrial;niteroi;teixeira de freitas;0;0
+comercial/industrial;niteroi;tenente jardim;0;0
+comercial/industrial;niteroi;varzea das mocas;0;0
+comercial/industrial;niteroi;venda da cruz;0;0
+comercial/industrial;niteroi;vital brasil;0;0
+comercial/industrial;niteroi;vl progresso;0;0
+comercial/industrial;nova iguacu;adrianopolis;7473;5
+comercial/industrial;nova iguacu;aero clube;0;0
+comercial/industrial;nova iguacu;alto da posse;0;0
+comercial/industrial;nova iguacu;alvarez;0;0
+comercial/industrial;nova iguacu;ambai;0;0
+comercial/industrial;nova iguacu;andrade araujo;0;0
+comercial/industrial;nova iguacu;austin;2209;2
+comercial/industrial;nova iguacu;barao de amapa;2143;1
+comercial/industrial;nova iguacu;bela vista;2143;0
+comercial/industrial;nova iguacu;boa esperanca;0;0
+comercial/industrial;nova iguacu;botafogo;0;0
+comercial/industrial;nova iguacu;cabucu;0;0
+comercial/industrial;nova iguacu;caioaba;2100;36
+comercial/industrial;nova iguacu;california;3371;6
+comercial/industrial;nova iguacu;caonde;3371;6
+comercial/industrial;nova iguacu;caonze;3308;10
+comercial/industrial;nova iguacu;carmari;3285;10
+comercial/industrial;nova iguacu;carolina;3285;1
+comercial/industrial;nova iguacu;centro;2955;2
+comercial/industrial;nova iguacu;ceramica;3278;2
+comercial/industrial;nova iguacu;chacrinha;3639;19
+comercial/industrial;nova iguacu;chique;0;0
+comercial/industrial;nova iguacu;cid jardim cabucu;0;0
+comercial/industrial;nova iguacu;cid jd cabucu;0;0
+comercial/industrial;nova iguacu;cid jd pq estoril;0;0
+comercial/industrial;nova iguacu;comendador soares;0;0
+comercial/industrial;nova iguacu;cruzeiro do sul;2597;0
+comercial/industrial;nova iguacu;cuiaba;0;0
+comercial/industrial;nova iguacu;dom rodrigo;0;0
+comercial/industrial;nova iguacu;edison passos;0;0
+comercial/industrial;nova iguacu;eng rocha freire;0;0
+comercial/industrial;nova iguacu;essolandia;0;0
+comercial/industrial;nova iguacu;fe;0;0
+comercial/industrial;nova iguacu;figueiras;0;0
+comercial/industrial;nova iguacu;floresta;0;0
+comercial/industrial;nova iguacu;grande rio;0;0
+comercial/industrial;nova iguacu;imperador;0;0
+comercial/industrial;nova iguacu;inconfidencia;0;0
+comercial/industrial;nova iguacu;independencia;0;0
+comercial/industrial;nova iguacu;indeterminado;0;0
+comercial/industrial;nova iguacu;jacutinga;2591;1
+comercial/industrial;nova iguacu;jd alvorada;2591;1
+comercial/industrial;nova iguacu;jd canaan;2594;2
+comercial/industrial;nova iguacu;jd continental;2594;2
+comercial/industrial;nova iguacu;jd corumba;0;0
+comercial/industrial;nova iguacu;jd da posse;0;0
+comercial/industrial;nova iguacu;jd da viga;0;0
+comercial/industrial;nova iguacu;jd esplanada;0;0
+comercial/industrial;nova iguacu;jd iguacu;3095;4
+comercial/industrial;nova iguacu;jd imperio;3095;4
+comercial/industrial;nova iguacu;jd jasmim;3095;4
+comercial/industrial;nova iguacu;jd nova era;0;0
+comercial/industrial;nova iguacu;jd nova iguacu;0;0
+comercial/industrial;nova iguacu;jd palmares;3571;1
+comercial/industrial;nova iguacu;jd pernambuco;0;0
+comercial/industrial;nova iguacu;jd pitoresco;2612;2
+comercial/industrial;nova iguacu;jd sta eugenia;2868;1
+comercial/industrial;nova iguacu;jd tropical;2868;1
+comercial/industrial;nova iguacu;k 11;2667;1
+comercial/industrial;nova iguacu;k 32;2667;1
+comercial/industrial;nova iguacu;k11;0;0
+comercial/industrial;nova iguacu;k32;0;0
+comercial/industrial;nova iguacu;kennedy;0;0
+comercial/industrial;nova iguacu;lafaiete;0;0
+comercial/industrial;nova iguacu;lagoinha;0;0
+comercial/industrial;nova iguacu;luz;0;0
+comercial/industrial;nova iguacu;marco ii;3955;30
+comercial/industrial;nova iguacu;margarida;3955;30
+comercial/industrial;nova iguacu;maria da luz;3955;30
+comercial/industrial;nova iguacu;maria jose;3955;30
+comercial/industrial;nova iguacu;mesquita;0;0
+comercial/industrial;nova iguacu;metropole;0;0
+comercial/industrial;nova iguacu;miguel couto;0;0
+comercial/industrial;nova iguacu;monte castelo;0;0
+comercial/industrial;nova iguacu;monte libano;0;0
+comercial/industrial;nova iguacu;moqueta;0;0
+comercial/industrial;nova iguacu;morro agudo;0;0
+comercial/industrial;nova iguacu;n s das gracas;0;0
+comercial/industrial;nova iguacu;nazare;0;0
+comercial/industrial;nova iguacu;nova america;0;0
+comercial/industrial;nova iguacu;nova luz;0;0
+comercial/industrial;nova iguacu;oliveira;2795;5
+comercial/industrial;nova iguacu;ouro preto;2795;5
+comercial/industrial;nova iguacu;palhada;2795;5
+comercial/industrial;nova iguacu;palmeiras;2795;5
+comercial/industrial;nova iguacu;paraiso;2795;5
+comercial/industrial;nova iguacu;pioneiro;2795;5
+comercial/industrial;nova iguacu;ponto chic;2795;5
+comercial/industrial;nova iguacu;posse;2795;5
+comercial/industrial;nova iguacu;pq das palmeiras;0;0
+comercial/industrial;nova iguacu;pq engenho pequeno;0;0
+comercial/industrial;nova iguacu;pq flora;0;0
+comercial/industrial;nova iguacu;pq horizonte;0;0
+comercial/industrial;nova iguacu;pq resid guadalajara;0;0
+comercial/industrial;nova iguacu;pq rosario;0;0
+comercial/industrial;nova iguacu;pq s carlos;0;0
+comercial/industrial;nova iguacu;pq tres coracoes;0;0
+comercial/industrial;nova iguacu;pq ulisses;0;0
+comercial/industrial;nova iguacu;prata;0;0
+comercial/industrial;nova iguacu;presid juscelino;0;0
+comercial/industrial;nova iguacu;queimados;0;0
+comercial/industrial;nova iguacu;rancho fundo;3700;1
+comercial/industrial;nova iguacu;rancho novo;3700;1
+comercial/industrial;nova iguacu;riachao;2813;1
+comercial/industrial;nova iguacu;rosa dos ventos;2813;1
+comercial/industrial;nova iguacu;s benedito;0;0
+comercial/industrial;nova iguacu;s geraldo;0;0
+comercial/industrial;nova iguacu;s jose;0;0
+comercial/industrial;nova iguacu;silvania;0;0
+comercial/industrial;nova iguacu;sitio novo oriente;0;0
+comercial/industrial;nova iguacu;sta catarina;0;0
+comercial/industrial;nova iguacu;sta cecilia;0;1
+comercial/industrial;nova iguacu;sta clara;2950;2
+comercial/industrial;nova iguacu;sta eufenia;0;0
+comercial/industrial;nova iguacu;sta eugenia;0;0
+comercial/industrial;nova iguacu;sta rita;0;0
+comercial/industrial;nova iguacu;tingua;0;0
+comercial/industrial;nova iguacu;tiradentes;0;0
+comercial/industrial;nova iguacu;v s jorge;0;0
+comercial/industrial;nova iguacu;v s luis;0;0
+comercial/industrial;nova iguacu;valverde;0;0
+comercial/industrial;nova iguacu;vaz martins;0;0
+comercial/industrial;nova iguacu;vista alegre;0;0
+comercial/industrial;nova iguacu;vl abolicao;0;0
+comercial/industrial;nova iguacu;vl anita;0;0
+comercial/industrial;nova iguacu;vl avelina;0;0
+comercial/industrial;nova iguacu;vl bandeirantes;0;0
+comercial/industrial;nova iguacu;vl de cava;0;0
+comercial/industrial;nova iguacu;vl formosa;0;0
+comercial/industrial;nova iguacu;vl iguacuana;1695;3
+comercial/industrial;nova iguacu;vl iracema;1695;3
+comercial/industrial;nova iguacu;vl marines;1695;3
+comercial/industrial;nova iguacu;vl martins;1695;3
+comercial/industrial;nova iguacu;vl nova;1695;3
+comercial/industrial;nova iguacu;vl operaria;1695;3
+comercial/industrial;nova iguacu;vl palmeiras;1695;3
+comercial/industrial;nova iguacu;vl rancho novo;1695;3
+comercial/industrial;nova iguacu;vl s jorge;1695;3
+comercial/industrial;nova iguacu;vl s luis;0;0
+comercial/industrial;nova iguacu;vl sta teresinha de jesus;0;0
+comercial/industrial;nova iguacu;vl tres coracoes;0;0
+comercial/industrial;nova iguacu;vl verde;0;0
+comercial/industrial;nova iguacu;vl zulmira;0;0
+comercial/industrial;paracambi;centro;0;0
+comercial/industrial;paracambi;indeterminado;0;0
+comercial/industrial;queimados;a noite;0;0
+comercial/industrial;queimados;austin;0;0
+comercial/industrial;queimados;belmonte;0;0
+comercial/industrial;queimados;cabucu;0;0
+comercial/industrial;queimados;centro;0;0
+comercial/industrial;queimados;guarani;0;0
+comercial/industrial;queimados;indeterminado;0;0
+comercial/industrial;queimados;jd alzira;0;0
+comercial/industrial;queimados;jd capuacu;0;0
+comercial/industrial;queimados;jd guandu;0;0
+comercial/industrial;queimados;jd queimados;0;0
+comercial/industrial;queimados;pacaembu;0;0
+comercial/industrial;queimados;pq presid dutra;2927;1
+comercial/industrial;queimados;pq presidente dutra;0;0
+comercial/industrial;queimados;queimados;0;0
+comercial/industrial;queimados;vl avante;0;0
+comercial/industrial;queimados;vl do tingua;2429;1
+comercial/industrial;queimados;vl s joao;2429;1
+comercial/industrial;rio bonito;centro;0;0
+comercial/industrial;rio bonito;indeterminado;5147;1
+comercial/industrial;rio bonito;zona rural;5147;1
+comercial/industrial;rio de janeiro;abolicao;0;0
+comercial/industrial;rio de janeiro;acari;4712;28
+comercial/industrial;rio de janeiro;adriana;4712;28
+comercial/industrial;rio de janeiro;aeroporto;0;0
+comercial/industrial;rio de janeiro;agua santa;0;0
+comercial/industrial;rio de janeiro;alcantara;0;0
+comercial/industrial;rio de janeiro;alto da boa vista;0;0
+comercial/industrial;rio de janeiro;anchieta;5955;57
+comercial/industrial;rio de janeiro;andarai;1503;5
+comercial/industrial;rio de janeiro;anil;5296;57
+comercial/industrial;rio de janeiro;araujo de cosmos;5296;57
+comercial/industrial;rio de janeiro;arpoador;0;0
+comercial/industrial;rio de janeiro;baia de guanabara;0;0
+comercial/industrial;rio de janeiro;bananal;0;0
+comercial/industrial;rio de janeiro;bancarios;0;0
+comercial/industrial;rio de janeiro;bangu;0;0
+comercial/industrial;rio de janeiro;barra da tijuca;4042;29
+comercial/industrial;rio de janeiro;barra de guaratiba;3340;68
+comercial/industrial;rio de janeiro;barros filho;3340;68
+comercial/industrial;rio de janeiro;benfica;3340;68
+comercial/industrial;rio de janeiro;bento ribeiro;2157;9
+comercial/industrial;rio de janeiro;boiuna;2157;9
+comercial/industrial;rio de janeiro;bonsucesso;3235;35
+comercial/industrial;rio de janeiro;botafogo;3235;35
+comercial/industrial;rio de janeiro;bras de pina;3816;66
+comercial/industrial;rio de janeiro;cachambi;3816;66
+comercial/industrial;rio de janeiro;cachamorra;0;0
+comercial/industrial;rio de janeiro;cacuia;0;0
+comercial/industrial;rio de janeiro;caju;4307;10
+comercial/industrial;rio de janeiro;camorim;0;0
+comercial/industrial;rio de janeiro;campinho;4940;27
+comercial/industrial;rio de janeiro;campo dos afonsos;3371;36
+comercial/industrial;rio de janeiro;campo formoso;3371;36
+comercial/industrial;rio de janeiro;campo grande;0;0
+comercial/industrial;rio de janeiro;cascadura;3269;685
+comercial/industrial;rio de janeiro;castelo;3326;28
+comercial/industrial;rio de janeiro;catete;3326;18
+comercial/industrial;rio de janeiro;catumbi;6432;18
+comercial/industrial;rio de janeiro;cavalcante;3403;6
+comercial/industrial;rio de janeiro;cavalcanti;0;0
+comercial/industrial;rio de janeiro;centro;3122;3
+comercial/industrial;rio de janeiro;centro valenca;5568;12
+comercial/industrial;rio de janeiro;cid de deus;0;0
+comercial/industrial;rio de janeiro;cid nova;0;0
+comercial/industrial;rio de janeiro;cid universitaria;4344;2
+comercial/industrial;rio de janeiro;cidade de deus;0;0
+comercial/industrial;rio de janeiro;cidade nova;0;0
+comercial/industrial;rio de janeiro;cinelandia;0;0
+comercial/industrial;rio de janeiro;cocota;0;0
+comercial/industrial;rio de janeiro;coelho neto;3136;15
+comercial/industrial;rio de janeiro;colegio;2774;4
+comercial/industrial;rio de janeiro;copacabana;2774;4
+comercial/industrial;rio de janeiro;cordovil;3439;23
+comercial/industrial;rio de janeiro;cosme velho;9946;39
+comercial/industrial;rio de janeiro;cosmos;6160;79
+comercial/industrial;rio de janeiro;costa barros;6160;79
+comercial/industrial;rio de janeiro;curicica;0;0
+comercial/industrial;rio de janeiro;del castilho;4198;77
+comercial/industrial;rio de janeiro;dende;4683;5
+comercial/industrial;rio de janeiro;deodoro;4683;5
+comercial/industrial;rio de janeiro;dumas;0;0
+comercial/industrial;rio de janeiro;encantado;0;0
+comercial/industrial;rio de janeiro;eng leal;0;0
+comercial/industrial;rio de janeiro;engenho da rainha;0;0
+comercial/industrial;rio de janeiro;engenho de dentro;0;0
+comercial/industrial;rio de janeiro;engenho novo;4349;121
+comercial/industrial;rio de janeiro;estacio;3460;95
+comercial/industrial;rio de janeiro;fatima;5122;3
+comercial/industrial;rio de janeiro;fazenda botafogo;0;0
+comercial/industrial;rio de janeiro;flamengo;9417;13
+comercial/industrial;rio de janeiro;freguesia;9417;13
+comercial/industrial;rio de janeiro;freguesia (ilha do governador);4820;590
+comercial/industrial;rio de janeiro;freguesia (jacarepagua);3818;42
+comercial/industrial;rio de janeiro;freguesia ilha do governador;3818;42
+comercial/industrial;rio de janeiro;freguesia/ilha do governador;4760;461
+comercial/industrial;rio de janeiro;galeao;0;0
+comercial/industrial;rio de janeiro;gamboa;0;0
+comercial/industrial;rio de janeiro;gardenia azul;4400;5
+comercial/industrial;rio de janeiro;gavea;2601;5
+comercial/industrial;rio de janeiro;gloria;9890;91
+comercial/industrial;rio de janeiro;grajau;9890;91
+comercial/industrial;rio de janeiro;grumari;6829;13
+comercial/industrial;rio de janeiro;guadalupe;6829;13
+comercial/industrial;rio de janeiro;guarabu;4830;193
+comercial/industrial;rio de janeiro;guaratiba;4830;193
+comercial/industrial;rio de janeiro;higienopolis;4830;193
+comercial/industrial;rio de janeiro;honorio gurgel;4421;26
+comercial/industrial;rio de janeiro;humaita;4421;26
+comercial/industrial;rio de janeiro;ilha do governador;4158;15
+comercial/industrial;rio de janeiro;indeterminado;4158;15
+comercial/industrial;rio de janeiro;inhauma;10866;4
+comercial/industrial;rio de janeiro;inhoaiba;2683;8
+comercial/industrial;rio de janeiro;ipanema;2784;19
+comercial/industrial;rio de janeiro;iraja;12266;19
+comercial/industrial;rio de janeiro;itacolomi;12266;19
+comercial/industrial;rio de janeiro;itaguai;0;0
+comercial/industrial;rio de janeiro;itanhanga;2056;1
+comercial/industrial;rio de janeiro;izadora;5768;384
+comercial/industrial;rio de janeiro;jabour;5768;384
+comercial/industrial;rio de janeiro;jacare;0;0
+comercial/industrial;rio de janeiro;jacarepagua;4689;173
+comercial/industrial;rio de janeiro;jacarepagua   freguesia;4689;173
+comercial/industrial;rio de janeiro;jacarepagua / freguesia;0;0
+comercial/industrial;rio de janeiro;jacarepagua freguesia;0;0
+comercial/industrial;rio de janeiro;jd america;0;0
+comercial/industrial;rio de janeiro;jd botanico;3551;36
+comercial/industrial;rio de janeiro;jd carioca;11832;135
+comercial/industrial;rio de janeiro;jd guanabara;4554;46
+comercial/industrial;rio de janeiro;jd laranjeiras;4554;46
+comercial/industrial;rio de janeiro;jd novo horizonte;0;0
+comercial/industrial;rio de janeiro;jd palmares;0;0
+comercial/industrial;rio de janeiro;jd sulacap;1317;1
+comercial/industrial;rio de janeiro;jdcarioca;4378;13
+comercial/industrial;rio de janeiro;joa;0;0
+comercial/industrial;rio de janeiro;lagoa;9322;48
+comercial/industrial;rio de janeiro;lapa;9322;48
+comercial/industrial;rio de janeiro;laranjeiras;7745;1
+comercial/industrial;rio de janeiro;largo do machado;7348;185
+comercial/industrial;rio de janeiro;leblon;7348;1
+comercial/industrial;rio de janeiro;leme;14534;2
+comercial/industrial;rio de janeiro;lins;14534;2
+comercial/industrial;rio de janeiro;lins de vasconcelos;3944;66
+comercial/industrial;rio de janeiro;lot madean;3944;66
+comercial/industrial;rio de janeiro;madureira;3559;56
+comercial/industrial;rio de janeiro;magalhaes bastos;3559;56
+comercial/industrial;rio de janeiro;mangueira;3063;2
+comercial/industrial;rio de janeiro;manguinhos;0;0
+comercial/industrial;rio de janeiro;maracana;12981;1
+comercial/industrial;rio de janeiro;mare;6351;57
+comercial/industrial;rio de janeiro;marechal hermes;3669;33
+comercial/industrial;rio de janeiro;maria da graca;3669;33
+comercial/industrial;rio de janeiro;meier;3669;33
+comercial/industrial;rio de janeiro;monero;4198;22
+comercial/industrial;rio de janeiro;muda;4466;27
+comercial/industrial;rio de janeiro;n s das gracas;5053;319
+comercial/industrial;rio de janeiro;oiticica ii;0;0
+comercial/industrial;rio de janeiro;olaria;0;0
+comercial/industrial;rio de janeiro;oswaldo cruz;0;0
+comercial/industrial;rio de janeiro;paciencia;3951;26
+comercial/industrial;rio de janeiro;padre miguel;4003;77
+comercial/industrial;rio de janeiro;paqueta;5213;9
+comercial/industrial;rio de janeiro;parada de lucas;5213;9
+comercial/industrial;rio de janeiro;pavuna;4087;2
+comercial/industrial;rio de janeiro;pc da bandeira;2622;34
+comercial/industrial;rio de janeiro;pc seca;2622;3
+comercial/industrial;rio de janeiro;pechincha;3432;149
+comercial/industrial;rio de janeiro;pedra de guaratiba;3432;149
+comercial/industrial;rio de janeiro;penha;4198;52
+comercial/industrial;rio de janeiro;penha circular;4198;52
+comercial/industrial;rio de janeiro;piedade;4250;44
+comercial/industrial;rio de janeiro;pilares;3407;82
+comercial/industrial;rio de janeiro;pitangueiras;3347;22
+comercial/industrial;rio de janeiro;portuguesa;3686;45
+comercial/industrial;rio de janeiro;pq anchieta;2688;1
+comercial/industrial;rio de janeiro;praca da bandeira;2688;1
+comercial/industrial;rio de janeiro;praca seca;0;0
+comercial/industrial;rio de janeiro;praia da bandeira;0;0
+comercial/industrial;rio de janeiro;proletario nova cidade;0;26
+comercial/industrial;rio de janeiro;quintino bocaiuva;4364;26
+comercial/industrial;rio de janeiro;ramos;0;74
+comercial/industrial;rio de janeiro;realengo;3815;74
+comercial/industrial;rio de janeiro;recreio dos bandeirantes;6278;1.511
+comercial/industrial;rio de janeiro;riachuelo;6278;1.511
+comercial/industrial;rio de janeiro;ribeira;4022;48
+comercial/industrial;rio de janeiro;ricardo de albuquerque;4606;12
+comercial/industrial;rio de janeiro;rio comprido;4606;29
+comercial/industrial;rio de janeiro;rio da prata;2125;1
+comercial/industrial;rio de janeiro;rocha;2125;3
+comercial/industrial;rio de janeiro;rocha miranda;4434;40
+comercial/industrial;rio de janeiro;rocinha;4434;40
+comercial/industrial;rio de janeiro;s claudio;3379;33
+comercial/industrial;rio de janeiro;s conrado;0;0
+comercial/industrial;rio de janeiro;s cristovao;8606;155
+comercial/industrial;rio de janeiro;s francisco xavier;4584;20
+comercial/industrial;rio de janeiro;sampaio;3234;25
+comercial/industrial;rio de janeiro;santa cruz;4646;36
+comercial/industrial;rio de janeiro;santa teresa;0;0
+comercial/industrial;rio de janeiro;santissimo;0;0
+comercial/industrial;rio de janeiro;santo cristo;0;1
+comercial/industrial;rio de janeiro;sao conrado;0;0
+comercial/industrial;rio de janeiro;sao cristovao;0;0
+comercial/industrial;rio de janeiro;sao francisco xavier;0;0
+comercial/industrial;rio de janeiro;saude;0;0
+comercial/industrial;rio de janeiro;senador camara;3385;1
+comercial/industrial;rio de janeiro;senador vasconcelos;3963;2
+comercial/industrial;rio de janeiro;sepetiba;3668;10
+comercial/industrial;rio de janeiro;seropedica;0;0
+comercial/industrial;rio de janeiro;sta cruz;0;0
+comercial/industrial;rio de janeiro;sta teresa;2694;6
+comercial/industrial;rio de janeiro;sto cristo;6440;151
+comercial/industrial;rio de janeiro;sulacap;3341;2
+comercial/industrial;rio de janeiro;tanque;4118;45
+comercial/industrial;rio de janeiro;taquara;3856;76
+comercial/industrial;rio de janeiro;taua;3856;804
+comercial/industrial;rio de janeiro;tijuca;4121;804
+comercial/industrial;rio de janeiro;tinguazinho i;4617;33
+comercial/industrial;rio de janeiro;tinguazinho ii;0;0
+comercial/industrial;rio de janeiro;todos os santos;0;0
+comercial/industrial;rio de janeiro;tomas coelho;0;0
+comercial/industrial;rio de janeiro;triagem;0;0
+comercial/industrial;rio de janeiro;tubiacanga;0;0
+comercial/industrial;rio de janeiro;turiacu;0;0
+comercial/industrial;rio de janeiro;urca;1667;4
+comercial/industrial;rio de janeiro;usina;11354;47
+comercial/industrial;rio de janeiro;v da penha;0;0
+comercial/industrial;rio de janeiro;v isabel;0;0
+comercial/industrial;rio de janeiro;v iv centenario;0;0
+comercial/industrial;rio de janeiro;v kosmos;0;0
+comercial/industrial;rio de janeiro;v valqueire;0;0
+comercial/industrial;rio de janeiro;vargem grande;0;0
+comercial/industrial;rio de janeiro;vargem pequena;4371;274
+comercial/industrial;rio de janeiro;vaz lobo;2848;13
+comercial/industrial;rio de janeiro;vicente de carvalho;2848;23
+comercial/industrial;rio de janeiro;vidigal;3170;23
+comercial/industrial;rio de janeiro;vigario geral;3170;23
+comercial/industrial;rio de janeiro;village;0;0
+comercial/industrial;rio de janeiro;vista alegre;5094;59
+comercial/industrial;rio de janeiro;vl da penha;5094;59
+comercial/industrial;rio de janeiro;vl do ceu;5160;100
+comercial/industrial;rio de janeiro;vl isabel;5160;100
+comercial/industrial;rio de janeiro;vl ivl centenario;5160;100
+comercial/industrial;rio de janeiro;vl kenedy;5307;195
+comercial/industrial;rio de janeiro;vl kosmos;0;0
+comercial/industrial;rio de janeiro;vl militar;0;0
+comercial/industrial;rio de janeiro;vl valqueire;0;0
+comercial/industrial;rio de janeiro;vl vitoria;4580;181
+comercial/industrial;rio de janeiro;zumbi;0;0
+comercial/industrial;sao goncalo;alcantara;3758;18
+comercial/industrial;sao goncalo;almerinda;2727;1
+comercial/industrial;sao goncalo;amendoeira;0;0
+comercial/industrial;sao goncalo;anaia pequeno;2768;8
+comercial/industrial;sao goncalo;antonina;2296;4
+comercial/industrial;sao goncalo;arsenal;3029;4
+comercial/industrial;sao goncalo;barracao;2861;30
+comercial/industrial;sao goncalo;barreto;2861;30
+comercial/industrial;sao goncalo;barro vermelho;0;0
+comercial/industrial;sao goncalo;boa vista;0;0
+comercial/industrial;sao goncalo;boacu;2912;14
+comercial/industrial;sao goncalo;bom retiro;2944;15
+comercial/industrial;sao goncalo;brasilandia;0;0
+comercial/industrial;sao goncalo;calaboca;3165;10
+comercial/industrial;sao goncalo;camarao;3288;2
+comercial/industrial;sao goncalo;centro;4383;16
+comercial/industrial;sao goncalo;coelho;4383;16
+comercial/industrial;sao goncalo;colubande;2546;11
+comercial/industrial;sao goncalo;covanca;3846;1
+comercial/industrial;sao goncalo;engenho do rocado;3846;1
+comercial/industrial;sao goncalo;engenho pequeno;1600;1
+comercial/industrial;sao goncalo;estrela do norte;2634;6
+comercial/industrial;sao goncalo;galo branco;2199;2
+comercial/industrial;sao goncalo;gradim;3104;11
+comercial/industrial;sao goncalo;guaxindiba;4097;2
+comercial/industrial;sao goncalo;indeterminado;4097;2
+comercial/industrial;sao goncalo;ipiiba;0;0
+comercial/industrial;sao goncalo;itaoca;2706;1
+comercial/industrial;sao goncalo;itauna;2706;1
+comercial/industrial;sao goncalo;jd alcantara;0;0
+comercial/industrial;sao goncalo;jd bom retiro;0;0
+comercial/industrial;sao goncalo;jd california;2050;2
+comercial/industrial;sao goncalo;jd catarina;2050;2
+comercial/industrial;sao goncalo;jd fluminense;3638;2
+comercial/industrial;sao goncalo;jd independencia;2000;1
+comercial/industrial;sao goncalo;joquei clube;2000;1
+comercial/industrial;sao goncalo;lagoinha;2791;12
+comercial/industrial;sao goncalo;laranjal;0;0
+comercial/industrial;sao goncalo;lindo parque;2248;17
+comercial/industrial;sao goncalo;mangueira;1747;0
+comercial/industrial;sao goncalo;marambaia;0;0
+comercial/industrial;sao goncalo;maria paula;3417;2
+comercial/industrial;sao goncalo;miriambi;3567;91
+comercial/industrial;sao goncalo;monjolo;2539;5
+comercial/industrial;sao goncalo;mutondo;2539;5
+comercial/industrial;sao goncalo;mutua;3415;11
+comercial/industrial;sao goncalo;mutuaguacu;3295;20
+comercial/industrial;sao goncalo;mutuapira;1844;2
+comercial/industrial;sao goncalo;n s da paz;1844;2
+comercial/industrial;sao goncalo;neves;0;0
+comercial/industrial;sao goncalo;nova cidade;3302;9
+comercial/industrial;sao goncalo;novo mexico;2744;11
+comercial/industrial;sao goncalo;pacheco;0;0
+comercial/industrial;sao goncalo;parada 40;2853;11
+comercial/industrial;sao goncalo;paraiso;2934;1
+comercial/industrial;sao goncalo;patronato;2916;15
+comercial/industrial;sao goncalo;piao;3284;5
+comercial/industrial;sao goncalo;pita;4923;1
+comercial/industrial;sao goncalo;portao do rosa;3198;4
+comercial/industrial;sao goncalo;porto da madama;2603;1
+comercial/industrial;sao goncalo;porto da pedra;0;0
+comercial/industrial;sao goncalo;porto do rosa;2606;5
+comercial/industrial;sao goncalo;porto novo;2110;1
+comercial/industrial;sao goncalo;porto velho;2110;1
+comercial/industrial;sao goncalo;raul veiga;3244;12
+comercial/industrial;sao goncalo;rio do ouro;2577;1
+comercial/industrial;sao goncalo;rocha;2577;1
+comercial/industrial;sao goncalo;s miguel;2996;5
+comercial/industrial;sao goncalo;sacramento;3577;2
+comercial/industrial;sao goncalo;santa luzia;0;0
+comercial/industrial;sao goncalo;sao miguel;0;0
+comercial/industrial;sao goncalo;sete pontes;0;10
+comercial/industrial;sao goncalo;sta anita;3513;10
+comercial/industrial;sao goncalo;sta catarina;0;0
+comercial/industrial;sao goncalo;sta isabel;3098;4
+comercial/industrial;sao goncalo;sta luzia;3335;2
+comercial/industrial;sao goncalo;tenente jardim;2079;2
+comercial/industrial;sao goncalo;tiradentes;2500;1
+comercial/industrial;sao goncalo;tribobo;1750;1
+comercial/industrial;sao goncalo;trindade;2046;8
+comercial/industrial;sao goncalo;varzea das mocas;2046;8
+comercial/industrial;sao goncalo;venda da cruz;3111;30
+comercial/industrial;sao goncalo;vista alegre;3159;10
+comercial/industrial;sao goncalo;vl iara;2518;7
+comercial/industrial;sao goncalo;vl lage;3249;2
+comercial/industrial;sao goncalo;vl tres;3249;2
+comercial/industrial;sao goncalo;ze garoto;2691;11
+comercial/industrial;sao joao de meriti;agostinho porto;2691;11
+comercial/industrial;sao joao de meriti;centro;2691;0
+comercial/industrial;sao joao de meriti;coelho da rocha;3067;1
+comercial/industrial;sao joao de meriti;eden;1786;1
+comercial/industrial;sao joao de meriti;eng belford;1811;2
+comercial/industrial;sao joao de meriti;grande rio;1811;2
+comercial/industrial;sao joao de meriti;indeterminado;2863;0
+comercial/industrial;sao joao de meriti;jd da alegria;0;0
+comercial/industrial;sao joao de meriti;jd jose bonifacio;0;0
+comercial/industrial;sao joao de meriti;jd meriti;0;0
+comercial/industrial;sao joao de meriti;jd metropole;0;0
+comercial/industrial;sao joao de meriti;jd olavo bilac;0;0
+comercial/industrial;sao joao de meriti;jd sta rosa;0;0
+comercial/industrial;sao joao de meriti;pq analandia;0;0
+comercial/industrial;sao joao de meriti;pq novo rio;2819;1
+comercial/industrial;sao joao de meriti;pq s judas tadeu;2819;1
+comercial/industrial;sao joao de meriti;pq teles de menezes;0;0
+comercial/industrial;sao joao de meriti;s mateus;0;0
+comercial/industrial;sao joao de meriti;tomazinho;0;0
+comercial/industrial;sao joao de meriti;trezentos;0;0
+comercial/industrial;sao joao de meriti;v r dos teles;0;0
+comercial/industrial;sao joao de meriti;v rosali;0;0
+comercial/industrial;sao joao de meriti;v s joao;0;0
+comercial/industrial;sao joao de meriti;venda velha;0;0
+comercial/industrial;sao joao de meriti;vilar dos teles;0;0
+comercial/industrial;sao joao de meriti;vl norma;3500;2
+comercial/industrial;sao joao de meriti;vl r dos teles;0;0
+comercial/industrial;sao joao de meriti;vl rosali;0;0
+comercial/industrial;sao joao de meriti;vl s joao;1290;1
+comercial/industrial;sao joao de meriti;vl tiradentes;0;0
+comercial/industrial;sao joao de meriti;vl zulmira;0;0
+comercial/industrial;seropedica;centro;0;0
+comercial/industrial;seropedica;indeterminado;0;0
+comercial/industrial;seropedica;zona rural;0;0
+comercial/industrial;tangua;bandeirantes i;0;0
+comercial/industrial;tangua;centro;2169;1
+comercial/industrial;tangua;indeterminado;2167;1
+flat/ aparthotel;belford roxo;amelia;0;0
+flat/ aparthotel;belford roxo;andrade araujo;0;0
+flat/ aparthotel;belford roxo;areia branca;0;0
+flat/ aparthotel;belford roxo;babi;0;0
+flat/ aparthotel;belford roxo;belford roxo;0;0
+flat/ aparthotel;belford roxo;boa esperanca;0;0
+flat/ aparthotel;belford roxo;boa ventura;0;0
+flat/ aparthotel;belford roxo;buriti;0;0
+flat/ aparthotel;belford roxo;centro;0;0
+flat/ aparthotel;belford roxo;ch sto antonio;0;0
+flat/ aparthotel;belford roxo;gracas;0;0
+flat/ aparthotel;belford roxo;heliopolis;0;0
+flat/ aparthotel;belford roxo;hiterland;0;0
+flat/ aparthotel;belford roxo;indeterminado;0;0
+flat/ aparthotel;belford roxo;itaipu;0;0
+flat/ aparthotel;belford roxo;jd almo;0;0
+flat/ aparthotel;belford roxo;jd bom pastor;0;0
+flat/ aparthotel;belford roxo;jd dimas filho;0;0
+flat/ aparthotel;belford roxo;jd glaucia;0;0
+flat/ aparthotel;belford roxo;jd redentor;0;0
+flat/ aparthotel;belford roxo;jd sta marta;0;0
+flat/ aparthotel;belford roxo;lot xv;0;0
+flat/ aparthotel;belford roxo;lote xv;0;0
+flat/ aparthotel;belford roxo;nova aurora;0;0
+flat/ aparthotel;belford roxo;piam;0;0
+flat/ aparthotel;belford roxo;pq amorim;0;0
+flat/ aparthotel;belford roxo;pq esperanca;0;0
+flat/ aparthotel;belford roxo;pq floresta;0;0
+flat/ aparthotel;belford roxo;pq martinho;0;0
+flat/ aparthotel;belford roxo;pq s bernardo;0;0
+flat/ aparthotel;belford roxo;pq s jose;0;0
+flat/ aparthotel;belford roxo;pq s vicente;0;0
+flat/ aparthotel;belford roxo;pq santa amelia;0;0
+flat/ aparthotel;belford roxo;pq saxonia;0;0
+flat/ aparthotel;belford roxo;pq sta amelia;0;0
+flat/ aparthotel;belford roxo;prata;0;0
+flat/ aparthotel;belford roxo;rocha sobrinho;0;0
+flat/ aparthotel;belford roxo;s bernardo;0;0
+flat/ aparthotel;belford roxo;s jorge;0;0
+flat/ aparthotel;belford roxo;sta cecilia;0;0
+flat/ aparthotel;belford roxo;sta maria;0;0
+flat/ aparthotel;belford roxo;sublime;0;0
+flat/ aparthotel;belford roxo;vergel dos felix;0;0
+flat/ aparthotel;belford roxo;vl dagmar;0;0
+flat/ aparthotel;belford roxo;vl entre rios;0;0
+flat/ aparthotel;belford roxo;vl joao lima;0;0
+flat/ aparthotel;belford roxo;vl madalena;0;0
+flat/ aparthotel;belford roxo;vl medeiros;0;0
+flat/ aparthotel;belford roxo;vl pauline;0;0
+flat/ aparthotel;belford roxo;vl r novo;0;0
+flat/ aparthotel;belford roxo;vl s luis;0;0
+flat/ aparthotel;belford roxo;vl s teodoro;0;0
+flat/ aparthotel;belford roxo;vl sto antonio da prata;0;0
+flat/ aparthotel;belford roxo;vl verde;0;0
+flat/ aparthotel;belford roxo;vl vitorio;0;0
+flat/ aparthotel;cachoeiras de macacu;boca do mato;0;0
+flat/ aparthotel;cachoeiras de macacu;centro;0;0
+flat/ aparthotel;cachoeiras de macacu;indeterminado;0;0
+flat/ aparthotel;cachoeiras de macacu;papucaia;0;0
+flat/ aparthotel;cachoeiras de macacu;zona rural;0;0
+flat/ aparthotel;duque de caxias;barro branco;0;0
+flat/ aparthotel;duque de caxias;centro;0;0
+flat/ aparthotel;duque de caxias;ch arcampo;0;0
+flat/ aparthotel;duque de caxias;ch maria helena;0;0
+flat/ aparthotel;duque de caxias;ch riopetropolis;0;0
+flat/ aparthotel;duque de caxias;chac rio petropolis;0;0
+flat/ aparthotel;duque de caxias;chac riopetropolis;0;0
+flat/ aparthotel;duque de caxias;chacrinha;0;0
+flat/ aparthotel;duque de caxias;circular;0;0
+flat/ aparthotel;duque de caxias;divino;0;0
+flat/ aparthotel;duque de caxias;dr laureano;0;0
+flat/ aparthotel;duque de caxias;engenho do porto;0;0
+flat/ aparthotel;duque de caxias;gramacho;0;0
+flat/ aparthotel;duque de caxias;imbarie;0;0
+flat/ aparthotel;duque de caxias;indeterminado;0;0
+flat/ aparthotel;duque de caxias;itatiaia;0;0
+flat/ aparthotel;duque de caxias;jd 25 de agosto;0;0
+flat/ aparthotel;duque de caxias;jd anhanga;0;0
+flat/ aparthotel;duque de caxias;jd gramacho;0;0
+flat/ aparthotel;duque de caxias;jd imbarie;0;0
+flat/ aparthotel;duque de caxias;jd leal;0;0
+flat/ aparthotel;duque de caxias;jd olavo bilac;0;0
+flat/ aparthotel;duque de caxias;jd olimpo;0;0
+flat/ aparthotel;duque de caxias;jd panama;0;0
+flat/ aparthotel;duque de caxias;jd primavera;0;0
+flat/ aparthotel;duque de caxias;jd vinte e cinco de agosto;0;0
+flat/ aparthotel;duque de caxias;mantiquira;12500;2
+flat/ aparthotel;duque de caxias;nova campinas;0;0
+flat/ aparthotel;duque de caxias;pq barao do amapa;0;0
+flat/ aparthotel;duque de caxias;pq beira mar;0;0
+flat/ aparthotel;duque de caxias;pq boa vista i;0;0
+flat/ aparthotel;duque de caxias;pq boa vista ii;0;0
+flat/ aparthotel;duque de caxias;pq capivari;0;0
+flat/ aparthotel;duque de caxias;pq centenario;0;0
+flat/ aparthotel;duque de caxias;pq duque de caxias;0;0
+flat/ aparthotel;duque de caxias;pq eldorado;0;0
+flat/ aparthotel;duque de caxias;pq equitativa;0;0
+flat/ aparthotel;duque de caxias;pq esperanca;0;0
+flat/ aparthotel;duque de caxias;pq felicidade;0;0
+flat/ aparthotel;duque de caxias;pq fluminense;0;0
+flat/ aparthotel;duque de caxias;pq imperio;0;0
+flat/ aparthotel;duque de caxias;pq independencia;0;0
+flat/ aparthotel;duque de caxias;pq joao pessoa;0;0
+flat/ aparthotel;duque de caxias;pq lafaiete;0;0
+flat/ aparthotel;duque de caxias;pq laguna e dourados;0;0
+flat/ aparthotel;duque de caxias;pq muisa;0;0
+flat/ aparthotel;duque de caxias;pq nova esperanca;0;0
+flat/ aparthotel;duque de caxias;pq pauliceia;0;0
+flat/ aparthotel;duque de caxias;pq paulista;0;0
+flat/ aparthotel;duque de caxias;pq senhor do bonfim;0;0
+flat/ aparthotel;duque de caxias;pq sta lucia;0;0
+flat/ aparthotel;duque de caxias;pq uruguaiana;0;0
+flat/ aparthotel;duque de caxias;pq vitoria;0;0
+flat/ aparthotel;duque de caxias;pq xerem;0;0
+flat/ aparthotel;duque de caxias;s bento;0;0
+flat/ aparthotel;duque de caxias;saracuruna;0;0
+flat/ aparthotel;duque de caxias;sarapui;0;0
+flat/ aparthotel;duque de caxias;sta lucia;0;0
+flat/ aparthotel;duque de caxias;sto antonio;0;0
+flat/ aparthotel;duque de caxias;taquara;0;0
+flat/ aparthotel;duque de caxias;v actura;0;0
+flat/ aparthotel;duque de caxias;v s joao;0;0
+flat/ aparthotel;duque de caxias;v s judas tadeu;0;0
+flat/ aparthotel;duque de caxias;v s luis;0;0
+flat/ aparthotel;duque de caxias;v s sebastiao;0;0
+flat/ aparthotel;duque de caxias;v sao luis;0;0
+flat/ aparthotel;duque de caxias;v sta cruz;0;0
+flat/ aparthotel;duque de caxias;v sto antonio;0;0
+flat/ aparthotel;duque de caxias;vl actura;0;0
+flat/ aparthotel;duque de caxias;vl bela vista;0;0
+flat/ aparthotel;duque de caxias;vl canaan;0;0
+flat/ aparthotel;duque de caxias;vl centenario;0;0
+flat/ aparthotel;duque de caxias;vl ema;0;0
+flat/ aparthotel;duque de caxias;vl guanabara;0;0
+flat/ aparthotel;duque de caxias;vl ideal;0;0
+flat/ aparthotel;duque de caxias;vl itamarati;0;0
+flat/ aparthotel;duque de caxias;vl leopoldina;0;0
+flat/ aparthotel;duque de caxias;vl maria helena;0;0
+flat/ aparthotel;duque de caxias;vl meriti;0;0
+flat/ aparthotel;duque de caxias;vl oito de maio;0;0
+flat/ aparthotel;duque de caxias;vl paula;0;0
+flat/ aparthotel;duque de caxias;vl rosario;0;0
+flat/ aparthotel;duque de caxias;vl s luis;0;0
+flat/ aparthotel;duque de caxias;vl s sebastiao;11840;1
+flat/ aparthotel;duque de caxias;vl sarapui;0;0
+flat/ aparthotel;duque de caxias;vl sta alice;0;0
+flat/ aparthotel;duque de caxias;vl sta cruz;0;0
+flat/ aparthotel;duque de caxias;xerem;0;0
+flat/ aparthotel;guapimirim;centro;0;0
+flat/ aparthotel;guapimirim;indeterminado;0;0
+flat/ aparthotel;guapimirim;zona rural;0;0
+flat/ aparthotel;itaborai;aldeia da prata (manilha);0;0
+flat/ aparthotel;itaborai;ampliacao;0;0
+flat/ aparthotel;itaborai;areal;0;0
+flat/ aparthotel;itaborai;bela vista;0;0
+flat/ aparthotel;itaborai;bonfim;0;0
+flat/ aparthotel;itaborai;caluge;0;0
+flat/ aparthotel;itaborai;centro;0;0
+flat/ aparthotel;itaborai;ch bela vista;7169;24
+flat/ aparthotel;itaborai;gebara (itambi);0;0
+flat/ aparthotel;itaborai;indeterminado;0;0
+flat/ aparthotel;itaborai;jd imperial;10692;11
+flat/ aparthotel;itaborai;joaquim de oliveira;0;0
+flat/ aparthotel;itaborai;manilha;0;0
+flat/ aparthotel;itaborai;marambaia;0;0
+flat/ aparthotel;itaborai;monte verde (manilha);0;0
+flat/ aparthotel;itaborai;nancilandia;0;0
+flat/ aparthotel;itaborai;nova cidade;0;0
+flat/ aparthotel;itaborai;outeiro das pedras;0;0
+flat/ aparthotel;itaborai;quissama;0;0
+flat/ aparthotel;itaborai;retiro s joaquim;0;0
+flat/ aparthotel;itaborai;rio varzea;0;0
+flat/ aparthotel;itaborai;s jose;0;0
+flat/ aparthotel;itaborai;sossego;0;0
+flat/ aparthotel;itaborai;sto expedito;0;0
+flat/ aparthotel;itaborai;tangua;0;0
+flat/ aparthotel;itaborai;tres pontes;0;0
+flat/ aparthotel;itaborai;venda das pedras;0;0
+flat/ aparthotel;itaborai;visconde de itaborai;0;0
+flat/ aparthotel;itaborai;zona rural;0;0
+flat/ aparthotel;itaguai;aguas lindas;0;0
+flat/ aparthotel;itaguai;brisa mar;0;0
+flat/ aparthotel;itaguai;california;0;0
+flat/ aparthotel;itaguai;centro;0;0
+flat/ aparthotel;itaguai;chapero;0;0
+flat/ aparthotel;itaguai;cid industrial;0;0
+flat/ aparthotel;itaguai;coroa grande;0;0
+flat/ aparthotel;itaguai;engenho;0;0
+flat/ aparthotel;itaguai;ibirapitanga;0;0
+flat/ aparthotel;itaguai;ibituporanga;0;0
+flat/ aparthotel;itaguai;ilha da madeira;0;0
+flat/ aparthotel;itaguai;indeterminado;0;0
+flat/ aparthotel;itaguai;jd america;0;0
+flat/ aparthotel;itaguai;jd laia;0;0
+flat/ aparthotel;itaguai;jd veda;0;0
+flat/ aparthotel;itaguai;leandro;0;0
+flat/ aparthotel;itaguai;monte serrat;0;0
+flat/ aparthotel;itaguai;piranema;0;0
+flat/ aparthotel;itaguai;pq independencia;0;0
+flat/ aparthotel;itaguai;pq paraiso;0;0
+flat/ aparthotel;itaguai;pq primavera;0;0
+flat/ aparthotel;itaguai;sta candida;0;0
+flat/ aparthotel;itaguai;teixeiras;0;0
+flat/ aparthotel;itaguai;vl geny;0;0
+flat/ aparthotel;itaguai;vl ibirapitanga;0;0
+flat/ aparthotel;itaguai;vl margarida;0;0
+flat/ aparthotel;japeri;japeri;7066;2
+flat/ aparthotel;mage;centro;0;0
+flat/ aparthotel;mage;indeterminado;0;0
+flat/ aparthotel;mage;zona rural;0;0
+flat/ aparthotel;mangaratiba;centro;0;0
+flat/ aparthotel;mangaratiba;conceicao de jacarei;0;0
+flat/ aparthotel;mangaratiba;indeterminado;0;0
+flat/ aparthotel;mangaratiba;itacuruca;0;0
+flat/ aparthotel;mangaratiba;itacurussa;3913;2
+flat/ aparthotel;mangaratiba;muriqui;0;0
+flat/ aparthotel;mangaratiba;praia grande;0;0
+flat/ aparthotel;mangaratiba;sahy;0;0
+flat/ aparthotel;marica;aracatiba;0;0
+flat/ aparthotel;marica;bal bambui (ponta negra);0;0
+flat/ aparthotel;marica;barra de marica;0;0
+flat/ aparthotel;marica;barroco (itaipuacu);0;0
+flat/ aparthotel;marica;caju (ponta negra);0;0
+flat/ aparthotel;marica;cajueiros;0;0
+flat/ aparthotel;marica;cajueiros (itaipuacu);0;0
+flat/ aparthotel;marica;caxito;0;0
+flat/ aparthotel;marica;centro;0;0
+flat/ aparthotel;marica;ch de inoa;0;0
+flat/ aparthotel;marica;ch rincao mimoso;0;0
+flat/ aparthotel;marica;cid nova;0;0
+flat/ aparthotel;marica;condado de marica;0;0
+flat/ aparthotel;marica;cordeirinho;0;0
+flat/ aparthotel;marica;espraiado (ponta negra);0;0
+flat/ aparthotel;marica;flamengo;0;0
+flat/ aparthotel;marica;guaratiba;0;0
+flat/ aparthotel;marica;indeterminado;0;0
+flat/ aparthotel;marica;inoa;0;0
+flat/ aparthotel;marica;itaipuacu;0;0
+flat/ aparthotel;marica;itaocaia valley;0;0
+flat/ aparthotel;marica;itapeba;0;0
+flat/ aparthotel;marica;jacaroa;0;0
+flat/ aparthotel;marica;jacone (pte negra);0;0
+flat/ aparthotel;marica;jd atlantico;0;0
+flat/ aparthotel;marica;marques de marica;0;0
+flat/ aparthotel;marica;mumbuca;0;0
+flat/ aparthotel;marica;pedreiras;0;0
+flat/ aparthotel;marica;ponta grossa;0;0
+flat/ aparthotel;marica;ponta negra;0;0
+flat/ aparthotel;marica;pq nanci;0;0
+flat/ aparthotel;marica;recanto;0;0
+flat/ aparthotel;marica;retiro;0;0
+flat/ aparthotel;marica;s bento da lagoa;0;0
+flat/ aparthotel;marica;s jose do imbassai;0;0
+flat/ aparthotel;marica;ubatiba;0;0
+flat/ aparthotel;marica;vale da figueira (ponta negra);0;0
+flat/ aparthotel;marica;vivendas de itaipuacu;0;0
+flat/ aparthotel;mesquita;banco de areia;0;0
+flat/ aparthotel;mesquita;centro;0;0
+flat/ aparthotel;mesquita;cosmorama;0;0
+flat/ aparthotel;mesquita;edison passos;0;0
+flat/ aparthotel;mesquita;indeterminado;0;0
+flat/ aparthotel;mesquita;jacutinga;0;0
+flat/ aparthotel;mesquita;presid juscelino;0;0
+flat/ aparthotel;mesquita;rocha sobrinho;0;0
+flat/ aparthotel;mesquita;sta teresinha;0;0
+flat/ aparthotel;mesquita;sto elias;0;0
+flat/ aparthotel;nilopolis;cabral;0;0
+flat/ aparthotel;nilopolis;cabuis;0;0
+flat/ aparthotel;nilopolis;centro;0;0
+flat/ aparthotel;nilopolis;chatuba;0;0
+flat/ aparthotel;nilopolis;indeterminado;0;0
+flat/ aparthotel;nilopolis;nova cidade;0;0
+flat/ aparthotel;nilopolis;olinda;0;0
+flat/ aparthotel;nilopolis;paiol de polvora;0;0
+flat/ aparthotel;niteroi;atalaia;0;0
+flat/ aparthotel;niteroi;badu;0;0
+flat/ aparthotel;niteroi;baldeador;0;0
+flat/ aparthotel;niteroi;barreto;0;0
+flat/ aparthotel;niteroi;beltrao;0;0
+flat/ aparthotel;niteroi;boa viagem;0;0
+flat/ aparthotel;niteroi;cafuba;0;0
+flat/ aparthotel;niteroi;camboinhas;0;0
+flat/ aparthotel;niteroi;cantagalo;0;0
+flat/ aparthotel;niteroi;caramujo;0;0
+flat/ aparthotel;niteroi;centro;0;0
+flat/ aparthotel;niteroi;charitas;0;0
+flat/ aparthotel;niteroi;cid nova;0;0
+flat/ aparthotel;niteroi;cubango;0;0
+flat/ aparthotel;niteroi;engenho do mato;0;0
+flat/ aparthotel;niteroi;engenhoca;0;0
+flat/ aparthotel;niteroi;fatima;0;0
+flat/ aparthotel;niteroi;figueira;0;0
+flat/ aparthotel;niteroi;fonseca;0;0
+flat/ aparthotel;niteroi;gragoata;0;1
+flat/ aparthotel;niteroi;icarai;8222;1
+flat/ aparthotel;niteroi;ilha da conceicao;8222;1
+flat/ aparthotel;niteroi;indeterminado;8222;1
+flat/ aparthotel;niteroi;inga;5200;1
+flat/ aparthotel;niteroi;itacoatiara;6600;2
+flat/ aparthotel;niteroi;itaipu;6600;2
+flat/ aparthotel;niteroi;ititioca;0;0
+flat/ aparthotel;niteroi;jacare;0;0
+flat/ aparthotel;niteroi;jd fazendinha;0;0
+flat/ aparthotel;niteroi;jd imbui;0;0
+flat/ aparthotel;niteroi;jurujuba;0;0
+flat/ aparthotel;niteroi;largo da batalha;0;0
+flat/ aparthotel;niteroi;largo do barradas;0;0
+flat/ aparthotel;niteroi;lot engenho do mato;0;0
+flat/ aparthotel;niteroi;lot maravista;0;0
+flat/ aparthotel;niteroi;maceio;0;0
+flat/ aparthotel;niteroi;maralegre;0;0
+flat/ aparthotel;niteroi;maravista;0;0
+flat/ aparthotel;niteroi;marazul;0;0
+flat/ aparthotel;niteroi;maria paula;0;0
+flat/ aparthotel;niteroi;martins torres;0;0
+flat/ aparthotel;niteroi;mata paca;0;0
+flat/ aparthotel;niteroi;matapaca;0;0
+flat/ aparthotel;niteroi;niteroi;0;0
+flat/ aparthotel;niteroi;pe pequeno;0;0
+flat/ aparthotel;niteroi;pendotiba;0;0
+flat/ aparthotel;niteroi;piratininga;0;0
+flat/ aparthotel;niteroi;ponta d areia;5200;1
+flat/ aparthotel;niteroi;ponta da areia;0;0
+flat/ aparthotel;niteroi;ponta dareia;0;0
+flat/ aparthotel;niteroi;ponto cem reis;0;0
+flat/ aparthotel;niteroi;rio do ouro;0;0
+flat/ aparthotel;niteroi;rio do ouro e varzea das mocas;0;0
+flat/ aparthotel;niteroi;s domingos;0;0
+flat/ aparthotel;niteroi;s francisco;0;0
+flat/ aparthotel;niteroi;s lourenco;0;0
+flat/ aparthotel;niteroi;santa rosa;0;0
+flat/ aparthotel;niteroi;santana;0;0
+flat/ aparthotel;niteroi;sao francisco;0;0
+flat/ aparthotel;niteroi;sao lourenco;0;0
+flat/ aparthotel;niteroi;sape;0;0
+flat/ aparthotel;niteroi;sape e vl progresso;0;0
+flat/ aparthotel;niteroi;sta barbara;0;0
+flat/ aparthotel;niteroi;sta rosa;0;0
+flat/ aparthotel;niteroi;sto antonio;0;0
+flat/ aparthotel;niteroi;sto antonio e serra grande;0;0
+flat/ aparthotel;niteroi;teixeira de freitas;0;0
+flat/ aparthotel;niteroi;tenente jardim;0;0
+flat/ aparthotel;niteroi;varzea das mocas;0;0
+flat/ aparthotel;niteroi;venda da cruz;0;0
+flat/ aparthotel;niteroi;vital brasil;0;0
+flat/ aparthotel;niteroi;vl progresso;0;0
+flat/ aparthotel;nova iguacu;adrianopolis;0;0
+flat/ aparthotel;nova iguacu;aero clube;0;0
+flat/ aparthotel;nova iguacu;alto da posse;0;0
+flat/ aparthotel;nova iguacu;alvarez;0;0
+flat/ aparthotel;nova iguacu;ambai;0;0
+flat/ aparthotel;nova iguacu;andrade araujo;0;0
+flat/ aparthotel;nova iguacu;austin;0;0
+flat/ aparthotel;nova iguacu;barao de amapa;0;0
+flat/ aparthotel;nova iguacu;bela vista;0;0
+flat/ aparthotel;nova iguacu;boa esperanca;0;0
+flat/ aparthotel;nova iguacu;botafogo;0;0
+flat/ aparthotel;nova iguacu;cabucu;0;0
+flat/ aparthotel;nova iguacu;caioaba;0;0
+flat/ aparthotel;nova iguacu;california;0;0
+flat/ aparthotel;nova iguacu;caonde;0;0
+flat/ aparthotel;nova iguacu;caonze;0;0
+flat/ aparthotel;nova iguacu;carmari;0;0
+flat/ aparthotel;nova iguacu;carolina;0;0
+flat/ aparthotel;nova iguacu;centro;7841;13
+flat/ aparthotel;nova iguacu;ceramica;7841;13
+flat/ aparthotel;nova iguacu;chacrinha;0;0
+flat/ aparthotel;nova iguacu;chique;0;0
+flat/ aparthotel;nova iguacu;cid jardim cabucu;0;0
+flat/ aparthotel;nova iguacu;cid jd cabucu;0;0
+flat/ aparthotel;nova iguacu;cid jd pq estoril;0;0
+flat/ aparthotel;nova iguacu;comendador soares;0;0
+flat/ aparthotel;nova iguacu;cruzeiro do sul;0;0
+flat/ aparthotel;nova iguacu;cuiaba;0;0
+flat/ aparthotel;nova iguacu;dom rodrigo;0;0
+flat/ aparthotel;nova iguacu;edison passos;0;0
+flat/ aparthotel;nova iguacu;eng rocha freire;0;0
+flat/ aparthotel;nova iguacu;essolandia;0;0
+flat/ aparthotel;nova iguacu;fe;0;0
+flat/ aparthotel;nova iguacu;figueiras;0;0
+flat/ aparthotel;nova iguacu;floresta;0;0
+flat/ aparthotel;nova iguacu;grande rio;0;0
+flat/ aparthotel;nova iguacu;imperador;0;0
+flat/ aparthotel;nova iguacu;inconfidencia;0;0
+flat/ aparthotel;nova iguacu;independencia;0;0
+flat/ aparthotel;nova iguacu;indeterminado;0;0
+flat/ aparthotel;nova iguacu;jacutinga;0;0
+flat/ aparthotel;nova iguacu;jd alvorada;0;0
+flat/ aparthotel;nova iguacu;jd canaan;0;0
+flat/ aparthotel;nova iguacu;jd continental;0;0
+flat/ aparthotel;nova iguacu;jd corumba;0;0
+flat/ aparthotel;nova iguacu;jd da posse;0;0
+flat/ aparthotel;nova iguacu;jd da viga;0;0
+flat/ aparthotel;nova iguacu;jd esplanada;0;0
+flat/ aparthotel;nova iguacu;jd iguacu;0;0
+flat/ aparthotel;nova iguacu;jd imperio;0;0
+flat/ aparthotel;nova iguacu;jd jasmim;0;0
+flat/ aparthotel;nova iguacu;jd nova era;0;0
+flat/ aparthotel;nova iguacu;jd nova iguacu;0;0
+flat/ aparthotel;nova iguacu;jd palmares;0;0
+flat/ aparthotel;nova iguacu;jd pernambuco;0;0
+flat/ aparthotel;nova iguacu;jd pitoresco;0;0
+flat/ aparthotel;nova iguacu;jd sta eugenia;0;0
+flat/ aparthotel;nova iguacu;jd tropical;0;0
+flat/ aparthotel;nova iguacu;k 11;0;0
+flat/ aparthotel;nova iguacu;k 32;0;0
+flat/ aparthotel;nova iguacu;k11;0;0
+flat/ aparthotel;nova iguacu;k32;0;0
+flat/ aparthotel;nova iguacu;kennedy;0;0
+flat/ aparthotel;nova iguacu;lafaiete;0;0
+flat/ aparthotel;nova iguacu;lagoinha;0;0
+flat/ aparthotel;nova iguacu;luz;0;0
+flat/ aparthotel;nova iguacu;marco ii;0;0
+flat/ aparthotel;nova iguacu;margarida;0;0
+flat/ aparthotel;nova iguacu;maria da luz;0;0
+flat/ aparthotel;nova iguacu;maria jose;0;0
+flat/ aparthotel;nova iguacu;mesquita;0;0
+flat/ aparthotel;nova iguacu;metropole;0;0
+flat/ aparthotel;nova iguacu;miguel couto;0;0
+flat/ aparthotel;nova iguacu;monte castelo;0;0
+flat/ aparthotel;nova iguacu;monte libano;0;0
+flat/ aparthotel;nova iguacu;moqueta;0;0
+flat/ aparthotel;nova iguacu;morro agudo;0;0
+flat/ aparthotel;nova iguacu;n s das gracas;0;0
+flat/ aparthotel;nova iguacu;nazare;0;0
+flat/ aparthotel;nova iguacu;nova america;0;0
+flat/ aparthotel;nova iguacu;nova luz;0;0
+flat/ aparthotel;nova iguacu;oliveira;0;0
+flat/ aparthotel;nova iguacu;ouro preto;0;0
+flat/ aparthotel;nova iguacu;palhada;0;0
+flat/ aparthotel;nova iguacu;palmeiras;0;0
+flat/ aparthotel;nova iguacu;paraiso;0;0
+flat/ aparthotel;nova iguacu;pioneiro;0;0
+flat/ aparthotel;nova iguacu;ponto chic;0;0
+flat/ aparthotel;nova iguacu;posse;0;0
+flat/ aparthotel;nova iguacu;pq das palmeiras;0;0
+flat/ aparthotel;nova iguacu;pq engenho pequeno;0;0
+flat/ aparthotel;nova iguacu;pq flora;0;0
+flat/ aparthotel;nova iguacu;pq horizonte;0;0
+flat/ aparthotel;nova iguacu;pq resid guadalajara;0;0
+flat/ aparthotel;nova iguacu;pq rosario;0;0
+flat/ aparthotel;nova iguacu;pq s carlos;0;0
+flat/ aparthotel;nova iguacu;pq tres coracoes;0;0
+flat/ aparthotel;nova iguacu;pq ulisses;0;0
+flat/ aparthotel;nova iguacu;prata;0;0
+flat/ aparthotel;nova iguacu;presid juscelino;0;0
+flat/ aparthotel;nova iguacu;queimados;0;0
+flat/ aparthotel;nova iguacu;rancho fundo;0;0
+flat/ aparthotel;nova iguacu;rancho novo;0;0
+flat/ aparthotel;nova iguacu;riachao;0;0
+flat/ aparthotel;nova iguacu;rosa dos ventos;0;0
+flat/ aparthotel;nova iguacu;s benedito;0;0
+flat/ aparthotel;nova iguacu;s geraldo;0;0
+flat/ aparthotel;nova iguacu;s jose;0;0
+flat/ aparthotel;nova iguacu;silvania;0;0
+flat/ aparthotel;nova iguacu;sitio novo oriente;0;0
+flat/ aparthotel;nova iguacu;sta catarina;0;0
+flat/ aparthotel;nova iguacu;sta cecilia;0;0
+flat/ aparthotel;nova iguacu;sta clara;0;0
+flat/ aparthotel;nova iguacu;sta eufenia;0;0
+flat/ aparthotel;nova iguacu;sta eugenia;0;0
+flat/ aparthotel;nova iguacu;sta rita;0;0
+flat/ aparthotel;nova iguacu;tingua;0;0
+flat/ aparthotel;nova iguacu;tiradentes;0;0
+flat/ aparthotel;nova iguacu;v s jorge;0;0
+flat/ aparthotel;nova iguacu;v s luis;0;0
+flat/ aparthotel;nova iguacu;valverde;0;0
+flat/ aparthotel;nova iguacu;vaz martins;0;0
+flat/ aparthotel;nova iguacu;vista alegre;0;0
+flat/ aparthotel;nova iguacu;vl abolicao;0;0
+flat/ aparthotel;nova iguacu;vl anita;0;0
+flat/ aparthotel;nova iguacu;vl avelina;0;0
+flat/ aparthotel;nova iguacu;vl bandeirantes;0;0
+flat/ aparthotel;nova iguacu;vl de cava;0;0
+flat/ aparthotel;nova iguacu;vl formosa;0;0
+flat/ aparthotel;nova iguacu;vl iguacuana;0;0
+flat/ aparthotel;nova iguacu;vl iracema;0;0
+flat/ aparthotel;nova iguacu;vl marines;0;0
+flat/ aparthotel;nova iguacu;vl martins;0;0
+flat/ aparthotel;nova iguacu;vl nova;0;0
+flat/ aparthotel;nova iguacu;vl operaria;0;0
+flat/ aparthotel;nova iguacu;vl palmeiras;0;0
+flat/ aparthotel;nova iguacu;vl rancho novo;0;0
+flat/ aparthotel;nova iguacu;vl s jorge;0;0
+flat/ aparthotel;nova iguacu;vl s luis;0;0
+flat/ aparthotel;nova iguacu;vl sta teresinha de jesus;0;0
+flat/ aparthotel;nova iguacu;vl tres coracoes;0;0
+flat/ aparthotel;nova iguacu;vl verde;0;0
+flat/ aparthotel;nova iguacu;vl zulmira;0;0
+flat/ aparthotel;paracambi;centro;0;0
+flat/ aparthotel;paracambi;indeterminado;0;0
+flat/ aparthotel;queimados;a noite;0;0
+flat/ aparthotel;queimados;austin;0;0
+flat/ aparthotel;queimados;belmonte;0;0
+flat/ aparthotel;queimados;cabucu;0;0
+flat/ aparthotel;queimados;centro;0;0
+flat/ aparthotel;queimados;guarani;0;0
+flat/ aparthotel;queimados;indeterminado;0;0
+flat/ aparthotel;queimados;jd alzira;0;0
+flat/ aparthotel;queimados;jd capuacu;0;0
+flat/ aparthotel;queimados;jd guandu;0;0
+flat/ aparthotel;queimados;jd queimados;0;0
+flat/ aparthotel;queimados;pacaembu;0;0
+flat/ aparthotel;queimados;pq presid dutra;0;0
+flat/ aparthotel;queimados;pq presidente dutra;0;0
+flat/ aparthotel;queimados;queimados;0;0
+flat/ aparthotel;queimados;vl avante;0;0
+flat/ aparthotel;queimados;vl do tingua;0;0
+flat/ aparthotel;queimados;vl s joao;0;0
+flat/ aparthotel;rio bonito;centro;0;0
+flat/ aparthotel;rio bonito;indeterminado;0;0
+flat/ aparthotel;rio bonito;zona rural;0;0
+flat/ aparthotel;rio de janeiro;abolicao;0;0
+flat/ aparthotel;rio de janeiro;acari;0;0
+flat/ aparthotel;rio de janeiro;adriana;0;0
+flat/ aparthotel;rio de janeiro;aeroporto;0;0
+flat/ aparthotel;rio de janeiro;agua santa;0;0
+flat/ aparthotel;rio de janeiro;alcantara;0;0
+flat/ aparthotel;rio de janeiro;alto da boa vista;0;0
+flat/ aparthotel;rio de janeiro;anchieta;0;0
+flat/ aparthotel;rio de janeiro;andarai;0;0
+flat/ aparthotel;rio de janeiro;anil;0;0
+flat/ aparthotel;rio de janeiro;araujo de cosmos;0;0
+flat/ aparthotel;rio de janeiro;arpoador;0;0
+flat/ aparthotel;rio de janeiro;baia de guanabara;0;0
+flat/ aparthotel;rio de janeiro;bananal;0;0
+flat/ aparthotel;rio de janeiro;bancarios;0;0
+flat/ aparthotel;rio de janeiro;bangu;0;0
+flat/ aparthotel;rio de janeiro;barra da tijuca;10603;66
+flat/ aparthotel;rio de janeiro;barra de guaratiba;10603;66
+flat/ aparthotel;rio de janeiro;barros filho;0;0
+flat/ aparthotel;rio de janeiro;benfica;0;0
+flat/ aparthotel;rio de janeiro;bento ribeiro;0;0
+flat/ aparthotel;rio de janeiro;boiuna;0;0
+flat/ aparthotel;rio de janeiro;bonsucesso;0;0
+flat/ aparthotel;rio de janeiro;botafogo;13333;1
+flat/ aparthotel;rio de janeiro;bras de pina;13333;1
+flat/ aparthotel;rio de janeiro;cachambi;0;0
+flat/ aparthotel;rio de janeiro;cachamorra;0;0
+flat/ aparthotel;rio de janeiro;cacuia;0;0
+flat/ aparthotel;rio de janeiro;caju;0;0
+flat/ aparthotel;rio de janeiro;camorim;0;0
+flat/ aparthotel;rio de janeiro;campinho;0;0
+flat/ aparthotel;rio de janeiro;campo dos afonsos;0;0
+flat/ aparthotel;rio de janeiro;campo formoso;0;0
+flat/ aparthotel;rio de janeiro;campo grande;0;0
+flat/ aparthotel;rio de janeiro;cascadura;0;0
+flat/ aparthotel;rio de janeiro;castelo;0;0
+flat/ aparthotel;rio de janeiro;catete;0;0
+flat/ aparthotel;rio de janeiro;catumbi;0;0
+flat/ aparthotel;rio de janeiro;cavalcante;0;0
+flat/ aparthotel;rio de janeiro;cavalcanti;0;0
+flat/ aparthotel;rio de janeiro;centro;2685;1
+flat/ aparthotel;rio de janeiro;centro valenca;2685;1
+flat/ aparthotel;rio de janeiro;cid de deus;0;0
+flat/ aparthotel;rio de janeiro;cid nova;0;0
+flat/ aparthotel;rio de janeiro;cid universitaria;0;0
+flat/ aparthotel;rio de janeiro;cidade de deus;0;0
+flat/ aparthotel;rio de janeiro;cidade nova;0;0
+flat/ aparthotel;rio de janeiro;cinelandia;0;0
+flat/ aparthotel;rio de janeiro;cocota;0;0
+flat/ aparthotel;rio de janeiro;coelho neto;0;0
+flat/ aparthotel;rio de janeiro;colegio;0;0
+flat/ aparthotel;rio de janeiro;copacabana;0;0
+flat/ aparthotel;rio de janeiro;cordovil;12692;39
+flat/ aparthotel;rio de janeiro;cosme velho;0;0
+flat/ aparthotel;rio de janeiro;cosmos;0;0
+flat/ aparthotel;rio de janeiro;costa barros;0;0
+flat/ aparthotel;rio de janeiro;curicica;0;0
+flat/ aparthotel;rio de janeiro;del castilho;10615;2
+flat/ aparthotel;rio de janeiro;dende;10615;2
+flat/ aparthotel;rio de janeiro;deodoro;0;0
+flat/ aparthotel;rio de janeiro;dumas;0;0
+flat/ aparthotel;rio de janeiro;encantado;0;0
+flat/ aparthotel;rio de janeiro;eng leal;3556;2
+flat/ aparthotel;rio de janeiro;engenho da rainha;0;0
+flat/ aparthotel;rio de janeiro;engenho de dentro;0;0
+flat/ aparthotel;rio de janeiro;engenho novo;0;0
+flat/ aparthotel;rio de janeiro;estacio;0;0
+flat/ aparthotel;rio de janeiro;fatima;0;0
+flat/ aparthotel;rio de janeiro;fazenda botafogo;0;0
+flat/ aparthotel;rio de janeiro;flamengo;0;0
+flat/ aparthotel;rio de janeiro;freguesia;8392;1
+flat/ aparthotel;rio de janeiro;freguesia (ilha do governador);0;0
+flat/ aparthotel;rio de janeiro;freguesia (jacarepagua);0;0
+flat/ aparthotel;rio de janeiro;freguesia ilha do governador;0;0
+flat/ aparthotel;rio de janeiro;freguesia/ilha do governador;0;0
+flat/ aparthotel;rio de janeiro;galeao;0;0
+flat/ aparthotel;rio de janeiro;gamboa;0;0
+flat/ aparthotel;rio de janeiro;gardenia azul;0;0
+flat/ aparthotel;rio de janeiro;gavea;0;0
+flat/ aparthotel;rio de janeiro;gloria;0;0
+flat/ aparthotel;rio de janeiro;grajau;0;0
+flat/ aparthotel;rio de janeiro;grumari;6808;2
+flat/ aparthotel;rio de janeiro;guadalupe;0;0
+flat/ aparthotel;rio de janeiro;guarabu;0;0
+flat/ aparthotel;rio de janeiro;guaratiba;0;0
+flat/ aparthotel;rio de janeiro;higienopolis;0;0
+flat/ aparthotel;rio de janeiro;honorio gurgel;0;0
+flat/ aparthotel;rio de janeiro;humaita;0;0
+flat/ aparthotel;rio de janeiro;ilha do governador;14012;4
+flat/ aparthotel;rio de janeiro;indeterminado;0;0
+flat/ aparthotel;rio de janeiro;inhauma;0;0
+flat/ aparthotel;rio de janeiro;inhoaiba;0;0
+flat/ aparthotel;rio de janeiro;ipanema;0;0
+flat/ aparthotel;rio de janeiro;iraja;0;0
+flat/ aparthotel;rio de janeiro;itacolomi;0;0
+flat/ aparthotel;rio de janeiro;itaguai;0;0
+flat/ aparthotel;rio de janeiro;itanhanga;0;0
+flat/ aparthotel;rio de janeiro;izadora;0;0
+flat/ aparthotel;rio de janeiro;jabour;0;0
+flat/ aparthotel;rio de janeiro;jacare;0;0
+flat/ aparthotel;rio de janeiro;jacarepagua;0;0
+flat/ aparthotel;rio de janeiro;jacarepagua   freguesia;10414;9
+flat/ aparthotel;rio de janeiro;jacarepagua / freguesia;0;0
+flat/ aparthotel;rio de janeiro;jacarepagua freguesia;0;0
+flat/ aparthotel;rio de janeiro;jd america;0;0
+flat/ aparthotel;rio de janeiro;jd botanico;0;0
+flat/ aparthotel;rio de janeiro;jd carioca;0;0
+flat/ aparthotel;rio de janeiro;jd guanabara;0;0
+flat/ aparthotel;rio de janeiro;jd laranjeiras;0;0
+flat/ aparthotel;rio de janeiro;jd novo horizonte;0;0
+flat/ aparthotel;rio de janeiro;jd palmares;0;0
+flat/ aparthotel;rio de janeiro;jd sulacap;0;0
+flat/ aparthotel;rio de janeiro;jdcarioca;0;0
+flat/ aparthotel;rio de janeiro;joa;0;0
+flat/ aparthotel;rio de janeiro;lagoa;0;0
+flat/ aparthotel;rio de janeiro;lapa;12770;1
+flat/ aparthotel;rio de janeiro;laranjeiras;0;0
+flat/ aparthotel;rio de janeiro;largo do machado;0;0
+flat/ aparthotel;rio de janeiro;leblon;0;0
+flat/ aparthotel;rio de janeiro;leme;13595;3
+flat/ aparthotel;rio de janeiro;lins;0;0
+flat/ aparthotel;rio de janeiro;lins de vasconcelos;3818;1
+flat/ aparthotel;rio de janeiro;lot madean;3818;0
+flat/ aparthotel;rio de janeiro;madureira;0;0
+flat/ aparthotel;rio de janeiro;magalhaes bastos;0;0
+flat/ aparthotel;rio de janeiro;mangueira;0;0
+flat/ aparthotel;rio de janeiro;manguinhos;0;0
+flat/ aparthotel;rio de janeiro;maracana;0;0
+flat/ aparthotel;rio de janeiro;mare;0;0
+flat/ aparthotel;rio de janeiro;marechal hermes;0;0
+flat/ aparthotel;rio de janeiro;maria da graca;0;0
+flat/ aparthotel;rio de janeiro;meier;4600;1
+flat/ aparthotel;rio de janeiro;monero;4600;1
+flat/ aparthotel;rio de janeiro;muda;0;0
+flat/ aparthotel;rio de janeiro;n s das gracas;0;0
+flat/ aparthotel;rio de janeiro;oiticica ii;0;0
+flat/ aparthotel;rio de janeiro;olaria;0;0
+flat/ aparthotel;rio de janeiro;oswaldo cruz;0;0
+flat/ aparthotel;rio de janeiro;paciencia;0;0
+flat/ aparthotel;rio de janeiro;padre miguel;0;0
+flat/ aparthotel;rio de janeiro;paqueta;0;0
+flat/ aparthotel;rio de janeiro;parada de lucas;0;0
+flat/ aparthotel;rio de janeiro;pavuna;0;0
+flat/ aparthotel;rio de janeiro;pc da bandeira;9551;1
+flat/ aparthotel;rio de janeiro;pc seca;0;0
+flat/ aparthotel;rio de janeiro;pechincha;0;0
+flat/ aparthotel;rio de janeiro;pedra de guaratiba;0;0
+flat/ aparthotel;rio de janeiro;penha;0;0
+flat/ aparthotel;rio de janeiro;penha circular;0;0
+flat/ aparthotel;rio de janeiro;piedade;0;0
+flat/ aparthotel;rio de janeiro;pilares;0;0
+flat/ aparthotel;rio de janeiro;pitangueiras;0;0
+flat/ aparthotel;
